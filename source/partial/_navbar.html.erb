@@ -1,0 +1,26 @@
+<nav class="navbar navbar-default navbar-fixed-top navbar-wagon" role="navigation" id="nav">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <%= link_to(image_tag("logonav.png", class:"logomayano", width: 153, alt:"logomayano"), '/') %>
+      <%= link_to(image_tag("logonav2.png", class:"logomayano", width: 153, alt:"logomayano"), '/') %>
+    </div>
+    <div class="collapse navbar-collapse paddingnav">
+      <ul class="nav navbar-nav navbar-right">
+        <li><%= link_to "Accueil", '/' %></li>
+        <li><%= link_to "L'Association", '/' %></li>
+        <li><%= link_to "Nos Actions", '/' %></li>
+        <li><%= link_to "Nos Projets", '/' %></li>
+        <li><%= link_to "Nos Up", '/' %></li>
+        <li id="paddingright"><%= link_to "Nos Références", '#ancre3' %></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+

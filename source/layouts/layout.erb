@@ -9,12 +9,17 @@
     <title><%= current_page.data.title || "Middleman" %></title>
 
     <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+        <!-- Using fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
 
     <%= stylesheet_link_tag :site %>
     <%= javascript_include_tag :all %>
   </head>
 
-  <body class="<%= page_classes %>">
+  <body>
+    <%= partial "partial/navbar" %>
     <%= yield %>
   </body>
 </html>

@@ -1,11 +1,16 @@
 @charset "utf-8";
 @import "normalize";
 
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+/*
+// Import our navbar.scss after bootstrap*/
+@import "navbar";
+
 body {
-  background: #ECC561;
-  text-align: center;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-family: 'Montserrat';
+  color: #433323;
 }
 
 .logo img {
@@ -64,4 +69,361 @@ h1 {
   to {
     -webkit-transform: scale(1);
   }
+}
+
+
+* {
+  font-family: 'Montserrat';
+  color: #433323;
+  // font-size: 16px;
+}
+
+.align {
+  padding-right: 3px;
+}
+
+
+
+.btn {
+  color: white;
+  background-color: transparent;
+  border-color: #f96634;
+  border-radius: 50px;
+  border-width: 1px;
+  padding: 20px;
+}
+
+.btncrowd {
+  color: white;
+  background-color: #f96634;
+  border-color: #f96634;
+  border-radius: 50px;
+  border-width: 1px;
+  padding: 10px;
+}
+
+.btncrowd:hover {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+.btncrowd:focus {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+
+
+.btn-warning:hover {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+.btn-warning {
+  background-color: transparent;
+  border-color: white;
+}
+
+.btn-warning:focus {
+  background-color: transparent;
+  border-color: #f96634;
+}
+
+
+#bottom {
+  padding-bottom: 0em;
+
+}
+
+
+.verticalalign {
+  vertical-align: middle;
+}
+
+
+.noborder {
+  border: transparent;
+}
+
+// background
+
+.orange-back {
+  background-color: #f96634;
+}
+
+.centrage {
+  padding-top: 12px;
+}
+
+.centrage {
+  padding-top: 12px;
+  margin-left: 10px;
+}
+
+.groscentrage {
+  padding-top: 25px;
+}
+
+
+.wrapper {
+  background-image: url(/images/backgfaop12.png);
+  height: 800px;
+  background-size: cover;
+  padding-top: 86px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.wrapper-11 {
+  background-image: url(/images/backgfaop12.png);
+  height: 450px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.wrapper-6 {
+  background-image: url(/images/backgfaop11.png);
+  height: 800px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.3;
+}
+
+.wrapper-2 {
+  background-image: url(/images/photo_ca.jpg);
+  height: 500px;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  // background-repeat: repeat;
+  // background-attachment: fixed;
+}
+
+.wrapper-3 {
+  background-image: url(/images/photocs.png);
+  height: 500px;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-4 {
+  background-image: url(/images/backafrique7.svg);
+  background-color: #DEF3F2;
+  height: 700px;
+  background-size: cover;
+  padding-top: 20px;
+  text-align: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  // color: white;
+  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-41 {
+  background-image: url(/images/backafrique7.svg);
+  background-color: #DEF3F2;
+  height: 300px;
+  background-size: cover;
+  padding-top: 20px;
+  text-align: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  // color: white;
+  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-5 {
+  background-image: url(/images/backaction.jpg);
+  height: 500px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  // color: white;
+  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-51 {
+  background-image: url(/images/backaction.jpg);
+  height: 300px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  // color: white;
+  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+.wrapper-7 {
+  background-image: url(/images/backfille.jpg);
+  height: 700px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.8;
+}
+
+
+.quote {
+  font-family: Lato;
+  font-style: italic;
+}
+
+.separation {
+
+    border-left: 1px solid black;
+    padding-left: 5px;
+    margin-left: 50px;
+
+}
+
+
+
+.bigpadding {
+  padding-top: 10em;
+
+}
+
+
+.light-grey-back {
+  background-color: #F9FAF5;
+  height: 200px;
+  line-height: 200px;
+
+}
+
+
+.grey-back {
+  background-color: #E1DAD5;
+  // height: 200px;
+  opacity: 1;
+
+}
+
+#nomargin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #f76434;
+}
+
+.borderless {
+  border: none;
+}
+
+/* BASIC SIMON's TEMPLATE */
+
+.vertical-spacer {
+  height: 8em;
+}
+
+.small-vertical-spacer {
+  height: 4em;
+}
+
+.verysmall-vertical-spacer {
+  height: 3em;
+}
+
+
+
+/* FOOTER */
+
+.footer {
+  background-color: #190d07;
+  color: #aaaaaa;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  // border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+.separator {
+  width: 20%;
+  margin: 40px auto;
+}
+
+.bigseparator {
+  width: 60%;
+  margin: 80px auto;
+}
+
+.vertical {
+  line-height: 200px;
+}
+
+.france {
+  padding-top: 10px;
+  text-align: center;
+}
+
+
+// Background colors
+
+.grey {
+  background-color: #F0F1F5;
+}
+
+.cream {
+  background-color: #FAF9F5;
+}
+
+#actionpad {
+  height: 20em;
+}
+
+
+#white {
+  color: white;
+}
+
+.carre {
+  list-style-type: square;
+}
+
+a:hover {
+  color: red;
+}
+
+li {
+list-style-type: none;
+}
+
+.text-justified {
+  text-align: justify;
+}
+
+.footer2 {
+  background-color: #2b160d;
+  color: #aaaaaa;
+  padding-top: 3em;
+  padding-bottom: 4em;
+  border-top: solid 2px black;
+  border-bottom: solid 1px black;
 }
