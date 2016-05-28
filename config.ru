@@ -12,8 +12,6 @@ app = ::Middleman::Application.new
 
 run ::Middleman::Rack.new(app).to_app
 
-
-
 # Modified version of TryStatic, from rack-contrib
 # https://github.com/rack/rack-contrib/blob/master/lib/rack/contrib/try_static.rb
 
