@@ -16,9 +16,3 @@ gem 'middleman-compass', '>= 4.0.0'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
-
-# gem 'middleman-deploy', '~> 1.0'
-
-gem 'rack-contrib', '~> 1.4'
-
-gem "puma"
