@@ -16,3 +16,10 @@ gem 'middleman-compass', '>= 4.0.0'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
+
+# front-end libraries
+gem 'jquery-middleman'
+gem 'font-awesome-sass', '~> 4.2.0'
+
+# deploy
+gem 'middleman-deploy', '~> 1.0'
