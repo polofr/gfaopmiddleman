@@ -21,5 +21,4 @@ gem 'sass-rails', '>= 3.2'
 gem 'jquery-middleman'
 gem 'font-awesome-sass', '~> 4.2.0'
 
-# deploy
-gem 'middleman-deploy', '~> 1.0'
+gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
