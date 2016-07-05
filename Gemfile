@@ -22,3 +22,10 @@ gem 'jquery-middleman'
 gem 'font-awesome-sass', '~> 4.2.0'
 
 gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
+
+gem 'middleman-minify-html'
+
+gem 'puma'
+gem 'rack-contrib'
+gem 'rack-ssl'
+gem 'rack-cache'

@@ -1,5 +1,7 @@
+require 'bundler/setup'
+
 namespace :assets do
-task :precompile do
-    sh "middleman build"
-end
+  task :precompile do
+    sh 'middleman build'
+  end
 end
