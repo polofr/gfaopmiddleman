@@ -17,7 +17,6 @@ configure :build do
     html.remove_http_protocol = false
   end
 
-  activate :blog_ui
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
