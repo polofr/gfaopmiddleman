@@ -31,3 +31,5 @@ gem 'puma'
 gem 'rack-contrib'
 gem 'rack-ssl'
 gem 'rack-cache'
+
+gem 'middleman-blog-ui'
