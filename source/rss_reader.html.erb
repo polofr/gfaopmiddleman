@@ -5,6 +5,9 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% @block = doc.xpath("//description") %>
+  <% @block.count %>
+  
 </script>
 
 <div class="vertical-spacer"></div>
@@ -12,7 +15,7 @@
 <div class="container">
   <div class="row text-center">
     <div class="col-xs-6 col-xs-offset-3">
-      <h1> <% do puts doc.xpath('item/link')[0] end %> </h1>
+      <h1> <% puts doc.xpath('item/link')[0] %> </h1>
     </div>
   </div>
 </div>
