@@ -5,7 +5,7 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
-  <% puts doc.text %>
+  <%= doc.text %>
     
   <% array = ['asd', 'asd', 'asd'] %>
   <% @print = array.map { |i| "Random text #{i}" } %>
