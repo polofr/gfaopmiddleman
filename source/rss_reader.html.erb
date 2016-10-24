@@ -7,6 +7,12 @@
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
   <% puts doc.text %>
     
+  <% array = ['asd', 'asd', 'asd'] %>
+  <% @print = array.map { |i| "Random text #{i}" } %>
+  <% @print.each do |val| %>
+  <%= val %>
+  <% end %>
+  
 </script>
 
 <div class="vertical-spacer"></div>
