@@ -31,3 +31,4 @@ gem 'rack-contrib'
 gem 'rack-ssl'
 gem 'rack-cache'
 
+gem 'nokogiri'
