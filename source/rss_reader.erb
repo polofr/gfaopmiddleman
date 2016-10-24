@@ -1,8 +1,20 @@
-<% #!/usr/bin/env ruby %>
+<script>
+  <% #!/usr/bin/env ruby %>
 
-<% require 'nokogiri' %>
-<% require 'open-uri' %>
+  <% require 'nokogiri' %>
+  <% require 'open-uri' %>
 
-<% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% end %>
+</script>
 
-<% puts doc.xpath('item/link')[0] %>
+<div class="vertical-spacer"></div>
+
+<div class="container">
+  <div class="row text-center">
+    <div class="col-xs-6 col-xs-offset-3">
+      <h1> <% puts doc.xpath('item/link')[0] %> </h1>
+    </div>
+  </div>
+</div>
+  
