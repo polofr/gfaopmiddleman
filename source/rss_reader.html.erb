@@ -5,7 +5,8 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
-  <%= doc.xpath('item/link').text %>
+
+  <%= @doc.at_xpath("item link").text %> 
   
 </script>
 
