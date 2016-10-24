@@ -6,5 +6,3 @@
 <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
 
 <% puts doc.xpath('item/link')[0] %>
-
-<% end %>
