@@ -6,12 +6,6 @@
 
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
   <%= doc.text %>
-    
-  <% array = ['asd', 'asd', 'asd'] %>
-  <% @print = array.map { |i| "Random text #{i}" } %>
-  <% @print.each do |val| %>
-  <%= val %>
-  <% end %>
   
 </script>
 
@@ -20,7 +14,7 @@
 <div class="container">
   <div class="row text-center">
     <div class="col-xs-6 col-xs-offset-3">
-      <h1> <% puts doc.xpath('item/link')[0] %> </h1>
+      <h1> <%= doc.xpath('item/link')[0] %> </h1>
     </div>
   </div>
 </div>
