@@ -4,8 +4,9 @@
   <% require 'nokogiri' %>
   <% require 'open-uri' %>
 
-  <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
   <% puts doc.text %>
+  <% puts "hello" ù>
     
 </script>
 
