@@ -5,9 +5,8 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
-  
-  <% puts doc.xpath('item/link')[0].text.strip %>
-  
+  <% puts description[0].to_s %>
+    
 </script>
 
 <div class="vertical-spacer"></div>
