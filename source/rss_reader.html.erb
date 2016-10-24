@@ -5,8 +5,8 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
-  <% @block = doc.xpath("//description") %>
-  <% @block.count %>
+  
+  <% puts puts doc.xpath('item/link')[0].text.strip %>
   
 </script>
 
