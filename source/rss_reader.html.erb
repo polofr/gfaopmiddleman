@@ -6,7 +6,9 @@
 
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
 
-  <%= doc.xpath('//item/link').first.text %> 
+  <% url = doc.xpath('//item/link').first.text %> 
+  <%= url %>
+  <%= url.tr('http://gfaopcorinnecd.tumblr.com/post/', '') %>
   
 </script>
 
