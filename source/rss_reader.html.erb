@@ -5,7 +5,7 @@
   <% require 'open-uri' %>
 
   <% doc = Nokogiri::HTML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
-  <% doc.at('description').text %>
+  <% puts doc.at('description').text %>
     
 </script>
 
