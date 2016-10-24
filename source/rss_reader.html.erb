@@ -6,7 +6,7 @@
 
   <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
 
-  <%= doc.at_xpath("item link") %> 
+  <%= doc.at_xpath("link") %> 
   
 </script>
 
@@ -15,7 +15,7 @@
 <div class="container">
   <div class="row text-center">
     <div class="col-xs-6 col-xs-offset-3">
-      <h1> <%= doc.xpath('item/link')[0] %> </h1>
+      <h1></h1>
     </div>
   </div>
 </div>
