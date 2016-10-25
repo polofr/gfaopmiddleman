@@ -1,4 +1,10 @@
-
+<script>
+  <% #!/usr/bin/env ruby %>
+  <% require 'nokogiri' %>
+  <% require 'open-uri' %>
+  <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% url = doc.xpath('//item/link').first.text %> 
+</script>
 
 <div class="small-vertical-spacer"></div>
 
@@ -86,12 +92,11 @@
   <div class="row">
     <div class="col-xs-12 col-xs-6 col-md-offset-3">
       <div class="tumblr-post"
-        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/152111760581"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url.tr('http://gfaopcorinnecd.tumblr.com/post/', '') %>"
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
-	      <a href="gfaopcorinnecd.tumblr.com/post/152111760581">
-	      gfaopcorinnecd.tumblr.com/post/152111760581</a>
+	      <a href="<%= url %>">
+	     <%= url %></a>
       </div>
-
       <script async src="https://assets.tumblr.com/post.js"></script>
       
     </div>
