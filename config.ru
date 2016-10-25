@@ -10,10 +10,10 @@ require 'rack/cache'
 #  use Rack::SSL
 #end
 
-require 'rack/rewrite'
-use Rack::Rewrite do
-  r301 %r{.*}, 'https://$&', :scheme => 'http'
-end
+#require 'rack/rewrite'
+#use Rack::Rewrite do
+#  r301 %r{.*}, 'https://$&', :scheme => 'http'
+#end
 
 use Rack::Cache,
     :verbose     => true,
