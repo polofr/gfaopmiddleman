@@ -73,7 +73,17 @@ $profile-border-width: 2px;
   padding-bottom: $vertical-padding;
 }
 
-.navbar-wagon .navbar-nav .navbar-collapse {
+.navbar-collapse .navbar-wagon .navbar-nav > li > a {
+  line-height: $height-wagon;
+}
+
+.navbar-collapse .navbar-wagon .navbar-nav > li > a:hover {
+  line-height: $height-wagon;
+}
+
+.navbar-collapse .navbar-wagon .navbar-nav>.open>a,
+.navbar-collapse .navbar-wagon .navbar-nav>.open>a:hover,
+.navbar-collapse .navbar-wagon .navbar-nav>.open>a:focus {
   line-height: $height-wagon;
 }
 
