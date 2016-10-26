@@ -1,8 +1,7 @@
 // Set your navbar general settings
 $color: black;
 $bg: #FFFEFC;
-$height: 75px;
-$height-wagon: 40px;
+$height: 40px;
 $vertical-padding: 0px;
 $horizontal-padding: 0px;
 $border-bottom-width: 0;
@@ -71,24 +70,6 @@ $profile-border-width: 2px;
   color: $color;
   padding-top: $vertical-padding;
   padding-bottom: $vertical-padding;
-}
-
-.navbar-collapse .navbar-wagon .navbar-nav {
-  line-height: 525px;
-}
-
-.navbar-collapse .navbar-wagon .navbar-nav > li > a {
-  line-height: $height-wagon;
-}
-
-.navbar-collapse .navbar-wagon .navbar-nav > li > a:hover {
-  line-height: $height-wagon;
-}
-
-.navbar-collapse .navbar-wagon .navbar-nav>.open>a,
-.navbar-collapse .navbar-wagon .navbar-nav>.open>a:hover,
-.navbar-collapse .navbar-wagon .navbar-nav>.open>a:focus {
-  line-height: $height-wagon;
 }
 
 $btn-margin-top: ($height + 2 * $vertical-padding - $btn-height - $btn-top-border-width - $btn-bottom-border-width) / 2;
