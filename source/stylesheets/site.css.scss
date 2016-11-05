@@ -159,26 +159,32 @@ body {
 
 
 .wrapper {
-  margin:0;
-  padding:0;
-  background-image: url(/images/backgfaop12.png) no-repeat center fixed; 
+  //margin:0;
+  //padding:0;
+  background-image: url(/images/backgfaop12.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
   height: 800px;
-  //padding-top: 86px;
+  padding-top: 86px;
   text-align: center;
   color: white;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .wrapper-11 {
-  margin:0;
-  padding:0;
-  background-image: url(/images/backgfaop12.png) no-repeat center fixed; 
+  //margin:0;
+  //padding:0;
+  background-image: url(/images/backgfaop12.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
   height: 450px;
-  //padding-top: 150px;
+  padding-top: 150px;
   text-align: center;
   color: white;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
