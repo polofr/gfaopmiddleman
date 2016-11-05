@@ -5,15 +5,21 @@ require 'rack/deflater'
 require 'rack/cache'
 
 # Forces SSL on all requests
-unless ENV['RACK_ENV'] == 'development'
-  require 'rack/ssl'
-  use Rack::SSL
-end
+# unless ENV['RACK_ENV'] == 'development'
+#  require 'rack/ssl'
+#  use Rack::SSL
+#end
+
+#require 'rack/rewrite'
+#use Rack::Rewrite do
+#  r301 %r{.*}, 'https://$&', :scheme => 'http'
+#end
 
 use Rack::Cache,
     :verbose     => true,
     :metastore   => 'file:/var/cache/rack/meta',
-    :entitystore => 'file:/var/cache/rack/body'
+    :entitystore => 'file:/var/cache/rack/body',
+    :allow_reload => true
 
 # Enables compression of http responses, used in conjunction with `activate :gzip` in config.rb
 use Rack::Deflater

@@ -30,4 +30,3 @@ gem 'puma'
 gem 'rack-contrib'
 gem 'rack-ssl'
 gem 'rack-cache'
-
