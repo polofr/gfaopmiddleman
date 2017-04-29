@@ -2,6 +2,6 @@ require 'bundler/setup'
 
 namespace :assets do
   task :precompile do
-    sh 'middleman build --trace --verbose'
+    sh 'middleman build --verbose'
   end
 end
