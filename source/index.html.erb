@@ -2,7 +2,7 @@
   <% #!/usr/bin/env ruby %>
   <% require 'nokogiri' %>
   <% require 'open-uri' %>
-  <% doc = Nokogiri::XML(open("http://gfaopcorinnecd.tumblr.com/rss")) %>
+  <% doc = Nokogiri::XML(open("https://gfaopcorinnecd.tumblr.com/rss#_=_")) %>
   <% url1 = doc.xpath('//item/link').at(0).text %> 
   <% url2 = doc.xpath('//item/link').at(1).text %> 
 </script>
@@ -102,13 +102,13 @@
   <div class="row">
     <div class="col-xs-12 col-xs-6 col-md-offset-3">
       <div class="tumblr-post"
-        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url1.tr('http://gfaopcorinnecd.tumblr.com/post/', '') %>"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url1.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
 	      <a href="<%= url1 %>">
 	     <%= url1 %></a>
       </div>
       <div class="tumblr-post"
-        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url2.tr('http://gfaopcorinnecd.tumblr.com/post/', '') %>"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url2.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
 	      <a href="<%= url2 %>">
 	     <%= url2 %></a>
@@ -123,7 +123,7 @@
       <H3>
         Rendez-vous sur notre Blog
       </H3>
-      <a class="btn btncrowd " href="http://gfaopcorinnecd.tumblr.com/" role="button">Tumblr</a>
+      <a class="btn btncrowd " href="https://gfaopcorinnecd.tumblr.com" role="button">Tumblr</a>
     </div>
   </div>
   <div class="verysmall-vertical-spacer"></div>
