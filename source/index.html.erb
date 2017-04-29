@@ -8,6 +8,7 @@
 </script>
 
 <div class="small-vertical-spacer"></div>
+<!-- TODO(pcarton) is this necessary? -->
 
 <div class="wrapper hidden-xs">
   <div class="vertical-spacer"></div>
@@ -37,50 +38,40 @@
   <div class="small-vertical-spacer"></div>
 </div>
 
-
 <div class="grey-back">
   <div class="container">
 
-    <div class="row text-center">
-      <h2>NOS ACTIONS</h2>
-    </div>
-
+    <div class="row text-center"><h2>NOS ACTIONS</h2></div>
     <br>
     <br>
-
     <div class="row text-center">
       <div class="col-sm-3">
-        <%= image_tag "formation.png", width: 60, alt:"formation" %>
+        <%= image_tag "formation.png", width: 60, alt:"la formation" %>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "recherche.png", width: 50, alt:"formation" %>
+        <%= image_tag "recherche.png", width: 50, alt:"la recherche" %>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "envoi.png", width: 50, alt:"formation" %>
+        <%= image_tag "envoi.png", width: 50, alt:"l'envoi de médicaments" %>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "maison2x.png", width: 50, alt:"formation" %>
+        <%= image_tag "maison2x.png", width: 50, alt:"l'accompagnement des familles" %>
       </div>
     </div>
 
     <div class="row text-center" style="padding-top: 5px;">
-
       <div class="col-sm-3">
         <p>Formation</p>
       </div>
-
       <div class="col-sm-3">
         <p>Recherche Clinique</p>
       </div>
-
       <div class="col-sm-3">
         <p>Envoi de Médicaments</p>
       </div>
-
       <div class="col-sm-3">
         <p>Accompagnement</p>
       </div>
-
     </div>
 
     <div class="small-vertical-spacer"></div>
@@ -104,7 +95,7 @@
 
 <div class="container">
   <div class="row text-center">
-    <h2 style="color: #f96634;">ACTUALITES :</h2>
+    <h2 style="color: #f96634;">ACTUALITES</h2>
     <br>
   </div>
   
@@ -130,7 +121,7 @@
   <div class="row">
     <div class="col-xs-12 text-center">
       <H3>
-        Rendez-vous sur notre Blog :
+        Rendez-vous sur notre Blog
       </H3>
       <a class="btn btncrowd " href="http://gfaopcorinnecd.tumblr.com/" role="button">Tumblr</a>
     </div>
@@ -138,7 +129,7 @@
   <div class="verysmall-vertical-spacer"></div>
 </div>
 
-
+<!-- TODO(pcarton) what is this wrapper 11 class? -->
 <div class="wrapper-11">
 
   <div class="container">
@@ -155,68 +146,37 @@
 
 <div class="verysmall-vertical-spacer"></div>
 
-<!--
-<div class="container">
-  <div class="row text-center">
-    <h3 style="color:#f96634;">Recevez notre Newsletter</h3>
-  </div>
-
-  <div class="row text-center">
-    <div class="col-xs-6 col-xs-offset-3">
-
-      Begin MailChimp Signup Form
-      <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-      <div id="mc_embed_signup">
-      <form action="http://www.us3.list-manage.com/subscribe/post?u=01633dd7ec211201f02d77db8&amp;id=246024d3a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-      </div>
-
-      <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Tapez votre Mail" required>
-      <input type="submit" value="Envoyer" name="subscribe" id="mc-embedded-subscribe" class="btncrowd btn">
-
-      </form>
-      </div>
-    </div>
-  </div>
-
-  <div class="small-vertical-spacer"></div>
-</div>
-
- -->
-
 <div class="container">
 
   <div class="row text-center">
     <div class="col-md-3" style="padding-top: 10px;">
-      <h4 class="text-center" style="color: #f96634;">DANS LES MEDIAS :</h4>
-      <%= image_tag "logolacroix.png", class:"borderless img-thumbnail", width: 120, alt:"sanofi" %>
-      <%= image_tag "logorfi.png", class:"borderless img-thumbnail", width: 50, alt:"sanofi" %>
-      <%= image_tag "logoja.jpg", class:"borderless img-thumbnail", width: 130, alt:"sanofi" %>
-      <br>
-      <h6><%= link_to "Presse", 'presse.html', style:"color: #f96634;"%></h6>
+      <h4 class="text-center"><%= link_to "DANS LES MEDIAS", 'presse.html', style:"color: #f96634;"%></h4>
+      <%= image_tag "logolacroix.png", class:"borderless img-thumbnail", width: 120, alt:"logo la croix" %>
+      <%= image_tag "logorfi.png", class:"borderless img-thumbnail", width: 50, alt:"logo rfi" %>
+      <%= image_tag "logoja.jpg", class:"borderless img-thumbnail", width: 130, alt:"logo jeune afrique" %>
     </div>
 
     <div class="col-md-6">
-      <h4 class="text-center" style="color: #f96634;">NOS PARTENAIRES :</h4>
+      <h4 class="text-center"><%= link_to "NOS PARTENAIRES", 'partenaire.html', style:"color: #f96634;"%></h4>
       <a href="http://www.gustaveroussy.fr/">
-        <%= image_tag "Logo-gustave-roussy.jpg", class:"borderless img-thumbnail", width: 100, alt:"gustave" %>
+        <%= image_tag "Logo-gustave-roussy.jpg", class:"borderless img-thumbnail", width: 100, alt:"campus gustave roussy" %>
       </a>
       <a href="http://www.total.com/fr">
         <%= image_tag "logototal.jpg", class:"borderless round img-thumbnail", width: 130, alt:"total" %>
       </a>
       <a href="http://fondation-sanofi-espoir.com/">
-        <%= image_tag "logo_sanofi.jpg", class:"borderless img-thumbnail", width: 130, alt:"sanofi" %>
+        <%= image_tag "logo_sanofi.jpg", class:"borderless img-thumbnail", width: 130, alt:"sanofi espoir fondation" %>
       </a>
-      <%= image_tag "logolalla.jpg", class:"borderless round img-thumbnail", width: 170, alt:"sanofi" %>
-      <h6><%= link_to "Tous nos Partenaires", 'partenaire.html', style:"color: #f96634;"%></h6>
+	  <a href="http://www.contrelecancer.ma/">
+		<%= image_tag "logolalla.jpg", class:"borderless round img-thumbnail", width: 170, alt:"fondation lalla salma" %>
+	  </a>
     </div>
 
     <div class="col-md-3">
-      <h4 class="text-center" style="color: #f96634;">NOS PUBLICATIONS :</h4>
+      <h4 class="text-center"><%= link_to "NOS PUBLICATIONS", 'publication.html', style:"color: #f96634;"%></h4>
       <%= image_tag "logoem.png", class:"borderless img-thumbnail", width: 60, alt:"sanofi" %>
       <%= image_tag "logojle.png", class:"borderless img-thumbnail", width: 120, alt:"sanofi" %>
       <%= image_tag "logolancet.png", class:"borderless img-thumbnail", width: 130, alt:"sanofi" %>
-      <h6><%= link_to "Publications", 'publication.html', style:"color: #f96634;"%></h6>
     </div>
 
   </div>

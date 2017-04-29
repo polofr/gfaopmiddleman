@@ -4,7 +4,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-/*
+/* TODO(pcarton) remove duplicates or unused
 // Import our navbar.scss after bootstrap*/
 @import "navbar";
 
@@ -325,13 +325,10 @@ body {
 
 }
 
-
-
 .bigpadding {
   padding-top: 10em;
 
 }
-
 
 .light-grey-back {
   background-color: #F9FAF5;
@@ -339,7 +336,6 @@ body {
   line-height: 200px;
 
 }
-
 
 .grey-back {
   background-color: #E1DAD5;
@@ -371,8 +367,6 @@ body {
 .verysmall-vertical-spacer {
   height: 2em;
 }
-
-
 
 /* FOOTER */
 
@@ -408,7 +402,6 @@ body {
   text-align: center;
 }
 
-
 // Background colors
 
 .grey {
@@ -423,7 +416,6 @@ body {
   height: 20em;
 }
 
-
 #white {
   color: white;
 }
@@ -437,7 +429,7 @@ a:hover {
 }
 
 li {
-list-style-type: none;
+  list-style-type: none;
 }
 
 .text-justified {
@@ -452,7 +444,6 @@ list-style-type: none;
   border-top: solid 2px black;
   border-bottom: solid 1px black;
 }
-
 
 .titlewrapper {
   color: #433323;
