@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-		<!-- TODO(pcarton) remove these useless span? and translate toogle navigation -->
+        <!-- TODO(pcarton) remove these useless span? and translate toogle navigation -->
       </button>
       <%= link_to(image_tag("logonav.png", class:"logomayano", width: 83, alt:"logo gfaop"), '/') %>
       <%= link_to(image_tag("logonav2.png", class:"logomayano", width: 83, alt:"groupe franco-africain d'oncologie pédiatrique"), '/') %>
@@ -29,18 +29,17 @@
 
 <!-- Dropdown appearing on mobile only -->
 <div class="navbar-wagon-item hidden-md hidden-lg">
-	<div class="dropdown">
-	  <i class="fa fa-bars fa-2x dropdown-toggle" data-toggle="dropdown"></i>
-	  <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
-		<li><%= link_to "Accueil", '/' %></li>
-		<li><%= link_to "L'Association", 'association.html' %></li>
-		<li><%= link_to "Nos Actions", 'action.html' %></li>
-		<li><%= link_to "Nos Projets", 'projet.html' %></li>
-		<li><%= link_to "Nos Up", 'up.html' %></li>
-		<li><%= link_to "FormationDU", 'formationup.html' %></li>
-		<li class="orange-back"><a class="white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
-	  </ul>
-	</div>
+  <div class="dropdown">
+    <i class="fa fa-bars fa-2x dropdown-toggle" data-toggle="dropdown"></i>
+    <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+    <li><%= link_to "Accueil", '/' %></li>
+    <li><%= link_to "L'Association", 'association.html' %></li>
+    <li><%= link_to "Nos Actions", 'action.html' %></li>
+    <li><%= link_to "Nos Projets", 'projet.html' %></li>
+    <li><%= link_to "Nos Up", 'up.html' %></li>
+    <li><%= link_to "FormationDU", 'formationup.html' %></li>
+    <li class="orange-back"><a class="white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
+    </ul>
+  </div>
 </div>
 </div><!-- TODO(pcarton) is this necessary to differentiate mobile and desktop? why is this div here? -->
-
