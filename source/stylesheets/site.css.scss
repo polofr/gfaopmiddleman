@@ -1,12 +1,6 @@
 @charset "utf-8";
-@import "normalize";
 
-@import "bootstrap-sprockets";
-@import "bootstrap";
-
-/* TODO(pcarton) remove duplicates or unused
-// Import our navbar.scss after bootstrap*/
-@import "navbar";
+/* TODO(pcarton) remove duplicates or unused */
 
 body {
   font-family: 'Montserrat';

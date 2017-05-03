@@ -1,21 +1,21 @@
 <div class="footer2">
   <div class="container">
     <div class="row text-center">
-      <%= link_to "Presse", 'presse.html', class:"white" %>
-        I
-      <%= link_to "Nos Partenaires", 'partenaire.html', class:"white" %>
-        I
-      <%= link_to "Nos Publications", 'publication.html', class:"white" %>
-        I
-      <%= link_to "Nos Newsletters", 'newsletter.html', class:"white" %>
-    </div>
-    <div class="row text-center">
-      <p class="white" style="font-size: 17px;">contact@gfaop.org | +33(0)1 42 11 65 60</p>
-      <p class="white" >GFAOP - Gustave Roussy - 114, rue Edouard Vaillant 94805 Villejuif Cedex - France</p>
+      <div class="col-12">
+        <%= link_to "Presse", 'presse.html', class:"white" %>
+          I
+        <%= link_to "Nos Partenaires", 'partenaire.html', class:"white" %>
+          I
+        <%= link_to "Nos Publications", 'publication.html', class:"white" %>
+          I
+        <%= link_to "Nos Newsletters", 'newsletter.html', class:"white" %>
+      </div>  
+      <div class="col-12 white" style="font-size: 17px;">contact@gfaop.org | +33(0)1 42 11 65 60</div>
+      <div class="col-12 white" >GFAOP - Gustave Roussy - 114, rue Edouard Vaillant 94805 Villejuif Cedex - France</div>
     </div>
 
     <div class="row text-center">
-      <%= image_tag "Logo-gustave-roussy.jpg", class:"borderless noborder img-thumbnail", width: 150, alt:"Cancer Campus Gustave Roussy" %>
+      <%= image_tag "Logo-gustave-roussy.jpg", class:"img-fluid mx-auto d-block rounded", width: 150, alt:"Cancer Campus Gustave Roussy" %>
     </div>
 
   </div>
@@ -23,9 +23,11 @@
 <div class="footer">
   <div class="container">
     <div class="row text-center">
-      <h5 class="white" style="font-family: Lato; font-style: italic;">Le GFAOP est une association loi de 1901 reconnue d’intérêt général. Vous pouvez nous aider en faisant un don, en devenant bénévole, en organisant des manifestations au profit du GFAOP, par du mécénat de compétence. Les dons ouvrent droit à une réduction d’impôts ( 66% pour un particulier, 60% pour une entreprise). Un reçu fiscal vous sera envoyé par courrier.
-      </h5>
-      <%= link_to "Mentions Légales", 'mentions.html', class:"white" %>
+      <div class="col-12">
+        <h5 class="white" style="font-family: Lato; font-style: italic;">Le GFAOP est une association loi de 1901 reconnue d’intérêt général. Vous pouvez nous aider en faisant un don, en devenant bénévole, en organisant des manifestations au profit du GFAOP, par du mécénat de compétence. Les dons ouvrent droit à une réduction d’impôts ( 66% pour un particulier, 60% pour une entreprise). Un reçu fiscal vous sera envoyé par courrier.
+        </h5>
+      </div>
+      <div class="col-12"><%= link_to "Mentions Légales", 'mentions.html', class:"white" %></div>
     </div>
   </div>
 </div>
