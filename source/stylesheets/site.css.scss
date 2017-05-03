@@ -121,10 +121,6 @@ body {
   border-color: #f96634;
 }
 
-#bottom {
-  padding-bottom: 0em;
-}
-
 .verticalalign {
   vertical-align: middle;
 }
@@ -354,15 +350,6 @@ body {
   margin: 80px auto;
 }
 
-.vertical {
-  line-height: 200px;
-}
-
-.france {
-  padding-top: 10px;
-  text-align: center;
-}
-
 // Background colors
 
 .grey {
@@ -373,31 +360,17 @@ body {
   background-color: #FAF9F5;
 }
 
-#actionpad {
-  height: 20em;
-}
-
 .white {
   color: white !important;
 }
 
-.carre {
-  list-style-type: square;
-}
-
-a:hover {
-  color: red;
-}
-
+/* TODO(pcarton) list-unstyled */
 li {
   list-style-type: none;
 }
 
 .footer2 {
   background-color: #2b160d;
-  color: #aaaaaa;
   padding-top: 3em;
-  padding-bottom: 4em;
-  border-top: solid 2px black;
-  border-bottom: solid 1px black;
+  padding-bottom: 0em;
 }
