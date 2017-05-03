@@ -72,14 +72,11 @@ body {
 * {
   font-family: 'Montserrat';
   color: #433323;
-  // font-size: 16px;
 }
 
 .align {
   padding-right: 3px;
 }
-
-
 
 .btn {
   color: white;
@@ -109,8 +106,6 @@ body {
   border-color: #f96634;
 }
 
-
-
 .btn-warning:hover {
   background-color: #f96634;
   border-color: #f96634;
@@ -126,17 +121,13 @@ body {
   border-color: #f96634;
 }
 
-
 #bottom {
   padding-bottom: 0em;
-
 }
-
 
 .verticalalign {
   vertical-align: middle;
 }
-
 
 .noborder {
   border: transparent;
@@ -150,17 +141,12 @@ body {
 
 .centrage {
   padding-top: 12px;
-}
-
-.centrage {
-  padding-top: 12px;
   margin-left: 10px;
 }
 
 .groscentrage {
   padding-top: 25px;
 }
-
 
 .wrapper {
   background-image: url(/images/backgfaop12.png);
@@ -169,7 +155,6 @@ body {
   background-attachment: fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
-//  height: 800px;
   padding-top: 20px;
   text-align: center;
   color: white;
@@ -183,7 +168,6 @@ body {
   background-attachment: fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
-//  height: 450px;
   padding-top: 20px;
   text-align: center;
   color: white;
@@ -192,7 +176,6 @@ body {
 
 .wrapper-6 {
   background-image: url(/images/backgfaop11.png);
-//  height: 800px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -204,7 +187,6 @@ body {
 
 .wrapper-2 {
   background-image: url(/images/photo_ca.jpg);
-//  height: 500px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -215,7 +197,6 @@ body {
 
 .wrapper-3 {
   background-image: url(/images/photocs.png);
-//  height: 500px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -227,20 +208,16 @@ body {
 .wrapper-4 {
   background-image: url(/images/backafrique7.svg);
   background-color: #DEF3F2;
-//  height: 700px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
   text-align: center;
   background-attachment: fixed;
-  // color: white;
-  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .wrapper-41 {
   background-image: url(/images/backafrique7.svg);
   background-color: #DEF3F2;
-//  height: 300px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -250,32 +227,24 @@ body {
 
 .wrapper-5 {
   background-image: url(/images/backaction.jpg);
-//  height: 500px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
   text-align: center;
   background-attachment: fixed;
-  // color: white;
-  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .wrapper-51 {
   background-image: url(/images/backaction.jpg);
-//  height: 300px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
   text-align: center;
   background-attachment: fixed;
-  // color: white;
-  // text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
-
 
 .wrapper-7 {
   background-image: url(/images/backfille.jpg);
-//  height: 700px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -288,7 +257,6 @@ body {
 
 .wrapper-8 {
   background-image: url(/images/don4.jpg);
-//  height: 700px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -301,7 +269,6 @@ body {
 
 .wrapper-9 {
   background-image: url(/images/photoDUCP.JPG);
-//  height: 700px;
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 20px;
@@ -318,30 +285,24 @@ body {
 }
 
 .separation {
-
-    border-left: 1px solid black;
-    padding-left: 5px;
-    margin-left: 50px;
-
+  border-left: 1px solid black;
+  padding-left: 5px;
+  margin-left: 50px;
 }
 
 .bigpadding {
   padding-top: 10em;
-
 }
 
 .light-grey-back {
   background-color: #F9FAF5;
   height: 200px;
   line-height: 200px;
-
 }
 
 .grey-back {
   background-color: #E1DAD5;
-  // height: 200px;
   opacity: 1;
-
 }
 
 #nomargin {
@@ -417,7 +378,7 @@ body {
 }
 
 .white {
-  color: white;
+  color: white !important;
 }
 
 .carre {
@@ -432,10 +393,6 @@ li {
   list-style-type: none;
 }
 
-.text-justified {
-  text-align: justify;
-}
-
 .footer2 {
   background-color: #2b160d;
   color: #aaaaaa;
@@ -443,13 +400,4 @@ li {
   padding-bottom: 4em;
   border-top: solid 2px black;
   border-bottom: solid 1px black;
-}
-
-.titlewrapper {
-  color: #433323;
-  font-size: 36px;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  line-height: 1.1;
-  opacity: 1;
 }
