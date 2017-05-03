@@ -1,24 +1,25 @@
-<!doctype html>
-<html>
-  <head>
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta charset="utf-8">
-    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="robots" content="index,follow" >
+	<meta name="description" content="<%= yield(:description) %>">
+	<meta name="keywords" content="<%= yield(:keywords) %>">
+	<title><%= yield(:title) %></title>
+	
+	<link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+	<link rel="icon" href="/images/logonav.png">
+	
+	<%= stylesheet_link_tag :site %>
+	<%= javascript_include_tag :all %>
+</head>
 
-    <!-- Use title if it's in the page YAML frontmatter TODO(pcarton) use metadata keywords and title depending on -->
-    <title><%= current_page.data.title || "GFAOP" %></title>
-
-    <link href='//fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
-    <link rel="icon" href="/images/logonav.png"/>
-
-    <%= stylesheet_link_tag :site %>
-    <%= javascript_include_tag :all %>
-  </head>
-
-  <body>
-    <%= partial "partial/navbar" %>
+<body>
+	<%= partial "partial/navbar" %>
     <%= yield %>
     <%= partial "partial/footer" %>
     <%= partial "partial/footer2" %>
@@ -36,5 +37,5 @@
     ga('create', 'UA-85039925-1', 'auto');
     ga('send', 'pageview');
     </script>
-  </body>
- </html>
+</body>
+</html>
