@@ -5,71 +5,12 @@
 body {
   font-family: 'Montserrat';
   color: #433323;
+  padding-top: 70px;
 }
-
-.logo img {
-  height: 18.75em;
-  margin-top: 6em;
-}
-
-.don {
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
-
-.doc {
-  margin: 3em 0;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.1em;
-  font-weight: 300;
-
-  a {
-    border: 1px solid white;
-    border-radius: 3px;
-    padding: 0.75em 0.7em;
-    color: white;
-    text-decoration: none;
-    transition: color 0.1s linear;
-    &:hover {
-      background: rgba(0,0,0,0.2);
-      color: white;
-      transition: all 0.15s linear;
-    }
-  }
-}
-
-.welcome {
-  -webkit-animation-name: welcome;
-  -webkit-animation-duration: .9s;
-}
-
-@-webkit-keyframes welcome {
-  from {
-    -webkit-transform: scale(0);
-    opacity: 0;
-  }
-  50% {
-   -webkit-transform: scale(0);
-   opacity: 0;
-  }
-  82.5% {
-    -webkit-transform: scale(1.03);
-    -webkit-animation-timing-function: ease-out;
-    opacity: 1;
-  }
-  to {
-    -webkit-transform: scale(1);
-  }
-}
-
 
 * {
   font-family: 'Montserrat';
   color: #433323;
-}
-
-.align {
-  padding-right: 3px;
 }
 
 .btn {
@@ -115,10 +56,6 @@ body {
   border-color: #f96634;
 }
 
-.verticalalign {
-  vertical-align: middle;
-}
-
 .noborder {
   border: transparent;
 }
@@ -127,15 +64,6 @@ body {
 
 .orange-back {
   background-color: #f96634;
-}
-
-.centrage {
-  padding-top: 12px;
-  margin-left: 10px;
-}
-
-.groscentrage {
-  padding-top: 25px;
 }
 
 .wrapper {
@@ -278,10 +206,6 @@ body {
   border-left: 1px solid black;
   padding-left: 5px;
   margin-left: 50px;
-}
-
-.bigpadding {
-  padding-top: 10em;
 }
 
 .light-grey-back {
