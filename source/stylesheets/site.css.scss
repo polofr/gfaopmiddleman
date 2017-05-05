@@ -238,10 +238,6 @@ body {
 .footer {
   background-color: #190d07;
   color: #aaaaaa;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  // border-top: solid 1px black;
-  border-bottom: solid 1px black;
 }
 
 .round {
@@ -250,15 +246,8 @@ body {
 
 .separator {
   width: 20%;
-  margin: 40px auto;
+  margin: 20px auto;
 }
-
-.bigseparator {
-  width: 60%;
-  margin: 80px auto;
-}
-
-// Background colors
 
 .grey {
   background-color: #F0F1F5;
@@ -272,13 +261,6 @@ body {
   color: white !important;
 }
 
-/* TODO(pcarton) list-unstyled */
-li {
-  list-style-type: none;
-}
-
 .footer2 {
   background-color: #2b160d;
-  padding-top: 3em;
-  padding-bottom: 0em;
 }
