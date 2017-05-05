@@ -7,7 +7,15 @@
   </a>
   <ul class="navbar-nav ml-auto">
     <li class="nav-item"><%= link_to "Accueil", '/', class:"nav-link white" %></li>
-    <li class="nav-item"><%= link_to "L'Association", 'association.html', class:"nav-link white" %></li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        L'Association
+      </a>
+      <div class="dropdown-menu" aria-labelledby="assocNavbarDropdownMenuLink">
+        <%= link_to "Présentation", 'association.html', class:"dropdown-item" %>
+        <%= link_to "Les Comptes", 'comptes.html', class:"dropdown-item" %>
+      </div>
+    </li>
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle white" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         L'Equipe
