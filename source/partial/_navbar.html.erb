@@ -19,7 +19,17 @@
         <%= link_to "Les Comités médicaux et paramédicaux", 'les-comites.html', class:"dropdown-item" %>
       </div>
     </li>    
-    <li class="nav-item"><%= link_to "Nos Actions", 'action.html', class:"nav-link" %></li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" id="actionsNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Nos Actions
+      </a>
+      <div class="dropdown-menu" aria-labelledby="actionsNavbarDropdownMenuLink">
+        <%= link_to "La Formation", 'formation.html', class:"dropdown-item" %>
+        <%= link_to "La recherche clinique", 'recherche-clinique.html', class:"dropdown-item" %>
+        <%= link_to "L'envoi de médicaments et de matériel", 'medicaments-et-materiel.html', class:"dropdown-item" %>
+        <%= link_to "L'Accompagnement", 'accompagnement.html', class:"dropdown-item" %>
+      </div>
+    </li>   
     <li class="nav-item"><%= link_to "Nos Projets", 'projet.html', class:"nav-link" %></li>
     <li class="nav-item"><%= link_to "Nos Up", 'up.html', class:"nav-link" %></li>
     <li class="nav-item"><%= link_to "FormationDU", 'formationup.html', class:"nav-link" %></li>
