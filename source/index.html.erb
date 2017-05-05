@@ -11,8 +11,6 @@
   <% url2 = doc.xpath('//item/link').at(1).text %> 
 </script>
 
-<!-- TODO(pcarton) is this necessary? -->
-
 <div class="wrapper py-5">
   <h1 class="pt-5">Guérir le cancer des enfants en Afrique</h1>
   <h3 style="font-family: Lato; font-style: italic">8000 enfants déjà traités, plus de 240 médecins et infirmiers formés</h3>
@@ -26,16 +24,16 @@
         <h2>NOS ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "formation.png", width: 60, alt:"la formation" %>
+        <%= link_to image_tag("formation.png", width: 60, alt:"la formation"), 'formation.html' %>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "recherche.png", width: 50, alt:"la recherche" %>
+        <%= link_to image_tag("recherche.png", width: 50, alt:"la recherche"), 'recherche-clinique.html' %>        
       </div>
       <div class="col-sm-3">
-        <%= image_tag "envoi.png", width: 50, alt:"l'envoi de médicaments" %>
+        <%= link_to image_tag("envoi.png", width: 50, alt:"l'envoi de médicaments"), 'medicaments-et-materiel.html' %>
       </div>
       <div class="col-sm-3">
-        <%= image_tag "maison2x.png", width: 50, alt:"l'accompagnement des familles" %>
+        <%= link_to image_tag("maison2x.png", width: 50, alt:"l'accompagnement des familles"), 'accompagnement.html' %>
       </div>
     </div>
     <div class="row text-center py-1">
@@ -48,22 +46,22 @@
 </div>
 
 <div class="container">
-  <h2 class="mx-auto py-4" style="color: #f96634;">PRESENTATION</h2>
+  <h2 class="text-center py-4" style="color: #f96634;">PRESENTATION</h2>
   <div class="embed-responsive embed-responsive-16by9 mx-auto">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IbdA6nqrfNU"></iframe>
   </div>
 </div>
 
 <div class="container">
-  <h2 class="mx-auto py-4" style="color: #f96634;">ACTUALITES</h2>
+  <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
   <div class="row">
-    <div class="mx-auto tumblr-post"
+    <div class="mx-auto tumblr-post p-3"
       data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url1.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
       data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
       <a href="<%= url1 %>">
      <%= url1 %></a>
     </div>
-    <div class="mx-auto tumblr-post"
+    <div class="mx-auto tumblr-post p-3"
       data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url2.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
       data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
       <a href="<%= url2 %>">
@@ -71,7 +69,7 @@
     </div>
     <script async src="https://assets.tumblr.com/post.js"></script>      
   </div>
-  <div class="mx-auto py-2">
+  <div class="text-center py-2">
     <h3>Rendez-vous sur notre Blog</h3>
     <a class="btn btncrowd" href="https://gfaopcorinnecd.tumblr.com" role="button">Tumblr</a>
   </div>
