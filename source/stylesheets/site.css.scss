@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-/* TODO(pcarton) remove duplicates or unused */
-
 body {
   font-family: 'Montserrat';
   color: #433323;
@@ -27,9 +25,6 @@ body {
   color: white;
   background-color: #f96634;
   border-color: #f96634;
-  border-radius: 50px;
-  border-width: 1px;
-  padding: 10px;
 }
 
 .btncrowd:hover {
@@ -42,40 +37,7 @@ body {
   border-color: #f96634;
 }
 
-.btn-warning:hover {
-  background-color: #f96634;
-  border-color: #f96634;
-}
-
-.btn-warning {
-  background-color: transparent;
-  border-color: white;
-}
-
-.btn-warning:focus {
-  background-color: transparent;
-  border-color: #f96634;
-}
-
-// background
-
-.orange-back {
-  background-color: #f96634;
-}
-
 .wrapper {
-  background-image: url(/images/backgfaop12.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed; 
-  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
-  background-size: cover; /* version standardisée */
-  text-align: center;
-  color: white;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-}
-
-.wrapper-11 {
   background-image: url(/images/backgfaop12.png);
   background-repeat: no-repeat;
   background-position: center;
@@ -127,39 +89,21 @@ body {
   opacity: 0.8;
 }
 
-.quote {
-  font-family: Lato;
-  font-style: italic;
-}
-
-.separation {
-  border-left: 1px solid black;
-  padding-left: 5px;
-  margin-left: 50px;
-}
-
-.grey-back {
-  background-color: #E1DAD5;
-  opacity: 1;
-}
-
 .borderless {
   border: none;
 }
-
-/* BASIC SIMON's TEMPLATE */
 
 .vertical-spacer {
   height: 8em;
 }
 
-.small-vertical-spacer {
-  height: 3em;
-}
-
 .footer {
   background-color: #190d07;
   color: #aaaaaa;
+}
+
+.footer2 {
+  background-color: #2b160d;
 }
 
 .round {
@@ -171,10 +115,6 @@ body {
   margin: 20px auto;
 }
 
-.grey {
-  background-color: #F0F1F5;
-}
-
 .cream {
   background-color: #FAF9F5;
 }
@@ -183,6 +123,11 @@ body {
   color: white !important;
 }
 
-.footer2 {
-  background-color: #2b160d;
+.grey-back {
+  background-color: #E1DAD5;
+  opacity: 1;
+}
+
+.orange-back {
+  background-color: #f96634;
 }
