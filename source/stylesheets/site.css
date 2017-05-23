@@ -39,7 +39,6 @@ body {
 
 .wrapper {
   background-repeat: no-repeat;
-  background-position: center;
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover;
   text-align: center;
@@ -48,6 +47,7 @@ body {
 
 .wrapper-1 {
   background-image: url(/images/fond_accueil.png);
+  background-position: center;
   color: white;
 }
 
@@ -89,7 +89,7 @@ body {
   background-color: #2b160d;
 }
 
-.round {
+.rounded {
   border-radius: 10px;
 }
 
