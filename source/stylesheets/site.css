@@ -64,6 +64,8 @@ body {
 
 .wrapper-5 {
   background-image: url(/images/backaction.jpg);
+  height: 30em;
+  background-position: center;
 }
 
 .wrapper-7 {
