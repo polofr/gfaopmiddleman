@@ -38,54 +38,37 @@ body {
 }
 
 .wrapper {
-  background-image: url(/images/fond_accueil.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover;
   text-align: center;
-  color: white;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-1 {
+  background-image: url(/images/fond_accueil.png);
+  color: white;
 }
 
 .wrapper-2 {
   background-image: url(/images/photo_ca.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  text-align: center;
   color: white;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  height: 27em;
 }
 
 .wrapper-4 {
   background-image: url(/images/backafrique7.svg);
   background-color: #DEF3F2;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  padding-top: 20px;
-  text-align: center;
-  background-attachment: fixed;
 }
 
 .wrapper-5 {
   background-image: url(/images/backaction.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  padding-top: 20px;
-  text-align: center;
-  background-attachment: fixed;
 }
 
 .wrapper-7 {
   background-image: url(/images/backfille.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  padding-top: 20px;
-  text-align: center;
   color: white;
-  background-attachment: fixed;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   opacity: 0.8;
 }
 
@@ -123,11 +106,11 @@ body {
   color: white !important;
 }
 
-.grey-back {
+.grey {
   background-color: #E1DAD5;
   opacity: 1;
 }
 
-.orange-back {
+.orange {
   background-color: #f96634;
 }

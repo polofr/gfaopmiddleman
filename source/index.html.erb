@@ -2,12 +2,12 @@
 <% content_for :description, "" %>
 <% content_for :keywords, "" %>
 
-<div class="wrapper py-5">
+<div class="wrapper wrapper-1 py-5">
   <h1 class="pt-5">Guérir le cancer des enfants en Afrique</h1>
   <h3 class="py-3" style="font-family: Lato; font-style: italic">8000 enfants déjà traités, plus de 240 médecins et infirmiers formés</h3>
   <a class="btn btncrowd mx-auto m-5 p-3" href="http://www.helloasso.com/don/associations/gfaop" role="button" target="_blank" >Je fais un don</a>    
 </div>
-<div class="grey-back hidden-sm-down">
+<div class="grey hidden-sm-down">
   <div class="container py-3">
     <div class="row text-center">
       <div class="col-12">
@@ -47,7 +47,7 @@
   <% doc = Nokogiri::XML(open("https://gfaopcorinnecd.tumblr.com/rss#_=_")) %>
   <% url1 = doc.xpath('//item/link').at(0).text %> 
   <% url2 = doc.xpath('//item/link').at(1).text %> 
-  <% url3 = doc.xpath('//item/link').at(1).text %> 
+  <% url3 = doc.xpath('//item/link').at(2).text %> 
 </script>
 <div class="container">
   <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
@@ -84,7 +84,7 @@
     <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/assogfaop"><span class="fa fa-twitter"></span></a>
   </div>
 </div>
-<div class="wrapper">
+<div class="wrapper wrapper-1">
   <div class="container">
     <div class="row">
       <div class="mx-auto font-italic white text-center py-3">
