@@ -60,6 +60,8 @@ body {
 .wrapper-4 {
   background-image: url(/images/backafrique7.svg);
   background-color: #DEF3F2;
+  height: 51em;
+  background-position: bottom;
 }
 
 .wrapper-5 {
@@ -92,7 +94,7 @@ body {
 }
 
 .rounded {
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .separator {
