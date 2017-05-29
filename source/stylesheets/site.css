@@ -122,6 +122,10 @@ body {
   color: white !important;
 }
 
+.text-orange {
+  color: #f96634 !important;
+}
+
 .grey {
   background-color: #E1DAD5;
   opacity: 1;
