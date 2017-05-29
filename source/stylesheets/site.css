@@ -84,7 +84,6 @@ body {
 .wrapper-7 {
   background-image: url(/images/backfille.jpg);
   color: white;
-  opacity: 0.8;
   height: 27em;
 }
 
@@ -128,7 +127,6 @@ body {
 
 .grey {
   background-color: #E1DAD5;
-  opacity: 1;
 }
 
 .orange {
