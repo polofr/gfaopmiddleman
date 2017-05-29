@@ -52,6 +52,12 @@ body {
 }
 
 .wrapper-2 {
+  background-image: url(/images/bandeau_association.jpg);
+  color: white;
+  height: 27em;
+}
+
+.wrapper-3 {
   background-image: url(/images/photo_ca.jpg);
   color: white;
   height: 27em;
@@ -68,6 +74,12 @@ body {
   background-image: url(/images/backaction.jpg);
   height: 30em;
   background-position: center;
+}
+
+.wrapper-6 {
+  background-image: url(/images/bandeau_comite_de_soutien.png);
+  color: white;
+  height: 27em;
 }
 
 .wrapper-7 {
@@ -94,7 +106,7 @@ body {
 }
 
 .rounded {
-  border-radius: 20px;
+  border-radius: 5px;
 }
 
 .separator {
