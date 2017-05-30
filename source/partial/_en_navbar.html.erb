@@ -1,0 +1,52 @@
+<nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse navbar-light" id="nav">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="#">
+    <%= link_to(image_tag("gfaop.png", width: 300, alt:"logo gfaop"), '/') %>
+  </a>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item"><%= link_to "Accueil", '/', class:"nav-link white" %></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Organization
+        </a>
+        <div class="dropdown-menu" aria-labelledby="assocNavbarDropdownMenuLink">
+          <%= link_to "Presentation", 'association.html', class:"dropdown-item" %>
+          <%= link_to "Les Comptes", 'comptes.html', class:"dropdown-item" %>
+          <a class="dropdown-item" href="http://www.cloud-gfaop.org/index.php/s/TqIdX8xk0DbfZFv" target="_blank">Les Statuts</a>
+          <a class="dropdown-item" href="http://www.cloud-gfaop.org/index.php/s/3rtLmJpvBLxEyDm" target="_blank">Le Rapport d’Activité</a>
+          <a class="dropdown-item" href="http://www.cloud-gfaop.org/index.php/s/4BtlLnSITfZzRHv" target="_blank">La Charte de Déontologie</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle white" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          L'Equipe
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <%= link_to "Le Conseil d'Administration", 'conseil-d-administration.html', class:"dropdown-item" %>
+          <%= link_to "Le Bureau", 'bureau.html', class:"dropdown-item" %>
+          <%= link_to "Le Comité de Soutien", 'comite-de-soutien.html', class:"dropdown-item" %>
+          <%= link_to "Les Comités médicaux et paramédicaux", 'les-comites.html', class:"dropdown-item" %>
+        </div>
+      </li>    
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle white" id="actionsNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Nos Actions
+        </a>
+        <div class="dropdown-menu" aria-labelledby="actionsNavbarDropdownMenuLink">
+          <%= link_to "La Formation", 'formation.html', class:"dropdown-item" %>
+          <%= link_to "La Recherche Clinique", 'recherche-clinique.html', class:"dropdown-item" %>
+          <%= link_to "L'Envoi de Médicaments et de Matériel", 'medicaments-et-materiel.html', class:"dropdown-item" %>
+          <%= link_to "L'Accompagnement", 'accompagnement.html', class:"dropdown-item" %>
+        </div>
+      </li>   
+      <li class="nav-item"><%= link_to "Nos Projets", 'projet.html', class:"nav-link white" %></li>
+      <li class="nav-item"><%= link_to "Nos Up", 'up.html', class:"nav-link white" %></li>
+      <li class="nav-item"><%= link_to "Formation DU", 'formationup.html', class:"nav-link white" %></li>
+      <li class="nav-item"><a class="nav-link white" href="http://www.cloud-gfaop.org" target="_blank">Espace membre</a></li>
+      <li class="nav-item orange rounded"><a class="nav-link white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
+    </ul>
+  </div>
+</nav>

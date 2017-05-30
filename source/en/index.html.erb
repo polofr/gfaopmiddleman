@@ -1,0 +1,96 @@
+<% content_for :title, "Accueil du groupe franco-africain d'oncologie pédiatrique" %>
+<% content_for :description, "" %>
+<% content_for :keywords, "" %>
+
+<div class="wrapper wrapper-1 py-5">
+  <h1 class="pt-5">Guérir le cancer des enfants en Afrique</h1>
+  <h3 class="py-3" style="font-family: Lato; font-style: italic">8000 enfants déjà traités, plus de 240 médecins et infirmiers formés</h3>
+  <a class="btn btncrowd mx-auto m-5 p-3" href="http://www.helloasso.com/don/associations/gfaop" role="button" target="_blank" >Je fais un don</a>    
+</div>
+<div class="grey hidden-sm-down">
+  <div class="container py-3">
+    <div class="row text-center">
+      <div class="col-12">
+        <h2>NOS ACTIONS</h2>
+      </div>
+      <div class="col-sm-3">
+        <%= link_to image_tag("formation.png", width: 60, alt:"la formation"), 'formation.html' %>
+      </div>
+      <div class="col-sm-3">
+        <%= link_to image_tag("recherche.png", width: 50, alt:"la recherche"), 'recherche-clinique.html' %>        
+      </div>
+      <div class="col-sm-3">
+        <%= link_to image_tag("envoi.png", width: 50, alt:"l'envoi de médicaments"), 'medicaments-et-materiel.html' %>
+      </div>
+      <div class="col-sm-3">
+        <%= link_to image_tag("maison2x.png", width: 50, alt:"l'accompagnement des familles"), 'accompagnement.html' %>
+      </div>
+    </div>
+    <div class="row text-center py-1">
+      <div class="col-sm-3">Formation</div>
+      <div class="col-sm-3">Recherche Clinique</div>
+      <div class="col-sm-3">Envoi de Médicaments</div>
+      <div class="col-sm-3">Accompagnement</div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <h2 class="text-center py-4" style="color: #f96634;">PRESENTATION</h2>
+  <div class="embed-responsive embed-responsive-16by9 mx-auto">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IbdA6nqrfNU"></iframe>
+  </div>
+</div>
+<script>
+  <% #!/usr/bin/env ruby %>
+  <% require 'nokogiri' %>
+  <% require 'open-uri' %>
+  <% doc = Nokogiri::XML(open("https://gfaopcorinnecd.tumblr.com/rss#_=_")) %>
+  <% url1 = doc.xpath('//item/link').at(0).text %> 
+  <% url2 = doc.xpath('//item/link').at(1).text %> 
+  <% url3 = doc.xpath('//item/link').at(2).text %> 
+</script>
+<div class="container">
+  <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
+  <div class="row">
+    <div class="col-12 col-md-4">
+      <div class="tumblr-post"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url1.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
+        data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
+        <a href="<%= url1 %>">
+       <%= url1 %></a>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="mx-auto tumblr-post p-3"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url2.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
+        data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
+        <a href="<%= url2 %>">
+       <%= url2 %></a>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="mx-auto tumblr-post p-3"
+        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/<%= url3.tr('https://gfaopcorinnecd.tumblr.com/post/', '') %>"
+        data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
+        <a href="<%= url3 %>">
+       <%= url3 %></a>
+      </div>
+    </div>
+    <script async src="https://assets.tumblr.com/post.js"></script>      
+  </div>
+  <div class="text-center py-2">
+    <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/gfaop"><span class="fa fa-facebook"></span></a>
+    <a class="btn btn-social-icon btn-lg btn-tumblr" href="https://gfaopcorinnecd.tumblr.com"><span class="fa fa-tumblr"></span></a>
+    <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/assogfaop"><span class="fa fa-twitter"></span></a>
+  </div>
+</div>
+<div class="wrapper wrapper-1">
+  <div class="container">
+    <div class="row">
+      <div class="mx-auto font-italic white text-center py-3">
+          <h4>"Le GFAOP, fort de son expérience et de son savoir-faire, doit continuer à œuvrer à sa manière pour un monde plus équitable".</h4>
+          <h5>Pr Mhamed Harif, Président du GFAOP</h5>
+      </div>
+    </div>
+  </div>
+</div>
