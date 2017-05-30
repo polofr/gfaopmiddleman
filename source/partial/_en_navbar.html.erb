@@ -2,13 +2,10 @@
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="#">
-    <%= link_to(image_tag("gfaop.png", width: 300, alt:"logo gfaop"), '/') %>
-  </a>
+  <%= link_to(image_tag("gfaop.png", width: 300, alt:"logo gfaop"), '/', class:"navbar-brand") %>
   <div class="collapse navbar-collapse" id="navbarCollapse">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item"><%= link_to(image_tag("french_flag.svg", width: 50, alt:"French flag"), '/') %></li>
-      <li class="nav-item"><%= link_to "Accueil", '/', class:"nav-link white" %></li>
+      <li class="nav-item"><%= link_to "Home", 'en/index.html', class:"nav-link white" %></li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Organization
@@ -48,6 +45,7 @@
       <li class="nav-item"><%= link_to "Education", 'university-education.html', class:"nav-link white" %></li>
       <li class="nav-item"><a class="nav-link white" href="http://www.cloud-gfaop.org" target="_blank">Members'Area</a></li>
       <li class="nav-item orange rounded"><a class="nav-link white" href="https://www.helloasso.com/associations/gfaop/formulaires/1/en" target="_blank">Donate</a></li>
+      <li class="nav-item"><%= link_to(image_tag("french_flag.svg", width: 30, alt:"French flag"), '/') %></li>
     </ul>
   </div>
 </nav>
