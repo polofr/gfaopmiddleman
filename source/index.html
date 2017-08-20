@@ -1,6 +1,6 @@
-<% content_for :title, "Accueil du groupe franco-africain d'oncologie pédiatrique" %>
-<% content_for :description, "" %>
-<% content_for :keywords, "" %>
+<!-- TODO  content_for :title, "Accueil du groupe franco-africain d'oncologie pédiatrique" %>
+content_for :description, "" %>
+content_for :keywords, "" -->
 
 <div class="wrapper wrapper-1 py-5">
   <h1 class="pt-5">Guérir le cancer des enfants en Afrique</h1>
@@ -14,16 +14,17 @@
         <h2>NOS ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <%= link_to image_tag("formation.png", width: 60, alt:"la formation"), 'formation.html' %>
+        <a href="formation.html"><img src="formation.png" width="60px" alt="la formation" ></a>
       </div>
       <div class="col-sm-3">
-        <%= link_to image_tag("recherche.png", width: 50, alt:"la recherche"), 'recherche-clinique.html' %>        
+        <%= link_to image_tag("recherche.png", width: 50, alt:"la recherche"), 'recherche-clinique.html' %>
+        <a href="recherche-clinique.html"><img src="recherche.png" width="50px" alt="la recherche" ></a>        
       </div>
       <div class="col-sm-3">
-        <%= link_to image_tag("envoi.png", width: 50, alt:"l'envoi de médicaments"), 'medicaments-et-materiel.html' %>
+        <a href="medicaments-et-materiel.html"><img src="envoi.png" width="50px" alt="l'envoi de médicaments" ></a>
       </div>
       <div class="col-sm-3">
-        <%= link_to image_tag("maison2x.png", width: 50, alt:"l'accompagnement des familles"), 'accompagnement.html' %>
+        <a href="accompagnement.html"><img src="maison2x.png" width="50px" alt="l'accompagnement des familles" ></a>
       </div>
     </div>
     <div class="row text-center py-1">

@@ -2,17 +2,17 @@
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <%= link_to(image_tag("gfaop.png", width: 300, alt:"logo gfaop"), '/', class:"navbar-brand") %>
+  <a href="/" class="navbar-brand"><img src="gfaop.png" width="300px" alt="logo gfaop" ></a>
   <div class="collapse navbar-collapse" id="navbarCollapse">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item"><%= link_to "Accueil", '/', class:"nav-link white" %></li>
+      <li class="nav-item"><a href="/" class="nav-link white">Accueil</a></li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           L'Association
         </a>
         <div class="dropdown-menu" aria-labelledby="assocNavbarDropdownMenuLink">
-          <%= link_to "Présentation", 'association.html', class:"dropdown-item" %>
-          <%= link_to "Les Comptes", 'comptes.html', class:"dropdown-item" %>
+          <a href="association.html" class="dropdown-item">Présentation</a>
+          <a href="comptes.html" class="dropdown-item">Les Comptes</a>
           <a class="dropdown-item" href="ressources/Statuts_de_l'association.pdf" target="_blank">Les Statuts</a>
           <a class="dropdown-item" href="ressources/Rapport_d'activite_2015.pdf" target="_blank">Le Rapport d’Activité</a>
           <a class="dropdown-item" href="ressources/La_Charte_de_déontologie.doc" target="_blank">La Charte de Déontologie</a>
@@ -23,10 +23,10 @@
           L'Equipe
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <%= link_to "Le Conseil d'Administration", 'conseil-d-administration.html', class:"dropdown-item" %>
-          <%= link_to "Le Bureau", 'bureau.html', class:"dropdown-item" %>
-          <%= link_to "Le Comité de Soutien", 'comite-de-soutien.html', class:"dropdown-item" %>
-          <%= link_to "Les Comités médicaux et paramédicaux", 'les-comites.html', class:"dropdown-item" %>
+          <a href="conseil-d-administration.html" class="dropdown-item">Le Conseil d'Administration</a>
+          <a href="bureau.html" class="dropdown-item">Le Bureau</a>
+          <a href="comite-de-soutien.html" class="dropdown-item">Le Comité de Soutien</a>
+          <a href="les-comites.html" class="dropdown-item">Les Comités médicaux et paramédicaux</a>
         </div>
       </li>    
       <li class="nav-item dropdown">
@@ -34,19 +34,19 @@
           Nos Actions
         </a>
         <div class="dropdown-menu" aria-labelledby="actionsNavbarDropdownMenuLink">
-          <%= link_to "La Formation", 'formation.html', class:"dropdown-item" %>
-          <%= link_to "L'Anatomopathologie", 'anatomopathologie.html', class:"dropdown-item" %>
-          <%= link_to "La Recherche Clinique", 'recherche-clinique.html', class:"dropdown-item" %>
-          <%= link_to "L'Envoi de Médicaments et de Matériel", 'medicaments-et-materiel.html', class:"dropdown-item" %>
-          <%= link_to "L'Accompagnement", 'accompagnement.html', class:"dropdown-item" %>
+          <a href="formation.html" class="dropdown-item">La Formation</a>
+          <a href="anatomopathologie.html" class="dropdown-item">L'Anatomopathologie</a>
+          <a href="recherche-clinique.html" class="dropdown-item">La Recherche Clinique</a>
+          <a href="medicaments-et-materiel.html" class="dropdown-item">L'Envoi de Médicaments et de Matériel</a>
+          <a href="accompagnement.html" class="dropdown-item">L'Accompagnement</a>
         </div>
       </li>   
-      <li class="nav-item"><%= link_to "Nos Projets", 'projet.html', class:"nav-link white" %></li>
-      <li class="nav-item"><%= link_to "Pays", 'pays.html', class:"nav-link white" %></li>
-      <li class="nav-item"><%= link_to "Formation DU", 'formationup.html', class:"nav-link white" %></li>
+      <li class="nav-item"><a href="projet.html" class="nav-link white">Nos Projets</a></li>
+      <li class="nav-item"><a href="pays.html" class="nav-link white">Pays</a></li>
+      <li class="nav-item"><a href="formationup.html" class="nav-link white">Formation DU</a></li>
       <li class="nav-item"><a class="nav-link white" href="http://www.cloud-gfaop.org" target="_blank">Espace membre</a></li>
       <li class="nav-item orange rounded"><a class="nav-link white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
-      <li class="nav-item ml-2"><%= link_to(image_tag("english_flag.svg", width: 30, alt:"english flag", style:"padding-top=10px;"), '/en/index.html') %></li>      
+      <li class="nav-item ml-2"><a href="/en/index.html"><img src="english_flag.svg" width="30px" alt="English flag" style="padding-top=10px;" ></a></li> 
     </ul>
   </div>
 </nav>
