@@ -1,52 +1,72 @@
-<nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse navbar-light" id="nav">
-  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <a href="/" class="navbar-brand"><img src="gfaop.png" width="300px" alt="logo gfaop" ></a>
-  <div class="collapse navbar-collapse" id="navbarCollapse">
-    <ul class="navbar-nav ml-auto">
-      <li class="nav-item"><a href="/" class="nav-link white">Accueil</a></li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          L'Association
-        </a>
-        <div class="dropdown-menu" aria-labelledby="assocNavbarDropdownMenuLink">
-          <a href="association.html" class="dropdown-item">Présentation</a>
-          <a href="comptes.html" class="dropdown-item">Les Comptes</a>
-          <a class="dropdown-item" href="ressources/Statuts_de_l'association.pdf" target="_blank">Les Statuts</a>
-          <a class="dropdown-item" href="ressources/Rapport_d'activite_2015.pdf" target="_blank">Le Rapport d’Activité</a>
-          <a class="dropdown-item" href="ressources/La_Charte_de_déontologie.doc" target="_blank">La Charte de Déontologie</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle white" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          L'Equipe
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a href="conseil-d-administration.html" class="dropdown-item">Le Conseil d'Administration</a>
-          <a href="bureau.html" class="dropdown-item">Le Bureau</a>
-          <a href="comite-de-soutien.html" class="dropdown-item">Le Comité de Soutien</a>
-          <a href="les-comites.html" class="dropdown-item">Les Comités médicaux et paramédicaux</a>
-        </div>
-      </li>    
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle white" id="actionsNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Nos Actions
-        </a>
-        <div class="dropdown-menu" aria-labelledby="actionsNavbarDropdownMenuLink">
-          <a href="formation.html" class="dropdown-item">La Formation</a>
-          <a href="anatomopathologie.html" class="dropdown-item">L'Anatomopathologie</a>
-          <a href="recherche-clinique.html" class="dropdown-item">La Recherche Clinique</a>
-          <a href="medicaments-et-materiel.html" class="dropdown-item">L'Envoi de Médicaments et de Matériel</a>
-          <a href="accompagnement.html" class="dropdown-item">L'Accompagnement</a>
-        </div>
-      </li>   
-      <li class="nav-item"><a href="projet.html" class="nav-link white">Nos Projets</a></li>
-      <li class="nav-item"><a href="pays.html" class="nav-link white">Pays</a></li>
-      <li class="nav-item"><a href="formationup.html" class="nav-link white">Formation DU</a></li>
-      <li class="nav-item"><a class="nav-link white" href="http://www.cloud-gfaop.org" target="_blank">Espace membre</a></li>
-      <li class="nav-item orange rounded"><a class="nav-link white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
-      <li class="nav-item ml-2"><a href="/en/index.html"><img src="english_flag.svg" width="30px" alt="English flag" style="padding-top=10px;" ></a></li> 
-    </ul>
-  </div>
-</nav>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="robots" content="index,follow" >
+  <title>GFAOP</title>
+  <link href='http://fonts.googleapis.com/css?family=Montserrat|Lato:300,400,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link rel="icon" href="/images/logonav.png" />
+  <%= stylesheet_link_tag :site %>
+  <%= stylesheet_link_tag :font_awesome %>
+  <%= stylesheet_link_tag :bootstrap_social %>
+  <%= javascript_include_tag :all %>
+</head>
+
+<body>
+  <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse navbar-light" id="nav">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a href="/" class="navbar-brand"><img src="gfaop.png" width="300px" alt="logo gfaop" ></a>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a href="/" class="nav-link white">Accueil</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle white" id="assocNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            L'Association
+          </a>
+          <div class="dropdown-menu" aria-labelledby="assocNavbarDropdownMenuLink">
+            <a href="association.html" class="dropdown-item">Présentation</a>
+            <a href="comptes.html" class="dropdown-item">Les Comptes</a>
+            <a class="dropdown-item" href="ressources/Statuts_de_l'association.pdf" target="_blank">Les Statuts</a>
+            <a class="dropdown-item" href="ressources/Rapport_d'activite_2015.pdf" target="_blank">Le Rapport d’Activité</a>
+            <a class="dropdown-item" href="ressources/La_Charte_de_déontologie.doc" target="_blank">La Charte de Déontologie</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle white" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            L'Equipe
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a href="conseil-d-administration.html" class="dropdown-item">Le Conseil d'Administration</a>
+            <a href="bureau.html" class="dropdown-item">Le Bureau</a>
+            <a href="comite-de-soutien.html" class="dropdown-item">Le Comité de Soutien</a>
+            <a href="les-comites.html" class="dropdown-item">Les Comités médicaux et paramédicaux</a>
+          </div>
+        </li>    
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle white" id="actionsNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Nos Actions
+          </a>
+          <div class="dropdown-menu" aria-labelledby="actionsNavbarDropdownMenuLink">
+            <a href="formation.html" class="dropdown-item">La Formation</a>
+            <a href="anatomopathologie.html" class="dropdown-item">L'Anatomopathologie</a>
+            <a href="recherche-clinique.html" class="dropdown-item">La Recherche Clinique</a>
+            <a href="medicaments-et-materiel.html" class="dropdown-item">L'Envoi de Médicaments et de Matériel</a>
+            <a href="accompagnement.html" class="dropdown-item">L'Accompagnement</a>
+          </div>
+        </li>   
+        <li class="nav-item"><a href="projet.html" class="nav-link white">Nos Projets</a></li>
+        <li class="nav-item"><a href="pays.html" class="nav-link white">Pays</a></li>
+        <li class="nav-item"><a href="formationup.html" class="nav-link white">Formation DU</a></li>
+        <li class="nav-item"><a class="nav-link white" href="http://www.cloud-gfaop.org" target="_blank">Espace membre</a></li>
+        <li class="nav-item orange rounded"><a class="nav-link white" href="http://www.helloasso.com/don/associations/gfaop" target="_blank">Faire Un Don</a></li>
+        <li class="nav-item ml-2"><a href="/en/index.html"><img src="english_flag.svg" width="30px" alt="English flag" style="padding-top=10px;" ></a></li> 
+      </ul>
+    </div>
+  </nav>
