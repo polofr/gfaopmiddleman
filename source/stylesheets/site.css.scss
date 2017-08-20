@@ -1,0 +1,315 @@
+@charset "utf-8";
+
+/* TODO(pcarton) remove duplicates or unused */
+
+body {
+  font-family: 'Montserrat';
+  color: #433323;
+}
+
+.logo img {
+  height: 18.75em;
+  margin-top: 6em;
+}
+
+.don {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.align {
+  padding-right: 3px;
+}
+
+.btn {
+  color: white;
+  background-color: transparent;
+  border-color: #f96634;
+  border-radius: 50px;
+  border-width: 1px;
+  padding: 20px;
+}
+
+.btncrowd {
+  color: white;
+  background-color: #f96634;
+  border-color: #f96634;
+  border-radius: 50px;
+  border-width: 1px;
+  padding: 10px;
+}
+
+.btncrowd:hover {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+.btncrowd:focus {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+.btn-warning:hover {
+  background-color: #f96634;
+  border-color: #f96634;
+}
+
+.btn-warning {
+  background-color: transparent;
+  border-color: white;
+}
+
+.btn-warning:focus {
+  background-color: transparent;
+  border-color: #f96634;
+}
+
+.noborder {
+  border: transparent;
+}
+
+// background
+
+.orange-back {
+  background-color: #f96634;
+}
+
+.centrage {
+  padding-top: 12px;
+  margin-left: 10px;
+}
+
+.groscentrage {
+  padding-top: 25px;
+}
+
+.wrapper {
+  background-image: url(/images/backgfaop12.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-11 {
+  background-image: url(/images/backgfaop12.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-6 {
+  background-image: url(/images/backgfaop11.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.3;
+}
+
+.wrapper-2 {
+  background-image: url(/images/photo_ca.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-3 {
+  background-image: url(/images/photocs.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.wrapper-4 {
+  background-image: url(/images/backafrique7.svg);
+  background-color: #DEF3F2;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.wrapper-41 {
+  background-image: url(/images/backafrique7.svg);
+  background-color: #DEF3F2;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.wrapper-5 {
+  background-image: url(/images/backaction.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.wrapper-51 {
+  background-image: url(/images/backaction.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.wrapper-7 {
+  background-image: url(/images/backfille.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  background-attachment: fixed;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.8;
+}
+
+.wrapper-8 {
+  background-image: url(/images/don4.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  background-attachment: fixed;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.8;
+}
+
+.wrapper-9 {
+  background-image: url(/images/photoDUCP.JPG);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  background-attachment: fixed;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  opacity: 0.8;
+}
+
+.quote {
+  font-family: Lato;
+  font-style: italic;
+}
+
+.separation {
+  border-left: 1px solid black;
+  padding-left: 5px;
+  margin-left: 50px;
+}
+
+.bigpadding {
+  padding-top: 10em;
+}
+
+.light-grey-back {
+  background-color: #F9FAF5;
+  height: 200px;
+  line-height: 200px;
+}
+
+.grey-back {
+  background-color: #E1DAD5;
+  opacity: 1;
+}
+
+#nomargin {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #f76434;
+}
+
+.borderless {
+  border: none;
+}
+
+/* BASIC SIMON's TEMPLATE */
+
+.vertical-spacer {
+  height: 8em;
+}
+
+.small-vertical-spacer {
+  height: 3em;
+}
+
+.verysmall-vertical-spacer {
+  height: 2em;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #190d07;
+  color: #aaaaaa;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  // border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+.separator {
+  width: 20%;
+  margin: 40px auto;
+}
+
+.bigseparator {
+  width: 60%;
+  margin: 80px auto;
+}
+
+// Background colors
+
+.grey {
+  background-color: #F0F1F5;
+}
+
+.cream {
+  background-color: #FAF9F5;
+}
+
+.white {
+  color: white !important;
+}
+
+/* TODO(pcarton) list-unstyled */
+li {
+  list-style-type: none;
+}
+
+.footer2 {
+  background-color: #2b160d;
+  padding-top: 3em;
+  padding-bottom: 0em;
+}
