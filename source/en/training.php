@@ -1,9 +1,9 @@
-<?php include 'partial/_header.html';?>
+<?php include '../partial/_en_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.html';?>
+<?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">TRAINING</h1>
@@ -86,4 +86,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.html';?>
+<?php include '../partial/_en_footer.html';?>

@@ -1,9 +1,9 @@
-<?php include '../partial/_header.html';?>
+<?php include '../partial/_en_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include '../partial/_navbar.html';?>
+<?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-1 py-5">
   <h1 class="pt-5">Curing childhood cancer in Africa</h1>
@@ -77,4 +77,4 @@ for ($i = 0; $i <= 2; $i++) {
   </div>
 </div>
 
-<?php include '../partial/_footer.html';?>
+<?php include '../partial/_en_footer.html';?>

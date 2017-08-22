@@ -1,9 +1,9 @@
-<?php include 'partial/_header.html';?>
+<?php include '../partial/_en_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.html';?>
+<?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-4">
   <h2 class="pt-5">PRESENTATION OF PILOTE UNITS</h2>
@@ -221,7 +221,7 @@
 
 <div class="container">
   <h3 class="text-center">Treated children since 2011</h3>
-  <img class="text-center" src="./images/tableaucasup.png" alt="treated cases statistics in the different pilot units" />
+  <img class="text-center" src="../images/tableaucasup.png" alt="treated cases statistics in the different pilot units" />
   <h3 class="text-center">Needs are still considerate</h3>
   <div class="row px-2">
     <div class"col-12 text-left">
@@ -241,4 +241,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.html';?>
+<?php include '../partial/_en_footer.html';?>
