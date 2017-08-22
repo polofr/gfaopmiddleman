@@ -1,20 +1,20 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title>Le Diplôme Universitaire de Cancérologie Pédiatrique</title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="container">
   <div class="d-flex justify-content-center pt-3">
     <div class="p-2">
-      <img src="logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
+      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
     </div>
     <div class="p-2">
-      <img src="univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Université Mohamed 5 Rabat" >
+      <img src="images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Université Mohamed 5 Rabat" >
     </div>
     <div class="p-2">
-      <img src="univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Université Paris Sud" >
+      <img src="images/univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Université Paris Sud" >
     </div>
   </div>
 </div>
@@ -23,7 +23,7 @@
   <div class="row text-center">
     <h3 class="col-12 mx-auto py-2" >Pourquoi un Diplôme Universitaire de Cancérologie Pédiatrique ?</h3>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" alt="première promotion" >
+      <img src="images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" alt="première promotion" >
     </div>
     <div class="text-justify col-12 col-md-8">
       Le cancer chez l’enfant est une cause émergente majeure de morbidité et de mortalité. Dans les pays développés, il est au premier rang des affections mortelles. Dans les pays en voie de développement, avec la réduction de la mortalité liée aux pathologies infectieuses et nutritionnelles, le cancer prend de plus en plus de place dans les problématiques de santé chez l’enfant. La prise en charge du cancer de l’enfant requiert cependant un haut niveau de technicité et d’organisation des structures de soins. Il n’y a cependant aucune formation organisée pour la cancérologie pédiatrique. 
@@ -37,7 +37,7 @@
       La prochaine promotion sera accueillie en septembre 2018, ceci afin de mieux accompagner les étudiants des 3 premières promotions jusqu’au terme de leur formation et de leur prise de fonction.
     </div>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_2.jpg" class="borderless rounded img-thumbnail" alt="seconde promotion" >
+      <img src="images/promotion_ducp_2.jpg" class="borderless rounded img-thumbnail" alt="seconde promotion" >
     </div>
   </div>
 </div>
@@ -60,7 +60,7 @@
       </ul>
     </div>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_3.jpg" class="borderless rounded img-thumbnail" alt="troisième promotion" >
+      <img src="images/promotion_ducp_3.jpg" class="borderless rounded img-thumbnail" alt="troisième promotion" >
     </div>
   </div>
 </div>
@@ -98,21 +98,21 @@
   </div>
   <div class="d-flex justify-content-center">
     <div class="p-2">
-      <img src="logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="logo gfaop" >
+      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="logo gfaop" >
     </div>
     <div class="p-2">
-      <img src="logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation lalla salma" >
+      <img src="images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation lalla salma" >
     </div>
     <div class="p-2">
-      <img src="logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="cancéropole paca" >
+      <img src="images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="cancéropole paca" >
     </div>
     <div class="p-2">
-      <img src="logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="société marocaine d'hématologie et oncologie pédiatrique" >
+      <img src="images/logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="société marocaine d'hématologie et oncologie pédiatrique" >
     </div>
     <div class="p-2">
-      <img src="logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation espoir sanofi" >
+      <img src="images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation espoir sanofi" >
     </div>
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">DRUG AND SUPPLY DELIVERY</h1>
@@ -20,10 +20,10 @@
   </div>
   <div class="row text-center py-1">
     <div class="col-12 col-sm-6 p-4">
-      <img src="medicaments_envoyes_aux_unites_pilotes.png" class="borderless rounded img-thumbnail" alt="graphic of drug supply per unit" >
+      <img src="../images/medicaments_envoyes_aux_unites_pilotes.png" class="borderless rounded img-thumbnail" alt="graphic of drug supply per unit" >
     </div>
     <div class="col-12 col-sm-6 p-4">
-      <img src="evolution_medicaments_envoyes.png" class="borderless rounded img-thumbnail" alt="graphical evolution for drug supply" >
+      <img src="../images/evolution_medicaments_envoyes.png" class="borderless rounded img-thumbnail" alt="graphical evolution for drug supply" >
     </div>
     <div class="col-12 text-center py-1">
       Equipment such as syringes, compresses, pumps or beds are also sent by the GFAOP and its partner BIP Humanitaire.
@@ -31,4 +31,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

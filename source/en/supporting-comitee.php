@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-6">
   <h2 class="py-5">SUPPORTING COMITEE</h2>
@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>
 
 
 

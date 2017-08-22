@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
     <h1 class="pt-5">SUPPORT</h1>
@@ -18,13 +18,13 @@
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_1.png" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house" >
+      <img src="../images/maison_des_parents_1.png" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house" >
     </div>
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_2.png" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house 2" >
+      <img src="../images/maison_des_parents_2.png" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house 2" >
     </div>
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_3.jpg" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house 3" >
+      <img src="../images/maison_des_parents_3.jpg" class="m-2 borderless rounded img-thumbnail" alt="life in parents'house 3" >
     </div>
   </div>
   <div class="row text-center">
@@ -46,7 +46,7 @@
   </div>
   <div class="row">
     <div class="col-md-3 text-center">
-      <img src="maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="a parents' house" >
+      <img src="../images/maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="a parents' house" >
     </div>
     <div class="col-md-9 text-justify">
       For financial reasons, families stay on site during intercurations, either in the hospital (in which case there are no beds for new patients) or around the hospital in miserable conditions. 
@@ -60,7 +60,7 @@
   </div>
   <div class="row py-2 text-center">
     <div class="col-12 col-md-3 text-center">
-      <img src="fonds_de_soutien.jpg" class="borderless rounded img-thumbnail" alt="enfant soigné à l'oeil" >
+      <img src="../images/fonds_de_soutien.jpg" class="borderless rounded img-thumbnail" alt="enfant soigné à l'oeil" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       <h3 class="mx-auto py-1 text-center">Support fund for the most deprived</h3>
@@ -79,7 +79,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-3 text-center">
-      <img src="aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
+      <img src="../images/aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       The time of the diagnosis is extremely difficult for families, and it is also difficult for doctors to announce it.
@@ -103,7 +103,7 @@
   </div>
   <div class="row py-3">
     <div class="col-12 col-md-3 text-center">
-      <img src="politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
+      <img src="../images/politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
     </div>
     <div class="col-12 col-md-9">
       <p class="text-justify">For the past 16 years, the GFAOP has been working in the field, and teams have shown that, despite difficult conditions and very few resources, good results have been achieved and that even in Africa children can be cured. 
@@ -117,4 +117,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

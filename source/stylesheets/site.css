@@ -46,43 +46,43 @@ body {
 }
 
 .wrapper-1 {
-  background-image: url(/images/fond_accueil.png);
+  background-image: url(../images/fond_accueil.png);
   background-position: center;
   color: white;
 }
 
 .wrapper-2 {
-  background-image: url(/images/bandeau_association.jpg);
+  background-image: url(../images/bandeau_association.jpg);
   color: white;
   height: 27em;
 }
 
 .wrapper-3 {
-  background-image: url(/images/photo_ca.jpg);
+  background-image: url(../images/photo_ca.jpg);
   color: white;
   height: 27em;
 }
 
 .wrapper-4 {
-  background-image: url(/images/backafrique7.svg);
+  background-image: url(../images/backafrique7.svg);
   background-color: #DEF3F2;
   height: 71em;
 }
 
 .wrapper-5 {
-  background-image: url(/images/backaction.jpg);
+  background-image: url(../images/backaction.jpg);
   height: 30em;
   background-position: center;
 }
 
 .wrapper-6 {
-  background-image: url(/images/bandeau_comite_de_soutien.png);
+  background-image: url(../images/bandeau_comite_de_soutien.png);
   color: white;
   height: 27em;
 }
 
 .wrapper-7 {
-  background-image: url(/images/bandeau_projets.png);
+  background-image: url(../images/bandeau_projets.png);
   color: white;
   height: 27em;
 }

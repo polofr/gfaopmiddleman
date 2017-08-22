@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-2">
   <h2 class="py-5">PRESENTATION OF THE ORGANIZATION</h2>
@@ -11,7 +11,7 @@
 <div class="container py-2">
   <div class="row">
     <div class="col-md-3 col-12 text-center">
-      <img src="associationenfant2.jpg" class="borderless rounded img-thumbnail" alt="children on the playground" >
+      <img src="../images/associationenfant2.jpg" class="borderless rounded img-thumbnail" alt="children on the playground" >
     </div>
     <div class="col-md-9 col-12 text-justify">
       The French African Group of Pediatric Oncology is a medical association founded in 2000 by Professor Jean Lemerle. After a successful career in the cancerology development in France and abroad, he began a working group to develop childhood cancer management in Africa with a vision: "African cancer children can and must be treated effectively in Africa by African teams".
@@ -41,7 +41,7 @@
       </ul>
     </div>
     <div class="col-md-3 col-12 text-center">
-      <img src="associationenfant.jpg" class="borderless rounded img-thumbnail" width="700px" alt="sight focused child" >
+      <img src="../images/associationenfant.jpg" class="borderless rounded img-thumbnail" width="700px" alt="sight focused child" >
     </div>
   </div>
   <div class="row text-justify">
@@ -52,7 +52,7 @@
   </div>
   <div class="row py-3">
     <div class="col-md-3 col-12 text-center">
-      <img src="associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600px" alt="Visit of a new pilot unit" >
+      <img src="../images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600px" alt="Visit of a new pilot unit" >
     </div>
     <div class="col-md-9 col-12 text-justify">
       The GFAOP, with its experience and know-how, must continue to work in its own way for a more equitable world. One of the major challenges is the development of African competences in order to perpetuate and develop care. The creation of the African School of Pediatric Oncology for the diagnosis and treatment of cancers and the creation of the Franco-Moroccan pediatric oncology diploma (DUCP) aimed to meet this challenge. <strong>More than 240 doctors and nurses have already been trained in pediatric oncology.</strong>    
@@ -79,4 +79,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

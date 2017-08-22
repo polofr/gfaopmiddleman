@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">CLINICAL REASEARCH</h1>
@@ -29,7 +29,7 @@
       </ul>
     </div>
     <div class="col-12 col-md-6">
-      <img src="patients_pathologie.png" class="borderless rounded img-thumbnail" alt="pathologies repartition" >
+      <img src="../images/patients_pathologie.png" class="borderless rounded img-thumbnail" alt="pathologies repartition" >
     </div>
   </div>
   <div class="row mx-auto text-justify py-4">
@@ -38,7 +38,7 @@
       Since January 2016, with the support of the Sanofi Espoir Foundation, a new patient data collection system has been set up with the objective of improving knowledge of pediatric cancers in the 16 countries (Observed incidence in experimental units, feasibility of treatment, reasons for non-compliance, causes of early death and morbidity). Each unit is asked to register its patients in a common software. Based on this information, new clinical research projects can be conducted to improve treatment protocols.
     </div>
     <div class="col-12 col-md-6 rounded">
-      <img src="patients_inclusion.png" class="borderless rounded img-thumbnail" alt="inclusion repartition per country" >
+      <img src="../images/patients_inclusion.png" class="borderless rounded img-thumbnail" alt="inclusion repartition per country" >
     </div>
   </div>
 </div>
@@ -90,7 +90,7 @@
   <h4 class="text-center py-2">The clinical studies conducted since the creation of the GFAOP show encouraging results.</h4>
   <div class="row text-justify">
     <div class="col-12 col-md-6">
-      <img src="cas_declares.png" class="borderless rounded img-thumbnail" alt="graphic for declared cases" >
+      <img src="../images/cas_declares.png" class="borderless rounded img-thumbnail" alt="graphic for declared cases" >
     </div>
     <div class="col-12 col-md-6">
       <p>Thus, for Burkitt and nephroblastoma, two successive studies carried out between 2000 and 2009 indicate the following survival rates :</p>
@@ -103,12 +103,12 @@
       <p>- For retinoblastomas, 112 cases have observed in Bamako since the launch of the program in October 2011 with more than 90% healing.</p>
     </div>
     <div class="col-12 col-md-6">
-      <img src="total_cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des totaux des cas declarés" >
+      <img src="../images/total_cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des totaux des cas declarés" >
     </div>
   </div>
   <div class="row text-justify">
-    <img src="graphique_recapitulatif.png" class="borderless rounded img-thumbnail mx-auto" alt="graphique recapitulatif" >
+    <img src="../images/graphique_recapitulatif.png" class="borderless rounded img-thumbnail mx-auto" alt="graphique recapitulatif" >
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

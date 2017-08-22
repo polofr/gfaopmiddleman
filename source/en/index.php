@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include '../partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include '../partial/_navbar.html';?>
 
 <div class="wrapper wrapper-1 py-5">
   <h1 class="pt-5">Curing childhood cancer in Africa</h1>
@@ -17,16 +17,16 @@
         <h2>OUR ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <a href="en/training.html"><img src="formation.png" width="60px" alt="Training" ></a>
+        <a href="./en/training.php"><img src="../images/formation.png" width="60px" alt="Training" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="en/clinical-research.html"><img src="recherche.png" width="50px" alt="Clinical Research" ></a>       
+        <a href="./en/clinical-research.php"><img src="../images/recherche.png" width="50px" alt="Clinical Research" ></a>       
       </div>
       <div class="col-sm-3">
-        <a href="en/drug-and-supply-delivery.html"><img src="envoi.png" width="50px" alt="medicine delivery" ></a>
+        <a href="./en/drug-and-supply-delivery.php"><img src="../images/envoi.png" width="50px" alt="medicine delivery" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="en/support.html"><img src="maison2x.png" width="50px" alt="support" ></a>
+        <a href="./en/support.php"><img src="../images/maison2x.png" width="50px" alt="support" ></a>
       </div>
     </div>
     <div class="row text-center py-1">
@@ -56,8 +56,7 @@ for ($i = 0; $i <= 2; $i++) {
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
         <a href="' . $posts[$i]['text'] . '">' . $posts[$i]['text'] . '</a>
       </div>
-    </div>'
-
+    </div>';
 } ?>
   <script async src="https://assets.tumblr.com/post.js"></script>      
   </div>
@@ -78,4 +77,4 @@ for ($i = 0; $i <= 2; $i++) {
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include '../partial/_footer.html';?>

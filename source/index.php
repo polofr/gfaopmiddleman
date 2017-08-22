@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include './partial/_header.html';?>
 <title>GFAOP</title>
 <meta name="title" content="Gfaop">
 <meta name="description" content="Accueil du groupe franco-africain d'oncologie pédiatrique">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-1 py-5">
   <h1 class="pt-5">Guérir le cancer des enfants en Afrique</h1>
@@ -17,16 +17,16 @@
         <h2>NOS ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <a href="formation.html"><img src="formation.png" width="60px" alt="la formation" ></a>
+        <a href="./formation.php"><img src="images/formation.png" width="60px" alt="la formation" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="recherche-clinique.html"><img src="recherche.png" width="50px" alt="la recherche" ></a>        
+        <a href="./recherche-clinique.php"><img src="images/recherche.png" width="50px" alt="la recherche" ></a>        
       </div>
       <div class="col-sm-3">
-        <a href="medicaments-et-materiel.html"><img src="envoi.png" width="50px" alt="l'envoi de médicaments" ></a>
+        <a href="./medicaments-et-materiel.php"><img src="images/envoi.png" width="50px" alt="l'envoi de médicaments" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="accompagnement.html"><img src="maison2x.png" width="50px" alt="l'accompagnement des familles" ></a>
+        <a href="./accompagnement.php"><img src="images/maison2x.png" width="50px" alt="l'accompagnement des familles" ></a>
       </div>
     </div>
     <div class="row text-center py-1">
@@ -56,9 +56,9 @@ for ($i = 0; $i <= 2; $i++) {
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
         <a href="' . $posts[$i]['text'] . '">' . $posts[$i]['text'] . '</a>
       </div>
-    </div>'
-
-} ?>
+    </div>';
+} 
+?>
   <script async src="https://assets.tumblr.com/post.js"></script>      
   </div>
   <div class="text-center py-2">
@@ -78,4 +78,4 @@ for ($i = 0; $i <= 2; $i++) {
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

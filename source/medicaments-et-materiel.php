@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">ENVOI DE MEDICAMENTS ET DE MATERIEL</h1>
@@ -18,10 +18,10 @@
   </div>
   <div class="row text-center py-1">
     <div class="col-sm-6 p-4">
-      <img src="medicaments_envoyes_aux_unites_pilotes.png" class="borderless rounded img-thumbnail" alt="graphique des médicaments envoyés aux unités pilotes " >
+      <img src="images/medicaments_envoyes_aux_unites_pilotes.png" class="borderless rounded img-thumbnail" alt="graphique des médicaments envoyés aux unités pilotes " >
     </div>
     <div class="col-sm-6 p-4">
-      <img src="evolution_medicaments_envoyes.png" class="borderless rounded img-thumbnail" alt="évolution graphique des médicaments envoyés" >
+      <img src="images/evolution_medicaments_envoyes.png" class="borderless rounded img-thumbnail" alt="évolution graphique des médicaments envoyés" >
     </div>
   </div>
   <div class="row text-center py-1">
@@ -29,6 +29,6 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>
 
 

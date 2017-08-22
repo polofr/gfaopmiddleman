@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="container">
   <h2 class="text-center py-3">Le Bureau</h2>
@@ -13,21 +13,21 @@
       <h5>Professeur M’hamed HARIF</h5>
       <h6>Hôpital Cheikh Khalifa, Casablanca, Maroc</h6>
       <p>m.harif@menara.ma</p>
-      <img src="mharif.jpg" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/mharif.jpg" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
     <div class="col-md-3 cream rounded m-3">
       <h5 class="py-2">Vice-Président</h5>
       <h5>Docteur Catherine PATTE</h5>
       <h6>Gustave Roussy, Villejuif, France</h6>
       <p>catherine.patte@gustaveroussy.fr</p>
-      <img src="cp.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/cp.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
     <div class="col-md-3 cream rounded m-3 mr-md-auto">
       <h5 class="py-2">Vice-Président</h5>
       <h5>Professeur Pierre BEY</h5>
       <h6>Institut Curie, Paris, France</h6>
       <p>pierre.bey@curie.fr</p>
-      <img src="pb.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/pb.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
   </div>
   <div class="row text-center">
@@ -36,21 +36,21 @@
       <h5>Professeur Guy LEVERGER</h5>
       <h6>Hôpital Armand Trousseau, Paris, France</h6>
       <p>guy.leverger@trs.aphp.fr</p>
-      <img src="GL.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/GL.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
     <div class="col-md-3 cream rounded m-3">
       <h5 class="py-2">Secrétaire générale</h5>
       <h5>Professeur Laïla HESSISSEN</h5>
       <h6>Hôpital des Enfants, Rabat, Maroc</h6>
       <p>lailahsn@gmail.com</p>
-      <img src="LH.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/LH.png" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
     <div class="col-md-3 cream rounded m-3 mr-md-auto">
       <h5 class="py-2">Trésorier</h5>
       <h5>M. Louis OMER-DECUGIS</h5>
       <h6>Chef d'entreprise, Paris, France</h6>
       <p>lod@siim.net</p>
-      <img src="lod.jpg" class="borderless rounded img-thumbnail" width="130px" alt="mharif" >
+      <img src="images/lod.jpg" class="borderless rounded img-thumbnail" width="130px" alt="mharif" >
     </div>
   </div>
   <div class="row text-center"> 
@@ -59,16 +59,16 @@
       <h5>Docteur Fousseyni TRAORE</h5>
       <h6>Hôpital Gabriel Touré, Bamako, Mali</h6>
       <p>drfousseynitraore@gmail.com</p>
-      <img src="photofousseyni.jpg" class="borderless rounded img-thumbnail" width="100px" alt="ftraoré" >
+      <img src="images/photofousseyni.jpg" class="borderless rounded img-thumbnail" width="100px" alt="ftraoré" >
     </div>
     <div class="col-md-3 cream rounded m-3 mr-md-auto">
       <h5 class="py-2">Membre</h5>
       <h5>M. Jean-Jacques ATTEBY</h5>
       <h6>CHU de Treichville, Abidjan, Côte d'Ivoire</h6>
       <p>attebyjj@yahoo.fr</p>
-      <img src="jja.jpg" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
+      <img src="images/jja.jpg" class="borderless rounded img-thumbnail" width="100px" alt="mharif" >
     </div>
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

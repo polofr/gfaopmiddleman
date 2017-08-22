@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">LA RECHERCHE CLINIQUE</h1>
@@ -29,7 +29,7 @@
       </ul>
     </div>
     <div class="col-12 col-md-6">
-      <img src="patients_pathologie.png" class="borderless rounded img-thumbnail" alt="graphique répartition des pathologies" >
+      <img src="images/patients_pathologie.png" class="borderless rounded img-thumbnail" alt="graphique répartition des pathologies" >
     </div>
   </div>
   <div class="row mx-auto text-justify py-4">
@@ -39,7 +39,7 @@
       Chaque unité est amenée à enregistrer ses patients dans un logiciel commun. A partir de ces informations pourront être menés les nouveaux projets de recherche clinique dans le but d’améliorer les protocoles de traitement.
     </div>
     <div class="col-12 col-md-6 rounded">
-      <img src="patients_inclusion.png" class="borderless rounded img-thumbnail" alt="graphique répartition des inclusions par pays" >
+      <img src="images/patients_inclusion.png" class="borderless rounded img-thumbnail" alt="graphique répartition des inclusions par pays" >
     </div>
   </div>
 </div>
@@ -90,7 +90,7 @@
   <h4 class="text-center py-2"> Les études cliniques menées depuis la création du GFAOP montrent des résultats encourageants.</h4>
   <div class="row text-justify">
     <div class="col-12 col-md-6">
-      <img src="cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des cas declarés" >
+      <img src="images/cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des cas declarés" >
     </div>
     <div class="col-12 col-md-6">
       <p> Ainsi, pour les Burkitt et les néphroblastomes, deux études successives réalisées entre 2000 et 2009 indiquent les taux de survie suivants :</p>
@@ -103,12 +103,12 @@
       <p>-  Pour les rétinoblastomes, les résultats à Bamako, seule unité pilote pour laquelle nous ayons un peu de recul avec 112 cas observés depuis le lancement du programme en octobre 2011, comportent une augmentation des formes intraoculaires à 70% actuellement, avec plus de 90% de guérison. Ils comportent aussi un début des traitements conservateurs dans les formes bilatérales. Tous les enfants énucléés ont eu une prothèse.</p>
     </div>
     <div class="col-12 col-md-6">
-      <img src="total_cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des totaux des cas declarés" >
+      <img src="images/total_cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des totaux des cas declarés" >
     </div>
   </div>
   <div class="row text-justify">
-    <img src="graphique_recapitulatif.png" class="borderless rounded img-thumbnail mx-auto" alt="graphique recapitulatif" >
+    <img src="images/graphique_recapitulatif.png" class="borderless rounded img-thumbnail mx-auto" alt="graphique recapitulatif" >
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

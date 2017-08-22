@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title>Actions du GFAOP</title>
 <meta name="title" content="Actions du GFAOP">
 <meta name="description" content="Actions du groupe franco-africain d'oncologie pédiatrique">
 <meta name="keywords" content="formation, recherche clinique, accompagnement, diplôme universitaire, Oncologie Pédiatrique">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">
     <h1 class="pt-5">ACCOMPAGNEMENT</h1>
@@ -17,13 +17,13 @@
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_1.png" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
+      <img src="images/maison_des_parents_1.png" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
     </div>
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_2.png" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
+      <img src="images/maison_des_parents_2.png" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
     </div>
     <div class="col-12 col-sm-4">
-      <img src="maison_des_parents_3.jpg" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
+      <img src="images/maison_des_parents_3.jpg" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
     </div>
   </div>
   <div class="row text-center">
@@ -45,7 +45,7 @@
   </div>
   <div class="row">
     <div class="col-md-3 text-center">
-      <img src="maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="une Maisons des parents" >
+      <img src="images/maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="une Maisons des parents" >
     </div>
     <div class="col-md-9 text-justify">
       Souvent pour des raisons financières et de distance par rapport à leur lieu d’habitation, les familles restent sur place pendant les inter-cures en chimiothérapie, soit dans l’hôpital (auquel cas on manque de lits pour les nouveaux patients) soit autour de l’hôpital dans des conditions très difficiles. 
@@ -59,7 +59,7 @@
   </div>
   <div class="row py-2 text-center">
     <div class="col-12 col-md-3 text-center">
-      <img src="fonds_de_soutien.jpg" class="borderless rounded img-thumbnail" alt="enfant soigné à l'oeil" >
+      <img src="images/fonds_de_soutien.jpg" class="borderless rounded img-thumbnail" alt="enfant soigné à l'oeil" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       <h3 class="mx-auto py-1 text-center">Fonds de soutien aux plus démunis</h3>
@@ -79,7 +79,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-3 text-center">
-      <img src="aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
+      <img src="images/aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       Le moment de l’annonce du diagnostic est excessivement difficile pour les familles, et il l’est aussi pour les médecins chargés de l’effectuer.<br> Malgré cela, l’annonce d’un diagnostic de cancer doit être considérée comme un moment stratégique, pouvant clairement influencer la suite du traitement. Cette affirmation est encore plus vraie pour des unités d’oncologie pédiatrique africaines, où les spécificités socioéconomiques et culturelles font qu’une famille sur quatre abandonne le traitement en cours. De ce fait, il faut réaliser que le parent que l’on rencontre pour lui annoncer le diagnostic de cancer est aussi susceptible de déserter avec son enfant malade.<br> Au-delà des raisons économiques, ces abandons sont liés à la méconnaissance de la maladie et du traitement ou à l’influence des croyances locales.<br>
@@ -99,7 +99,7 @@
   </div>
   <div class="row py-3">
     <div class="col-12 col-md-3 text-center">
-      <img src="politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princesse Lalla Salma, Dominique Ouattara et Bernadette Chirac au CHU de Marrakech" >
+      <img src="images/politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princesse Lalla Salma, Dominique Ouattara et Bernadette Chirac au CHU de Marrakech" >
     </div>
     <div class="col-12 col-md-9">
       <p class="text-justify">Depuis 16 ans, le GFAOP travaille sur le terrain, les équipes ont prouvé que malgré des conditions difficiles et très peu de moyens, de bons résultats étaient obtenus et qu’ainsi, même en Afrique, les enfants pouvaient être guéris.
@@ -112,4 +112,4 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

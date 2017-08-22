@@ -1,20 +1,20 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title></title>
 <meta name="title" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="container">
   <div class="d-flex justify-content-center pt-3">
     <div class="p-2">
-      <img src="logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
+      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
     </div>
     <div class="p-2">
-      <img src="univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Mohamed 5 University Rabat" >
+      <img src="../images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Mohamed 5 University Rabat" >
     </div>
     <div class="p-2">
-      <img src="univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Paris Sud University" >
+      <img src="../images/univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Paris Sud University" >
     </div>
   </div>
 </div>
@@ -23,7 +23,7 @@
   <div class="row text-center">
     <h3 class="col-12 mx-auto py-2">Why a University Diploma in pediatric oncology ?</h3>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" alt="first promotion" >
+      <img src="../images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" alt="first promotion" >
     </div>
     <div class="text-justify col-12 col-md-8">
       Childhood cancer is a major emerging cause of morbidity and mortality. In developed countries, it is the first cause of death for children. In developing countries, with the decrease in mortality due to infectious and nutritional diseases, cancer is becoming more and more important regarding children's health problems. However childhood cancer management requires a high level of technicality and a good organization of healthcare facilities. Nonetheless, there is no organized training for pediatric oncology yet in Africa. Training in developed countries is costly and sometimes inappropriate to the candidate's practice. The setting up of a University diploma carried out by the Faculty of Medicine and Pharmacy of Rabat in partnership with the University Paris South, thus fills this gap and contributes to the development of oncology. This training was largely inspired by the IDPO (Interuniversity Diploma of Pediatric Oncology) organized at the Gustave Roussy Institute and thanks to which numerous African pediatric oncologists have been trained in pediatric oncology.
@@ -35,7 +35,7 @@
       The next promotion will be hosted in September 2018, in order to better accompany the students of the first 3 promotions until the end of their training and their begin in professional life.
     </div>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_2.jpg" class="borderless rounded img-thumbnail" alt="second promotion" >
+      <img src="../images/promotion_ducp_2.jpg" class="borderless rounded img-thumbnail" alt="second promotion" >
     </div>
   </div>
 </div>
@@ -57,7 +57,7 @@
       </ul>
     </div>
     <div class="col-12 col-md-4">
-      <img src="promotion_ducp_3.jpg" class="borderless rounded img-thumbnail" alt="third promotion" >
+      <img src="../images/promotion_ducp_3.jpg" class="borderless rounded img-thumbnail" alt="third promotion" >
     </div>
   </div>
 </div>
@@ -95,21 +95,21 @@
   </div>
   <div class="d-flex justify-content-center">
     <div class="p-2">
-      <img src="logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="GFAOP logo" >
+      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="GFAOP logo" >
     </div>
     <div class="p-2">
-      <img src="logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Lalla Salma foundation " >
+      <img src="../images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Lalla Salma foundation " >
     </div>
     <div class="p-2">
-      <img src="logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Provence cancerpole" >
+      <img src="../images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Provence cancerpole" >
     </div>
     <div class="p-2">
-      <img src="logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="marrocan coiety of pediatric hematology and oncology" >
+      <img src="../images/logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="marrocan coiety of pediatric hematology and oncology" >
     </div>
     <div class="p-2">
-      <img src="logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="sanofi espoir foundation" >
+      <img src="../images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="sanofi espoir foundation" >
     </div>
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>

@@ -1,9 +1,9 @@
-<?php include 'partial/_header.php';?>
+<?php include 'partial/_header.html';?>
 <title>Actions du GFAOP</title>
 <meta name="title" content="Les projets légales du GFAOP">
 <meta name="description" content="Les projets du groupe franco-africain d'oncologie pédiatrique">
 <meta name="keywords" content="">
-<?php include 'partial/_navbar.php';?>
+<?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-7">
   <h1 class="py-5">NOS PROJETS</h1>
@@ -185,5 +185,5 @@
   </div>
 </div>
 
-<?php include 'partial/_footer.php';?>
+<?php include 'partial/_footer.html';?>
 
