@@ -54,7 +54,6 @@ for ($i = 0; $i <= 2; $i++) {
       <div class="tumblr-post"
         data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/' . str_replace("https://gfaopcorinnecd.tumblr.com/post/", "", $posts[$i]) . '"
         data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
-        <a href="' . $posts[$i] . '">' . $posts[$i] . '</a>
       </div>
     </div>';
 } 
