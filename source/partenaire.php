@@ -48,16 +48,22 @@
       <h5>Gustave Roussy</h5>
     </div>
     <div class="col-md-2 text-center">
+      <a href="https://curie.fr/">
+        <img src="images/logo_institut_curie.png" class="borderless rounded img-thumbnail" width="80px" alt="Institut Curie" >
+      </a>
+      <h5>Institut Curie</h5>
+    </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.expertisefrance.fr/">
+        <img src="images/logo_expertise_france.png" class="borderless rounded img-thumbnail" width="80px" alt="Expertise France" >
+      </a>
+      <h5>Expertise France</h5>
+    </div>
+    <div class="col-md-2 text-center">
       <a href="http://fondation-sanofi-espoir.com/">
         <img src="images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="300px" alt="fondation sanofi espoir" >
       </a>
       <h5>Fondation Sanofi Espoir</h5>
-    </div>
-    <div class="col-md-2 text-center">
-      <a href="http://www.total.fr/home.html">
-        <img src="images/logototal.jpg" class="borderless rounded img-thumbnail" width="300px" alt="fondation total" >
-      </a>
-      <h5>TOTAL</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.contrelecancer.ma/fr/">
@@ -70,11 +76,7 @@
         <img src="images/logoairfrance.jpg" class="borderless rounded img-thumbnail" width="300px" alt="Air France" >
       </a>
       <h5>Air France</h5>
-    </div>
-    <div class="col-md-2 text-center">
-      <img src="images/logosiim.jpg" class="borderless rounded img-thumbnail" width="90px" alt="Fondation Louis Omer-Decugis et SIIM" >
-      <h5>SIIM</h5>
-    </div>
+    </div>    
   </div>
   <div class="row">
     <div class="col-md-2 text-center">
@@ -158,10 +160,10 @@
       <h5>Association Valentin Haüy</h5>
     </div>
     <div class="col-md-2 text-center">
-      <a href="http://www.nausicaa.asso.fr/wordpress/">
-        <img src="images/logo_nausicaa.jpg" class="borderless rounded img-thumbnail" width="300px" alt="Nausicaa" >
+      <a href="http://www.associationlavenir.ma/notreaction.html">
+        <img src="images/logo_avenir_maroc.png" class="borderless rounded img-thumbnail" width="80px" alt="Association Avenir au Maroc" >
       </a>
-      <h5>Nausicaa</h5>
+      <h5>Association Avenir au Maroc</h5>
     </div>
     <div class="col-md-2 text-center">
       <img src="images/logovictoir.png" class="borderless rounded img-thumbnail" width="300px" alt="Assocation VICTOiR" >
@@ -210,29 +212,27 @@
       <h5>Crédit Foncier de France</h5>
     </div>
     <div class="col-md-2 text-center">
-      <a href="http://www.expertisefrance.fr/">
-        <img src="images/logo_expertise_france.png" class="borderless rounded img-thumbnail" width="80px" alt="Expertise France" >
+      <a href="http://www.total.fr/home.html">
+        <img src="images/logototal.jpg" class="borderless rounded img-thumbnail" width="300px" alt="fondation total" >
       </a>
-      <h5>Expertise France</h5>
+      <h5>TOTAL</h5>
     </div>
     <div class="col-md-2 text-center">
-      <a href="https://curie.fr/">
-        <img src="images/logo_institut_curie.png" class="borderless rounded img-thumbnail" width="80px" alt="Institut Curie" >
-      </a>
-      <h5>Institut Curie</h5>
+      <img src="images/logosiim.jpg" class="borderless rounded img-thumbnail" width="90px" alt="Fondation Louis Omer-Decugis et SIIM" >
+      <h5>SIIM</h5>
     </div>
-    <div class="col-md-2 text-center">
-      <a href="http://www.associationlavenir.ma/notreaction.html">
-        <img src="images/logo_avenir_maroc.png" class="borderless rounded img-thumbnail" width="80px" alt="Association Avenir au Maroc" >
-      </a>
-      <h5>Association Avenir au Maroc</h5>
-    </div> 
     <div class="col-md-2 text-center">
       <a href="https://www.facebook.com/gabriella.retinoblastome">
         <img src="images/logo_gabriella_pour_la_vue.png" class="borderless rounded img-thumbnail" width="80px" alt="Gabriella pour la vue" >
       </a>
       <h5>L'Association “Gabriella pour la vue” en RDC</h5>
     </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.nausicaa.asso.fr/wordpress/">
+        <img src="images/logo_nausicaa.jpg" class="borderless rounded img-thumbnail" width="300px" alt="Nausicaa" >
+      </a>
+      <h5>Nausicaa</h5>
+    </div>    
   </div>
   <div class="row">
     <ul>

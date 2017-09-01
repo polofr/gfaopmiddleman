@@ -195,6 +195,7 @@
       <h4>CASABLANCA</h4><br>
       <b>Pr Abdellah MADANI</b> (madani.hemato@gmail.com) <br>
       - CHU Casablanca (MHamed), Hôpital Cheikh Khalifa<br>
+      <p>Nombre de cas rapportés par les UP en 2016: 162 traités / 78 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
   <div class="row cream">
@@ -203,9 +204,9 @@
     </div>
     <div class="col-8">
       <h4>RABAT</h4><br>
-      <b>Pr Mhammed KHATTAB</b> (khattab@menara.ma) <br>
+      <b>Pr Mhammed KHATTAB</b> (khattabmoh@yahoo.fr) <br>
       <b>Dr Laïla HESSISSEN</b> (laila_hsn@yahoo.fr) <br>
-      - Hôpital des enfants de Raba<br>
+      - Hôpital des enfants de Rabat<br>
       <p>Nombre de cas rapportés par les UP en 2016: 273 traités / 123 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
@@ -220,7 +221,6 @@
       <p>Nombre de cas rapportés par les UP en 2016: 104 traités / 50 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  
   <div class="row cream">
     <div class="col-12 col-md-4 text-center">
     <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les bureaux de l'équipe soignante" >
@@ -232,7 +232,6 @@
       <p>Nombre de cas rapportés par les UP en 2016: 125 traités / 66 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  
   <div class="row">
     <div class="col-12 col-md-4 text-center">
       <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300px" alt="l'entree de l'hopital" >
