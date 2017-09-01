@@ -46,6 +46,12 @@
       <br/><small>Data Manager</small></p>
       <h5><strong>Marie-Solange DOUCOT</strong></h5>
       <p><small>Infirmière</small></p>
+      <h5><strong>Dr Jean Jacques Atteby YAO</strong></h5>
+      <p>ABIDJAN CHU de Treichville
+      <br/><small>Comité de Tumeurs</small></p>
+      <h5><strong>Dr Fousseyni TRAORE</strong></h5>
+      <p>BAMAKO Hôpital Gabriel Touré
+      <br/><small>Comité de Tumeurs</small></p>      
     </div>
     <div class="col-12 col-md-5 cream m-2 rounded p-3 mx-auto mr-md-auto">
       <h5><strong>Docteur Line COUITCHERE</strong></h5>
@@ -69,7 +75,6 @@
       <h5><strong>Professeur Adama GBADOE</strong></h5> 
       <p>LOME CHU Sylvanus Olympio
       <br/><small>Unité Infectiologie et Onco-pédiatrie</small></p>
-      <h6 class="pb-2"><strong>Mme Marie-Solange DOUCOT, Infrmière, Paris</strong></h5>
       <h5><strong>Docteur Robert LUKAMBA</strong></h5> 
       <p>LUBUMBASHI Cliniques Universitaires 
       <br/><small>Service de Pédiatrie</small></p>
@@ -91,6 +96,9 @@
       <h5><strong>Docteur Sarra Benmiloud</strong></h5>
       <p>MAROC CHU Hassan II
       <br/><small>Service Oncologie Pédiatrique</small></p>
+      <h5><strong>Professeur Jamila ELHOUDZI</strong></h5>
+      <p>MAROC Hôpital Mohammed VI de Marrakech
+      <br/><small>Service Oncologie Pédiatrique</small></p>      
     </div>
   </div>
 </div>

@@ -97,7 +97,7 @@
       <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300px" alt="formation data manager" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• Formation des Data Managers</h3>
+      <h3>• Formation des Attachés de Recherche Clinique (ARC)</h3>
       Dans le cadre de la mise en place du registre du cancer, la formation du personnel pour la collecte et l’envoi des donnnées permet de réaliser les études cliniques.
     </div>
   </div>

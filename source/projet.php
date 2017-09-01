@@ -24,7 +24,7 @@
       <div class="card-header cream" role="tab" id="headingOne">
         <h5 class="mb-0">
           <a class="text-orange" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            1) Soigner plus d’enfants atteints de cancer et plus précocement
+            1) Le traitement d’un enfant atteint de cancer coûte moins de 2000 euros... Je participe!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
@@ -48,7 +48,7 @@
       <div class="card-header cream" role="tab" id="headingTwo">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            2) Développer la Formation du personnel soignant : médecins et infirmières
+            2) Un stage de 2 mois en France en France coûte environ 5000 euros... Je participe!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
@@ -141,7 +141,7 @@
       <div class="card-header cream" role="tab" id="headingSix">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-            6) Ouvrir des maisons des parents
+            6) Le fonctionnement d’une maison de parents coûte environ 15 000 euros par an... Je participe!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
@@ -160,7 +160,7 @@
       <div class="card-header cream" role="tab" id="headingSeven">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-            7) Mettre en place un fond de soutien aux familles démunies
+            7) Le coût moyen d’un bilan initial est de 250 euros... Je participe!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
@@ -182,6 +182,39 @@
         </div>
       </div>
     </div>
+    
+    <div class="card">
+      <div class="card-header cream" role="tab" id="headingSeven">
+        <h5 class="mb-0">
+          <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+            8) Favoriser l’émergence et le soutien des associations locales
+          </a>
+          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+        </h5>
+      </div>
+      <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
+        <div class="card-block">
+          <p class="text-justify">
+            Ce projet a pour ambition de permettre aux familles et aux associations locales de se structurer et de mener des actions complémentaires à celles des unités médicales. D’assurer ainsi la dimension sociétale de la prise en charge du cancer, soutien aux familles, accompagnement et suivi psychologique des familles et des patients, gestion des maisons des parents, recherche de partenaires.
+          </p>
+          <ul>
+            <li>Des familles informées peuvent agir plus rapidement pour leurs enfants</li>
+            <li>Des familles regroupées peuvent mener des actions plus efficaces</li>
+            <li>Des familles organisées en associations structurées sont écoutées et crédibles auprès des institutions et des partenaires financiers</li>
+          </ul>
+          <p class="text-justify">
+            Le coût des examens ou des soins à la charge des familles est probablement une des raisons majeures de ces abandons de traitement. 
+            Ce fond de soutien vise à diminuer les abandons de diagnostic et de traitement en prenant en charge les coûts du bilan initial et du traitement des enfants les plus démunis après un diagnostic socio-économique de la famille.
+          </p>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+<div class="container">
+  <div class="embed-responsive embed-responsive-16by9 mx-auto">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6vxfInCBVT4&list=PLQDm3NalMlSRLrr6okYOC2CmF1IapH5wL&index=3"></iframe>
   </div>
 </div>
 

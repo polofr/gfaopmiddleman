@@ -14,7 +14,7 @@
     Le GFAOP fait don aux unités subsahariennes de médicaments anticancéreux requis pour les 5 protocoles suivis. 
     Ce poste de dépenses est le plus lourd sur le plan financier puisqu’il représente environ 160 000 euros par an mais il reste encore actuellement indispensable pour certains pays.
     Le souhait du GFAOP est de se désengager petit à petit de la fourniture des médicaments qui à terme devraient être disponibles et fournis par chaque pays grâce à l’inscription des médicaments sur la liste des médicaments essentiels éditée par l’OMS.
-    Cette action est soutenue par la Fondation Lalla Salma.
+    Cette action est soutenue par la Fondation Lalla Salma. La majorité des médicaments est acheminée grâce à Aviation Sans Frontières.
   </div>
   <div class="row text-center py-1">
     <div class="col-sm-6 p-4">

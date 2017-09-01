@@ -73,6 +73,9 @@
       <div class="text-justify">
         Grâce à l’engagement des équipes médicales du GFAOP, au soutien apporté par les institutions, les autorités, les partenaires et la société civile, ce qui semblait encore impossible devient réalité : les enfants atteints de cancers en Afrique peuvent eux aussi avoir accès aux soins.
       </div>
+      <div class="text-justify text-italic">
+        Le GFAOP est une association médicale et n’a pas vocation à prendre en charge le traitement des enfants hors de leurs pays d’origine.
+      </div>
     </div>
     <div class="col-md-12 text-justify">
       <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas »2ème édition , The American Cancer Society, 2014)
