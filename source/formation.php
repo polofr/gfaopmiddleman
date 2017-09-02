@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>La formation</title>
+<meta name="title" content="La formation">
+<meta name="description" content="La mission du GFAOP : former médecins et infirmiers africains">
+<meta name="keywords" content="mission GFAOP, formation, médecins, infirmiers, onco-pédiatres, chirurgiens, anatomopathologistes">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">

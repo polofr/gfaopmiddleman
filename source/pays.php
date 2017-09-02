@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title>Les objectifs du groupe franco-africain d'oncologie pédiatrique</title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>La présence du groupe franco-africain d'oncologie pédiatrique dans les pays africains</title>
+<meta name="title" content="La présence du GFAOP dans les pays africains">
+<meta name="description" content="Présentation des unités-pilotes du GFAOP dans les pays africains">
+<meta name="keywords" content="GFAOP, Afrique, pays, unités-pilotes, Adhésion">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-4">

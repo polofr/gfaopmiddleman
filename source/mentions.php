@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title>Actions du GFAOP</title>
+<title>Mentions légales du GFAOP</title>
 <meta name="title" content="Les mentions légales du GFAOP">
 <meta name="description" content="Les mentions légales du groupe franco-africain d'oncologie pédiatrique">
-<meta name="keywords" content="">
+<meta name="keywords" content="GFAOP, mentions légales">
 <?php include 'partial/_navbar.html';?>
 
 <div class="container">

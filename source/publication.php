@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title>Actions du GFAOP</title>
-<meta name="title" content="Les publications légales du GFAOP">
-<meta name="description" content="Les publications du groupe franco-africain d'oncologie pédiatrique">
-<meta name="keywords" content="">
+<title>Publications du GFAOP</title>
+<meta name="title" content="Les publications du GFAOP">
+<meta name="description" content="Les publications du groupe franco-africain d'oncologie pédiatrique : mieux comprendre le cancer de l'enfant en Afrique">
+<meta name="keywords" content="publications, oncologie pédiatrique, comprendre, le cancer de l'enfant, Afrique">
 <?php include 'partial/_navbar.html';?>
 
 <div class="container">

@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
 <title>La revue de presse du groupe franco-africain d'oncologie pédiatrique</title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<meta name="title" content="La revue de presse du groupe franco-africain d'oncologie pédiatrique">
+<meta name="description" content="Le GFAOP dans les médias : RFI, Claire Hédon, Africa Numéro 1, Amina, Jeune Afrique">
+<meta name="keywords" content="GFAOP, médias, RFI, Claire Hédon, Africa Numéro 1, Amina, Jeune Afrique">
 <?php include 'partial/_navbar.html';?>
 
 <div class="container">

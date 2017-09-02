@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title>Actions du GFAOP</title>
-<meta name="title" content="Actions du GFAOP">
-<meta name="description" content="Actions du groupe franco-africain d'oncologie pédiatrique">
-<meta name="keywords" content="formation, recherche clinique, accompagnement, diplôme universitaire, Oncologie Pédiatrique">
+<title>Accompagnement</title>
+<meta name="title" content="Accompagnement">
+<meta name="description" content="Mission : accompagner la création et le développement des services d'oncologie pédiatriques des hôpitaux africains et soutenir les familles">
+<meta name="keywords" content="hôpital, cancérologie, oncologie, cancer, enfant, pédiatrie, Afrique">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">

@@ -1,8 +1,9 @@
 <?php include 'partial/_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Recettes et dépenses du GFAOP</title>
+<meta name="title" content="Recettes et dépenses du GFAOP">
+<meta name="description" content="Les finances du GFAOP : recettes et dépenses">
+<meta name="keywords" content="finances, comptes, recettes, dépenses, GFAOP">
+
 <?php include 'partial/_navbar.html';?>
 
 <div class="container">

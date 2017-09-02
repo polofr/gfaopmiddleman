@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Le comité de soutien</title>
+<meta name="title" content="Le comité de soutien">
+<meta name="description" content="Le comité de soutien, l'organisation du GFAOP">
+<meta name="keywords" content="comité de soutien, gouvernance, organisation du GFAOP">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-6">

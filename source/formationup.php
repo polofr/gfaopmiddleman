@@ -1,9 +1,14 @@
 <?php include 'partial/_header.html';?>
 <title>Le Diplôme Universitaire de Cancérologie Pédiatrique</title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<meta name="title" content="Le Diplôme Universitaire de Cancérologie Pédiatrique">
+<meta name="description" content="Le Diplôme Universitaire de Cancérologie Pédiatrique : une formation reconnue ouverte aux médecins africains">
+<meta name="keywords" content="mission GFAOP, formation, médecins, infirmiers, onco-pédiatres, chirurgiens, anatomopathologistes">
 <?php include 'partial/_navbar.html';?>
+
+<title>La formation</title>
+<meta name="title" content="La formation">
+<meta name="description" content="La mission du GFAOP : former médecins et infirmiers africains">
+<meta name="keywords" content="">
 
 <div class="container">
   <div class="d-flex justify-content-center pt-3">

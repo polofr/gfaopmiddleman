@@ -1,8 +1,8 @@
 <?php include './partial/_header.html';?>
 <title>GFAOP</title>
 <meta name="title" content="Gfaop">
-<meta name="description" content="Accueil du groupe franco-africain d'oncologie pédiatrique">
-<meta name="keywords" content="">
+<meta name="description" content="Accueil du groupe franco-africain d'oncologie pédiatrique : soigner le cancer de l'enfant en Afrique">
+<meta name="keywords" content="formation, recherche clinique, médicaments, cancer de l'enfant, oncologie, Afrique">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-1 py-5">

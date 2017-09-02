@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>La recherche clinique</title>
+<meta name="title" content="La recherche clinique du GFAOP">
+<meta name="description" content="La recherche clinique du groupe franco-africain d'oncologie pédiatrique : chercher pour mieux comprendre le cancer de l'enfant en Afrique">
+<meta name="keywords" content="recherche clinique, oncologie pédiatrique, comprendre, le cancer de l'enfant, Afrique">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">

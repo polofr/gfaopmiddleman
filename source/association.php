@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
 <title>L'Association</title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<meta name="title" content="L'association">
+<meta name="description" content="Association médicale loi de 1901 fondée en 2000 pour soigner, en Afrique, les enfants atteints de cancer">
+<meta name="keywords" content="cancer, enfant, Afrique, association médicale, loi 1901">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-2">

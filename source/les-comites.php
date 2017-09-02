@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Les Comités médicaux et paramédicaux</title>
+<meta name="title" content="Les Comités médicaux et paramédicaux">
+<meta name="description" content="Les Comités médicaux et paramédicaux, l'organisation du GFAOP">
+<meta name="keywords" content="Comités médicaux et paramédicaux, gouvernance, organisation du GFAOP">
 <?php include 'partial/_navbar.html';?>
 
 <div class="container py-3">

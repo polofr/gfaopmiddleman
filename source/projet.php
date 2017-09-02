@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
-<title>Actions du GFAOP</title>
-<meta name="title" content="Les projets légales du GFAOP">
-<meta name="description" content="Les projets du groupe franco-africain d'oncologie pédiatrique">
-<meta name="keywords" content="">
+<title>Les projets du GFAOP</title>
+<meta name="title" content="Les projets du GFAOP">
+<meta name="description" content="Participer à nos projets en Afrique pour soigner le cancer de l'enfant en faisant un don!">
+<meta name="keywords" content="participer, projets, Afrique, cancer, enfant, don, donation">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-7">
