@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>The organization</title>
+<meta name="title" content="The organization">
+<meta name="description" content="Medical NGO founded in 2000 to cure child cancer in Africa">
+<meta name="keywords" content="NGO, cancer, child, Africa, medical organization">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-2">

@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>GFAOP book keeping</title>
+<meta name="title" content="GFAOP book keeping">
+<meta name="description" content="Revenues and Expenditures of the organization">
+<meta name="keywords" content="GFAOP, book keeping, revenues, expenditures">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="container">

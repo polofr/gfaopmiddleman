@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Develop pediatric oncology wards in Africa</title>
+<meta name="title" content="Develop pediatric oncology wards in Africa">
+<meta name="description" content="Mission : create and develop pediatric oncology wards in African hospitals and support families through cancer">
+<meta name="keywords" content="hospital, cancerology, oncology, cancer, child, pediatrics, Africa, family house">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-5">

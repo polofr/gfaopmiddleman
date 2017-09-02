@@ -2,7 +2,7 @@
 <title>Accompagnement</title>
 <meta name="title" content="Accompagnement">
 <meta name="description" content="Mission : accompagner la création et le développement des services d'oncologie pédiatriques des hôpitaux africains et soutenir les familles">
-<meta name="keywords" content="hôpital, cancérologie, oncologie, cancer, enfant, pédiatrie, Afrique">
+<meta name="keywords" content="hôpital, cancérologie, oncologie, cancer, enfant, pédiatrie, Afrique, maison des enfants">
 <?php include 'partial/_navbar.html';?>
 
 <div class="wrapper wrapper-5">

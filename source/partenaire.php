@@ -1,8 +1,8 @@
 <?php include 'partial/_header.html';?>
 <title>Les partenaires du groupe franco-africain d'oncologie pédiatrique</title>
 <meta name="title" content="Les partenaires du groupe franco-africain d'oncologie pédiatrique">
-<meta name="description" content="Tous nos partenaires : ">
-<meta name="keywords" content="GFAOP,Gustave Roussy, institut Curie, Fondation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE">
+<meta name="description" content="Tous nos partenaires : Gustave Roussy, Institut Curie, Fondation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE...">
+<meta name="keywords" content="GFAOP, Gustave Roussy, Institut Curie, Fondation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE">
 <?php include 'partial/_navbar.html';?>
 
 <div class="container cream rounded">

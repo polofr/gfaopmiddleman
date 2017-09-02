@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Drug and supply delivery</title>
+<meta name="title" content="Drug and supply delivery">
+<meta name="description" content="Provide drug and supply to the GFAOP care units in Africa">
+<meta name="keywords" content="Drug delivery, supply delivery, Africa, mission, GFAOP">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-5">

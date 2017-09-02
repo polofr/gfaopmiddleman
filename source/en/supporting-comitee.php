@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>GFAOP's supporting comitee</title>
+<meta name="title" content="GFAOP's supporting comitee">
+<meta name="description" content="Supporting comitee: GFAOP's organigram">
+<meta name="keywords" content="Supporting comitee, GFAOP's organigram">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-6">

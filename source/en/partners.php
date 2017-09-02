@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>GFAOP's partners</title>
+<meta name="title" content="GFAOP's partners">
+<meta name="description" content="All our partners : Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE...">
+<meta name="keywords" content="GFAOP, Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="container cream rounded">

@@ -1,12 +1,12 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>Clinical research</title>
+<meta name="title" content="Clinical research">
+<meta name="description" content="Understand child cancer in Africa to cure better, faster and cheaper">
+<meta name="keywords" content="Clinical research, pediatric oncology, understand cancer, child cancer, Africa">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-5">
-  <h1 class="pt-5">CLINICAL REASEARCH</h1>
+  <h1 class="pt-5">CLINICAL RESEARCH</h1>
 </div>
 <div class="container">
   <div class="row mx-auto text-justify py-3">

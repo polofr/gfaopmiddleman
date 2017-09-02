@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>A University Diploma in pediatric oncology</title>
+<meta name="title" content="A University Diploma in pediatric oncology">
+<meta name="description" content="A University Diploma in pediatric oncology : a recognized training program for African doctors and nurses">
+<meta name="keywords" content="GFAOP's mission, education, training, doctors, nurses, onco-pediatrics, surgeons, anatomopathologist, Africa">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="container">
