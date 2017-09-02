@@ -29,7 +29,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="300px" alt="Ndella Diouf et Guy Leverger" >
+      <img src="images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Ndella Diouf et Guy Leverger" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Le Diplôme Inter Universitaire d’Oncologie Pédiatrique (DIUOP) en France</h3>
@@ -38,7 +38,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_oncologie_avec_guy_leverger_au_togo.jpg" class="borderless rounded img-thumbnail" width="600px" alt="formation oncologie avec Guy Leverger au Togo" >
+      <img src="images/formation_oncologie_avec_guy_leverger_au_togo.jpg" class="borderless rounded img-thumbnail" width="600" alt="formation oncologie avec Guy Leverger au Togo" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les sessions de formation à l’oncologie pédiatrique des personnels soignants</h3>
@@ -47,7 +47,7 @@
   </div>
     <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="./images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600px" alt="promotion DUCP" >
+      <img src="./images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600" alt="promotion DUCP" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Le Diplôme Universitaire de Cancérologie Pédiatrique (DUCP) au Maroc</h3>
@@ -57,7 +57,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_collegiale.jpg" class="borderless rounded img-thumbnail" width="600px" alt="la promotion attentive pendant les cours" >
+      <img src="images/formation_collegiale.jpg" class="borderless rounded img-thumbnail" width="600" alt="la promotion attentive pendant les cours" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les formations collégiales</h3>
@@ -67,7 +67,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/mission_ formation.jpg" class="borderless rounded img-thumbnail" width="300px" alt="lecture d'une radiographie en formation" >
+      <img src="images/mission_ formation.jpg" class="borderless rounded img-thumbnail" width="300" alt="lecture d'une radiographie en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation  des responsables d’Unités Pilotes</h3>
@@ -76,7 +76,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les responsables d’Unités Pilotes en formation" >
+      <img src="images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">  
       <h3>• La formation à l’ouverture des nouvelles unités d’oncologie pédiatrique</h3>
@@ -85,7 +85,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les responsables d’Unités Pilotes en formation TODO" >
+      <img src="images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les missions de formation dans les Unités Pilotes</h3>
@@ -94,7 +94,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300px" alt="formation data manager" >
+      <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300" alt="formation data manager" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Formation des Attachés de Recherche Clinique (ARC)</h3>
@@ -103,7 +103,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600px" alt="2 infirmiers" >
+      <img src="images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation infirmière</h3>
@@ -128,7 +128,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300px" alt="conference douleur et soins" >
+      <img src="images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300" alt="conference douleur et soins" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>Les formations "Douleur et Soins palliatifs"</h3>
@@ -140,7 +140,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300px" alt="personnel de santé en formation" >
+      <img src="images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300" alt="personnel de santé en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>Formation des personnels de santé pour le diagnostic précoce</h3>
@@ -149,7 +149,7 @@
   </div>
   <div class="row text-justify cream rounded mb-2">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/Fatou_et_Fouss.jpg" class="borderless rounded img-thumbnail" width="300px" alt="Fatou et Fouss traitant l'oeil" >
+      <img src="images/Fatou_et_Fouss.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fatou et Fouss traitant l'oeil" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>Les autres spécialités médicales</h3>

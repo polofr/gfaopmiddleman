@@ -13,13 +13,13 @@
 <div class="container">
   <div class="d-flex justify-content-center pt-3">
     <div class="p-2">
-      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
+      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="100" alt="gfaop" >
     </div>
     <div class="p-2">
-      <img src="images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Université Mohamed 5 Rabat" >
+      <img src="images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100" alt="Université Mohamed 5 Rabat" >
     </div>
     <div class="p-2">
-      <img src="images/univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Université Paris Sud" >
+      <img src="images/univparissud.png" class="borderless rounded img-thumbnail" width="100" alt="Université Paris Sud" >
     </div>
   </div>
 </div>
@@ -103,19 +103,19 @@
   </div>
   <div class="d-flex justify-content-center">
     <div class="p-2">
-      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="logo gfaop" >
+      <img src="images/logonav.png" class="borderless rounded img-thumbnail" width="120" alt="logo gfaop" >
     </div>
     <div class="p-2">
-      <img src="images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation lalla salma" >
+      <img src="images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120" alt="fondation lalla salma" >
     </div>
     <div class="p-2">
-      <img src="images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="cancéropole paca" >
+      <img src="images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120" alt="cancéropole paca" >
     </div>
     <div class="p-2">
-      <img src="images/logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="société marocaine d'hématologie et oncologie pédiatrique" >
+      <img src="images/logosmhop.png" class="borderless rounded img-thumbnail" width="140" alt="société marocaine d'hématologie et oncologie pédiatrique" >
     </div>
     <div class="p-2">
-      <img src="images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="fondation espoir sanofi" >
+      <img src="images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120" alt="fondation espoir sanofi" >
     </div>
   </div>
 </div>

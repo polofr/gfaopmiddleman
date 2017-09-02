@@ -21,7 +21,7 @@
 <div class="container">
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/algerie.jpg" class="borderless rounded img-thumbnail" width="300px" alt="enfants regardant la télévision dans un hôpital" >
+      <img src="images/algerie.jpg" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>ALGERIE</b></h2>
@@ -37,7 +37,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/burkina.jpg" class="borderless rounded img-thumbnail" width="300px" alt="autour d'une table" >
+      <img src="images/burkina.jpg" class="borderless rounded img-thumbnail" width="300" alt="autour d'une table" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>BURKINA FASO</b></h2>
@@ -56,7 +56,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300px" alt="L'équipe médicale autour de la famille" >
+      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="L'équipe médicale autour de la famille" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CAMEROUN</b></h2>
@@ -70,7 +70,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center"><!-- TODO photos -->
-      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300px" alt="L'équipe médicale autour de la famille" >
+      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="L'équipe médicale autour de la famille" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CENTRAFRIQUE</b></h2>
@@ -84,7 +84,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300px" alt="réunion dans les locaux au Congo" >
+      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO RDC</b></h2>
@@ -99,7 +99,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center"><!-- TODO image -->
-      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300px" alt="réunion dans les locaux au Congo" >
+      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO KINSHASA</b></h2>
@@ -114,7 +114,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300px" alt="l'hopital d'Abidjan" >
+      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CÔTE D'IVOIRE</b></h2>
@@ -130,7 +130,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300px" alt="l'hopital d'Abidjan" >
+      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>GUINÉE CONAKRY</b></h2>
@@ -142,7 +142,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300px" alt="l'entree de l'hopital" >
+      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MADAGASCAR</b></h2>
@@ -160,7 +160,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/mali.jpg" class="borderless rounded img-thumbnail" width="300px" alt="femmes et enfants dans la salle d'attente" >
+    <img src="images/mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="femmes et enfants dans la salle d'attente" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MALI</b></h2>
@@ -175,7 +175,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300px" alt="perfusion dans la chambre" >
+      <img src="images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300" alt="perfusion dans la chambre" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MAURITANIE</b></h2>
@@ -188,7 +188,7 @@
   </div>
   <div class="row cream">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/casablanca.jpeg" class="borderless rounded img-thumbnail" width="300px" alt="canapé d'angle dans la salle d'attente" >
+    <img src="images/casablanca.jpeg" class="borderless rounded img-thumbnail" width="300" alt="canapé d'angle dans la salle d'attente" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MAROC</b></h2>
@@ -200,7 +200,7 @@
   </div>
   <div class="row cream">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/rabat.jpg" class="borderless rounded img-thumbnail" width="300px" alt="salle de jeux pour les enfants" >
+    <img src="images/rabat.jpg" class="borderless rounded img-thumbnail" width="300" alt="salle de jeux pour les enfants" >
     </div>
     <div class="col-8">
       <h4>RABAT</h4><br>
@@ -212,7 +212,7 @@
   </div>
   <div class="row cream">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les bureaux de l'équipe soignante" >
+    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
     <div class="col-8">
       <h4>MARRAKECH</h4><br>
@@ -223,7 +223,7 @@
   </div>
   <div class="row cream">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les bureaux de l'équipe soignante" >
+    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
     <div class="col-8">
       <h4>FÈS</h4><br>
@@ -234,7 +234,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300px" alt="l'entree de l'hopital" >
+      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>NIGER</b></h2>
@@ -250,7 +250,7 @@
   </div>  
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/senegal.jpg" class="borderless rounded img-thumbnail" width="300px" alt="l'équipe soignante au complet" >
+      <img src="images/senegal.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante au complet" >
     </div>
     <div class="col-8">
       <h2><b>SENEGAL</b></h2>
@@ -266,7 +266,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/togo.jpg" class="borderless rounded img-thumbnail" width="300px" alt="l'équipe soignante nous accueillant" >
+      <img src="images/togo.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante nous accueillant" >
     </div>
     <div class="col-8">
       <h2><b>TOGO</b></h2>
@@ -281,7 +281,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300px" alt="jeune enfant debout face au lit" >
+      <img src="images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>TUNISIE</b></h2>

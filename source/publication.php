@@ -12,7 +12,7 @@
   <div class="row text-center">
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/bulletin.png" class="borderless rounded img-thumbnail" width="100px" alt="bulletin du cancer" >
+        <img src="images/bulletin.png" class="borderless rounded img-thumbnail" width="100" alt="bulletin du cancer" >
         <h4>BULLETIN DU CANCER</h4>
         <p>Volume 100 • N°2 • Février 2013 ©John Libbey Eurotext</p>
         <h5 class="font-italic" >"Le rétinoblastome : état des lieux au Mali et programme d’aide au diagnostic précoce, aux traitements et à la réhabilitation"
@@ -23,7 +23,7 @@
     </div>
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/logojle.png" class="borderless rounded img-thumbnail py-2" width="200px" alt="médecine et santé tropicales" >
+        <img src="images/logojle.png" class="borderless rounded img-thumbnail py-2" width="200" alt="médecine et santé tropicales" >
         <h4 class="py-1">MEDECINE ET SANTE TROPICALES</h4>
         <p>publication 2014 ; 24 : 73-77</p>
         <h5 class="font-italic" >"Epidémiologie et pronostic des cancers pédiatriques au CHU Gabriel-Touré de Bamako"
@@ -36,7 +36,7 @@
     </div>
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/logolancet.png" class="borderless rounded img-thumbnail py-2" width="250px" alt="the lancet oncology" >
+        <img src="images/logolancet.png" class="borderless rounded img-thumbnail py-2" width="250" alt="the lancet oncology" >
         <h4>THE LANCET ONCOLOGY</h4>
         <p>Vol. 14 April 2013</p>
         <h5 class="font-italic" >"Challenges for paediatric oncology in Africa"</h5>
@@ -48,7 +48,7 @@
   <div class="row text-center">
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/logoem.png" class="borderless rounded img-thumbnail" width="80px" alt="elsevier masson" >
+        <img src="images/logoem.png" class="borderless rounded img-thumbnail" width="80" alt="elsevier masson" >
         <h5 class="font-italic" >"Un monde plus équitable... l’exemple du GFAOP"
         </h5>
         <p>Par Mhamed Harif</p>
@@ -57,7 +57,7 @@
     </div>
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/logocancercontrol.jpg" class="borderless rounded img-thumbnail py-1" width="300px" alt="cancer control" >
+        <img src="images/logocancercontrol.jpg" class="borderless rounded img-thumbnail py-1" width="300" alt="cancer control" >
         <h5 class="font-italic py-1" >"RETINOBLASTOMA: AN EXEMPLARY TUMOUR IN YOUNG CHILDREN THAT CAN BE CURED IN LOW-
         INCOME COUNTRIES"
         </h5>
@@ -67,7 +67,7 @@
     </div>
     <div class="col-12 col-md-4">
       <div class="cream rounded py-2 m-2">
-        <img src="images/logobulletin.png" class="borderless rounded img-thumbnail" width="180px" alt="le bulletin du cancer" >
+        <img src="images/logobulletin.png" class="borderless rounded img-thumbnail" width="180" alt="le bulletin du cancer" >
         <p class="font-italic">"Challenges for paediatric oncology in Africa"</p>
         <p>Par Fousseyni Traoré</p>
         <p>le 01/02/2013</p>
@@ -77,7 +77,7 @@
   <div class="row text-center">
     <div class="col-12 col-md-4 mx-auto">
       <div class="cream rounded py-2 m-2">
-        <img src="images/revueonco.jpeg" class="borderless rounded img-thumbnail" width="100px" alt="Revue d’oncologie hématologie pédiatrique" >
+        <img src="images/revueonco.jpeg" class="borderless rounded img-thumbnail" width="100" alt="Revue d’oncologie hématologie pédiatrique" >
         <h4>Revue d’oncologie hématologie pédiatrique</h4>
         <p>(2015) 3, 101—103</p>
         <h5>Formation d’infirmiers éducateurs africains dans le cadre du GFAOP (Groupe franco-africain d’oncologie pédiatrique)</h5>

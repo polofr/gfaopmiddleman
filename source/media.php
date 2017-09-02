@@ -9,7 +9,7 @@
   <h3 class="text-center py-4">Ils parlent de nous dans la presse</h3>
   <div class="row">
     <div class="col-12 col-md-3 py-2 cream rounded m-2 ml-md-auto">
-      <img src="images/logolacroix.png" class="borderless rounded img-thumbnail" width="120px" alt="la croix" >
+      <img src="images/logolacroix.png" class="borderless rounded img-thumbnail" width="120" alt="la croix" >
       <h4>La Croix</h4>
       <p class="font-italic" >
         "Une association francaise forme localement des médecins et infirmières et envoie
@@ -17,13 +17,13 @@
       <a target="_blank" href="http://s3-eu-west-1.amazonaws.com/gfaop/presse/articlelacroix.pdf">Lire la Suite</a>
     </div>
     <div class="col-12 col-md-3 py-2 cream rounded m-2">
-      <img src="images/logoja.jpg" class="borderless rounded img-thumbnail" width="140px" alt="jeune afrique" >
+      <img src="images/logoja.jpg" class="borderless rounded img-thumbnail" width="140" alt="jeune afrique" >
       <h4>Jeune Afrique</h4>
       <p class="font-italic" >S’il est du devoir des pays du Nord d’aider ceux du Sud à contrer la maladie, ils doivent aussi favoriser une cooperation accrue entre Africains. Ce que fait, avec un certain succès, le Groupement franco-africain d’oncologie pédiatrique.</p>
       <a target="_blank" href="http://s3-eu-west-1.amazonaws.com/gfaop/presse/Jeune_Afrique.pdf">Lire la Suite</a>
     </div>
     <div class="col-12 col-md-3 py-2 cream rounded m-2 mr-md-auto">
-      <img src="images/logorfi.png" class="borderless rounded img-thumbnail" width="45px" alt="Radio France Internationale" >
+      <img src="images/logorfi.png" class="borderless rounded img-thumbnail" width="45" alt="Radio France Internationale" >
       <h4>Radio France Internationale</h4>
       <p class="font-italic" >Journée Mondiale contre le cancer. <br>
         Intervention de Monsieur le Professeur Pierre Bey, Institut Curie, Paris.</p>
@@ -37,19 +37,19 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-3 py-2 cream rounded m-2 ml-md-auto">
-      <img src="images/webzine.jpg" class="borderless rounded img-thumbnail" width="120px" alt="United Fashion For Peace" >
+      <img src="images/webzine.jpg" class="borderless rounded img-thumbnail" width="120" alt="United Fashion For Peace" >
       <h4>United Fashion For Peace</h4>
       <p class="font-italic" >"Le Cancer de l’Enfant peut être traité en Afrique !"</p>
       <a target="_blank" href="http://webzine.unitedfashionforpeace.com/ethical-planet/le-cancer-de-l-enfant-peut-etre-traite-en-afrique/#.Uuq_Ofb2hWo">Lire la Suite</a>
     </div>
     <div class="col-12 col-md-3 py-2 cream rounded m-2">
-      <img src="images/Logo_LIGUE.jpg" class="borderless rounded img-thumbnail" width="70px" alt="La Ligue Contre Le Cancer" >
+      <img src="images/Logo_LIGUE.jpg" class="borderless rounded img-thumbnail" width="70" alt="La Ligue Contre Le Cancer" >
       <h4>La Ligue Contre Le Cancer</h4>
       <p class="font-italic" >"Mieux soigner la jeunesse Africaine"</p>
       <a target="_blank" href="http://s3-eu-west-1.amazonaws.com/gfaop/presse/liguecancer.pdf">Lire la Suite</a>
     </div>
     <div class="col-12 col-md-3 py-2 cream rounded m-2 mr-md-auto">
-      <img src="images/logoamina.png" class="borderless rounded img-thumbnail" width="200px" alt="Amina" >
+      <img src="images/logoamina.png" class="borderless rounded img-thumbnail" width="200" alt="Amina" >
       <h4>Amina</h4>
       <p class="font-italic" >"L'Oncopédiatrie au Chevet des Petits en Afrique"</p>
       <a target="_blank" href="http://s3-eu-west-1.amazonaws.com/gfaop/presse/article_gfaop_amina.pdf">Lire la Suite</a>

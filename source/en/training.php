@@ -19,7 +19,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actionstage1.jpg" class="borderless rounded img-thumbnail" width="300px" alt="in the lab" >
+      <img src="../images/actionstage1.jpg" class="borderless rounded img-thumbnail" width="300" alt="in the lab" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Internships</h3>
@@ -28,7 +28,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actiondiuop.png" class="borderless rounded img-thumbnail" width="600px" alt="big smile  sale de réunion" >
+      <img src="../images/actiondiuop.png" class="borderless rounded img-thumbnail" width="600" alt="big smile  sale de réunion" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The Inter-University Diploma of Pediatric Oncology (DIUOP) in France</h3>
@@ -37,7 +37,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioneaop.png" class="borderless rounded img-thumbnail" width="600px" alt="banderolle pour la nouvelle promotion" >
+      <img src="../images/actioneaop.png" class="borderless rounded img-thumbnail" width="600" alt="banderolle pour la nouvelle promotion" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The African School of Pediatric Oncology (EAOP) in Morocco</h3>
@@ -47,7 +47,7 @@
   </div>
     <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actiondiucp.png" class="borderless rounded img-thumbnail" width="600px" alt="la promotion dans une classe de cours" >
+      <img src="../images/actiondiucp.png" class="borderless rounded img-thumbnail" width="600" alt="la promotion dans une classe de cours" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The University Diploma of Pediatric Cancer (DUCP) in Morocco</h3>
@@ -56,7 +56,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioncollegiales.png" class="borderless rounded img-thumbnail" width="600px" alt="la promotion attentive pendant les cours" >
+      <img src="../images/actioncollegiales.png" class="borderless rounded img-thumbnail" width="600" alt="la promotion attentive pendant les cours" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Collegial training</h3>
@@ -65,7 +65,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300px" alt="les responsables d’Unités Pilotes en formation" >
+      <img src="../images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training of unit managers</h3>
@@ -74,7 +74,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioninfirmiere.png" class="borderless rounded img-thumbnail" width="600px" alt="2 infirmiers" >
+      <img src="../images/actioninfirmiere.png" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation infirmière</h3>

@@ -46,7 +46,7 @@
   </div>
   <div class="row">
     <div class="col-md-3 text-center">
-      <img src="../images/maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="a parents' house" >
+      <img src="../images/maison1.png" class="borderless rounded img-thumbnail" width="400" alt="a parents' house" >
     </div>
     <div class="col-md-9 text-justify">
       For financial reasons, families stay on site during intercurations, either in the hospital (in which case there are no beds for new patients) or around the hospital in miserable conditions. 
@@ -79,7 +79,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-3 text-center">
-      <img src="../images/aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
+      <img src="../images/aidaf.png" class="borderless rounded img-thumbnail" width="200" alt="livre pour l’annonce du diagnostic" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       The time of the diagnosis is extremely difficult for families, and it is also difficult for doctors to announce it.
@@ -103,7 +103,7 @@
   </div>
   <div class="row py-3">
     <div class="col-12 col-md-3 text-center">
-      <img src="../images/politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
+      <img src="../images/politique.png" class="borderless rounded img-thumbnail" width="250" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
     </div>
     <div class="col-12 col-md-9">
       <p class="text-justify">For the past 16 years, the GFAOP has been working in the field, and teams have shown that, despite difficult conditions and very few resources, good results have been achieved and that even in Africa children can be cured. 

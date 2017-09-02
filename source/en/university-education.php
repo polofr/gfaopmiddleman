@@ -8,13 +8,13 @@
 <div class="container">
   <div class="d-flex justify-content-center pt-3">
     <div class="p-2">
-      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="100px" alt="gfaop" >
+      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="100" alt="gfaop" >
     </div>
     <div class="p-2">
-      <img src="../images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100px" alt="Mohamed 5 University Rabat" >
+      <img src="../images/univmohammed.jpg" class="borderless rounded img-thumbnail" width="100" alt="Mohamed 5 University Rabat" >
     </div>
     <div class="p-2">
-      <img src="../images/univparissud.png" class="borderless rounded img-thumbnail" width="100px" alt="Paris Sud University" >
+      <img src="../images/univparissud.png" class="borderless rounded img-thumbnail" width="100" alt="Paris Sud University" >
     </div>
   </div>
 </div>
@@ -95,19 +95,19 @@
   </div>
   <div class="d-flex justify-content-center">
     <div class="p-2">
-      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="120px" alt="GFAOP logo" >
+      <img src="../images/logonav.png" class="borderless rounded img-thumbnail" width="120" alt="GFAOP logo" >
     </div>
     <div class="p-2">
-      <img src="../images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Lalla Salma foundation " >
+      <img src="../images/logolalla.jpg" class="borderless rounded img-thumbnail" width="120" alt="Lalla Salma foundation " >
     </div>
     <div class="p-2">
-      <img src="../images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120px" alt="Provence cancerpole" >
+      <img src="../images/logocanceropole.jpg" class="borderless rounded img-thumbnail" width="120" alt="Provence cancerpole" >
     </div>
     <div class="p-2">
-      <img src="../images/logosmhop.png" class="borderless rounded img-thumbnail" width="140px" alt="marrocan coiety of pediatric hematology and oncology" >
+      <img src="../images/logosmhop.png" class="borderless rounded img-thumbnail" width="140" alt="marrocan coiety of pediatric hematology and oncology" >
     </div>
     <div class="p-2">
-      <img src="../images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120px" alt="sanofi espoir foundation" >
+      <img src="../images/logo_sanofi.jpg" class="borderless rounded img-thumbnail" width="120" alt="sanofi espoir foundation" >
     </div>
   </div>
 </div>
