@@ -128,7 +128,7 @@
       <p>Leur film : https://youtu.be/fRymui0Svd8</p>
     </div>
   </div>
-  <div class="row cream rounded">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
       <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
@@ -140,7 +140,7 @@
       <p>Le pays : 246 000 Km2 , 11,8 millions d’habitants. PIB/hab : 539 $, dépenses de santé/hab : 30 $ (5,5 %). 42% <15 ans, 375 à 425 nouveaux cancers chez <15 ans/an, 475 à 525 en 2025).* </p>
     </div>
   </div>
-  <div class="row">
+  <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
       <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
@@ -158,7 +158,7 @@
       <p>Association partenaire : ANYMA</p>      
     </div>
   </div>
-  <div class="row cream rounded">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
     <img src="images/mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="femmes et enfants dans la salle d'attente" >
     </div>
@@ -173,7 +173,7 @@
       <p>Associations partenaires : AMSCID et AMSEC</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
       <img src="images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300" alt="perfusion dans la chambre" >
     </div>
@@ -186,7 +186,7 @@
       <p>Nombre de cas rapportés par les UP en 2016: 48 traités / 21 sous protocoles GFAOP / 27 enregistrés par les data managers</p>
     </div>
   </div>
-  <div class="row cream">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
     <img src="images/casablanca.jpeg" class="borderless rounded img-thumbnail" width="300" alt="canapé d'angle dans la salle d'attente" >
     </div>
@@ -198,7 +198,7 @@
       <p>Nombre de cas rapportés par les UP en 2016: 162 traités / 78 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  <div class="row cream">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
     <img src="images/rabat.jpg" class="borderless rounded img-thumbnail" width="300" alt="salle de jeux pour les enfants" >
     </div>
@@ -210,7 +210,7 @@
       <p>Nombre de cas rapportés par les UP en 2016: 273 traités / 123 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  <div class="row cream">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
     <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
@@ -221,7 +221,7 @@
       <p>Nombre de cas rapportés par les UP en 2016: 104 traités / 50 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  <div class="row cream">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
     <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
@@ -232,7 +232,7 @@
       <p>Nombre de cas rapportés par les UP en 2016: 125 traités / 66 sous protocoles GFAOP / 0 enregistré par les data managers</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
       <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
@@ -264,7 +264,7 @@
       <p>Leur film réalisé par la Fondation Cognac Jay : https://www.facebook.com/solidarum/videos/1632154573744079/</p>
     </div>    
   </div>
-  <div class="row">
+  <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
       <img src="images/togo.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante nous accueillant" >
     </div>
@@ -279,7 +279,7 @@
       <p>Association partenaire : Victoir</p>
     </div>
   </div>
-  <div class="row cream rounded">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
       <img src="images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
     </div>
@@ -297,21 +297,17 @@
 </div>
 
 <div class="container py-1">
-  <div class="row">
-    <div class="col-12 col-md-4 rounded cream m-2 ml-md-auto">
-      <h3 class="text-center py-2">Les unités pilotes en formation</h3>
-      <p>Plusieurs installations d’unités spécifiques sont en cours de reconnaissance par le GFAOP. 
-        Elles sont dans des pays ou des régions qui ont déjà envoyé ou vont envoyer un ou plusieurs pédiatres en formation.
-      </p>
-      <ul>
-        <li>Burundi</li>
-        <li>Gabon</li>
-        <li>Bénin</li>
-        <li>Tchad</li>
-      </ul>
-    </div>
-  </div>
   <div class="row p-2">
+    <h3 class="text-center py-2">Les unités pilotes en formation</h3>
+    <p>Plusieurs installations d’unités spécifiques sont en cours de reconnaissance par le GFAOP. 
+      Elles sont dans des pays ou des régions qui ont déjà envoyé ou vont envoyer un ou plusieurs pédiatres en formation.
+    </p>
+    <ul>
+      <li>Burundi</li>
+      <li>Gabon</li>
+      <li>Bénin</li>
+      <li>Tchad</li>
+    </ul>
     <p class="text-center"><b>Malgré l’important travail des équipes du GFAOP, seuls 10% des enfants atteints de cancers atteignent l’une des unités d’oncologie pédiatrique existantes en raison de :</b></p>
     <ul>
       <li>L’absence d’unités dans certains pays</li>
