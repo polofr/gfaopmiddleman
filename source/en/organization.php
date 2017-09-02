@@ -41,7 +41,7 @@
       </ul>
     </div>
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/associationenfant.jpg" class="borderless rounded img-thumbnail" width="700px" alt="sight focused child" >
+      <img src="../images/associationenfant.jpg" class="borderless rounded img-thumbnail" width="700" alt="sight focused child" >
     </div>
   </div>
   <div class="row text-justify">
@@ -52,7 +52,7 @@
   </div>
   <div class="row py-3">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600px" alt="Visit of a new pilot unit" >
+      <img src="../images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600" alt="Visit of a new pilot unit" >
     </div>
     <div class="col-md-9 col-12 text-justify">
       The GFAOP, with its experience and know-how, must continue to work in its own way for a more equitable world. One of the major challenges is the development of African competences in order to perpetuate and develop care. The creation of the African School of Pediatric Oncology for the diagnosis and treatment of cancers and the creation of the Franco-Moroccan pediatric oncology diploma (DUCP) aimed to meet this challenge. <strong>More than 240 doctors and nurses have already been trained in pediatric oncology.</strong>    

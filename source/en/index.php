@@ -17,16 +17,16 @@
         <h2>OUR ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <a href="training.php"><img src="../images/formation.png" width="60px" alt="Training" ></a>
+        <a href="training.php"><img src="../images/formation.png" width="60" alt="Training" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="clinical-research.php"><img src="../images/recherche.png" width="50px" alt="Clinical Research" ></a>       
+        <a href="clinical-research.php"><img src="../images/recherche.png" width="50" alt="Clinical Research" ></a>       
       </div>
       <div class="col-sm-3">
-        <a href="drug-and-supply-delivery.php"><img src="../images/envoi.png" width="50px" alt="medicine delivery" ></a>
+        <a href="drug-and-supply-delivery.php"><img src="../images/envoi.png" width="50" alt="medicine delivery" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="support.php"><img src="../images/maison2x.png" width="50px" alt="support" ></a>
+        <a href="support.php"><img src="../images/maison2x.png" width="50" alt="support" ></a>
       </div>
     </div>
     <div class="row text-center py-1">

@@ -41,7 +41,7 @@
       </ul>
     </div>
     <div class="col-md-3 col-12 text-center">
-      <img src="images/associationenfant.jpg" class="borderless rounded img-thumbnail" width="700px" alt="enfant au regard pénétrant" >
+      <img src="images/associationenfant.jpg" class="borderless rounded img-thumbnail" width="700" alt="enfant au regard pénétrant" >
     </div>
   </div>
   <div class="row text-justify">
@@ -53,7 +53,7 @@
   </div>
   <div class="row py-3">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600px" alt="Visite d'une nouvelle unité pilote" >
+      <img src="images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600" alt="Visite d'une nouvelle unité pilote" >
     </div>
     <div class="col-md-9 col-12 text-justify">
       Le GFAOP, fort de son expérience et de son savoir-faire se doit de continuer à œuvrer à sa manière pour un monde plus équitable. Un des défis majeurs est le développement des compétences africaines afin de pérenniser et développer les soins. La création de l’Ecole Africaine d’Oncologie Pédiatrique pour le diagnostic et le traitement des cancers et la création du diplôme franco-marocain de cancérologie pédiatrique (DUCP) ont eu pour objectif de répondre à ce défi. <strong>Plus de 240 médecins et infirmiers ont déjà été formés à l’oncologie pédiatrique.</strong>    

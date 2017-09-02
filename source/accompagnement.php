@@ -45,7 +45,7 @@
   </div>
   <div class="row">
     <div class="col-md-3 text-center">
-      <img src="images/maison1.png" class="borderless rounded img-thumbnail" width="400px" alt="une Maisons des parents" >
+      <img src="images/maison1.png" class="borderless rounded img-thumbnail" width="400" alt="une Maisons des parents" >
     </div>
     <div class="col-md-9 text-justify">
       Souvent pour des raisons financières et de distance par rapport à leur lieu d’habitation, les familles restent sur place pendant les inter-cures en chimiothérapie, soit dans l’hôpital (auquel cas on manque de lits pour les nouveaux patients) soit autour de l’hôpital dans des conditions très difficiles. 
@@ -79,7 +79,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-3 text-center">
-      <img src="images/aidaf.png" class="borderless rounded img-thumbnail" width="200px" alt="livre pour l’annonce du diagnostic" >
+      <img src="images/aidaf.png" class="borderless rounded img-thumbnail" width="200" alt="livre pour l’annonce du diagnostic" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       Le moment de l’annonce du diagnostic est excessivement difficile pour les familles, et il l’est aussi pour les médecins chargés de l’effectuer.<br> Malgré cela, l’annonce d’un diagnostic de cancer doit être considérée comme un moment stratégique, pouvant clairement influencer la suite du traitement. Cette affirmation est encore plus vraie pour des unités d’oncologie pédiatrique africaines, où les spécificités socioéconomiques et culturelles font qu’une famille sur quatre abandonne le traitement en cours. De ce fait, il faut réaliser que le parent que l’on rencontre pour lui annoncer le diagnostic de cancer est aussi susceptible de déserter avec son enfant malade.<br> Au-delà des raisons économiques, ces abandons sont liés à la méconnaissance de la maladie et du traitement ou à l’influence des croyances locales.<br>
@@ -99,7 +99,7 @@
   </div>
   <div class="row py-3">
     <div class="col-12 col-md-3 text-center">
-      <img src="images/politique.png" class="borderless rounded img-thumbnail" width="250px" alt="Princesse Lalla Salma, Dominique Ouattara et Bernadette Chirac au CHU de Marrakech" >
+      <img src="images/politique.png" class="borderless rounded img-thumbnail" width="250" alt="Princesse Lalla Salma, Dominique Ouattara et Bernadette Chirac au CHU de Marrakech" >
     </div>
     <div class="col-12 col-md-9">
       <p class="text-justify">Depuis 16 ans, le GFAOP travaille sur le terrain, les équipes ont prouvé que malgré des conditions difficiles et très peu de moyens, de bons résultats étaient obtenus et qu’ainsi, même en Afrique, les enfants pouvaient être guéris.
