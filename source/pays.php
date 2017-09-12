@@ -12,7 +12,7 @@
 <div class="container py-1">
   <div class="row text-center"><!-- TODO update this text -->
     <h3 class="mx-auto py-2">Dans chaque hôpital, l’unité d’oncologie pédiatrique dite «Unité-Pilote» a en charge les soins des enfants atteints de cancer</h3>
-    <p class="mx-auto text-justify col-md-8">Nous comptons 15 services ou “Unités Pilotes” d’oncologie pédiatrique dans 13 pays et chaque année le nombre d’enfants à prendre en charge augmente. De nouveaux pays cherchent à rejoindre le GFAOP comme le Burundi, le Niger, le Gabon, la Centrafrique qui ont actuellement des pédiatres en formation. On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2000 euros. Ce coût intègre les médicaments anticancéreux pour 1000 euros (antibiotiques, antimitotiques, analyses de sang et petit matériel), la chirurgie pour l’autre moitié.
+    <p class="mx-auto text-justify col-md-8">Nous comptons 20 services ou “Unités Pilotes” d’oncologie pédiatrique dans 16 pays et chaque année le nombre d’enfants à prendre en charge augmente. De nouveaux pays cherchent à rejoindre le GFAOP comme le Burundi, le Niger, le Gabon, la Centrafrique qui ont actuellement des pédiatres en formation. On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2000 euros. Ce coût intègre les médicaments anticancéreux pour 1000 euros (antibiotiques, antimitotiques, analyses de sang et petit matériel), la chirurgie pour l’autre moitié.
     Il est à noter que le nombre de cas traités selon les protocoles GFAOP ne représente qu’environ 60 % des enfants accueillis dans les services de cancérologie pédiatrique.
     </p>
   </div>
