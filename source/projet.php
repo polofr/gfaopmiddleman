@@ -24,9 +24,9 @@
       <div class="card-header cream" role="tab" id="headingOne">
         <h5 class="mb-0">
           <a class="text-orange" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            1) Le traitement d’un enfant atteint de cancer coûte moins de 2000 euros... Je participe!
+            1) Le traitement d’un enfant atteint de cancer coûte moins de 2000 euros : je participe!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
@@ -48,9 +48,9 @@
       <div class="card-header cream" role="tab" id="headingTwo">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            2) Un stage de 2 mois en France en France coûte environ 5000 euros... Je participe!
+            2) Un stage de 2 mois en France coûte 5000 euros : je participe!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -78,7 +78,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
             3) Améliorer le diagnostic précoce
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -105,7 +105,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
             4) Développer les jumelages entre hôpitaux français et africains
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
@@ -119,9 +119,9 @@
       <div class="card-header cream" role="tab" id="headingFive">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-            5) Faciliter les communications et les échanges entre les équipes du GFAOP : la E-santé
+            5) Faciliter échanges et communications entre les équipes du GFAOP : la E-santé
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
@@ -141,9 +141,9 @@
       <div class="card-header cream" role="tab" id="headingSix">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-            6) Le fonctionnement d’une maison de parents coûte environ 15 000 euros par an... Je participe!
+            6) Le fonctionnement d’une maison de parents coûte environ 15 000 euros par an : je participe!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
@@ -160,9 +160,9 @@
       <div class="card-header cream" role="tab" id="headingSeven">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-            7) Le coût moyen d’un bilan initial est de 250 euros... Je participe!
+            7) Le coût moyen d’un bilan initial est de 250 euros : je participe!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
@@ -189,7 +189,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
             8) Favoriser l’émergence et le soutien des associations locales
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
+          <a class="btn btncrowd float-right p-2 m-1" href="http://www.helloasso.com/don/associations/gfaop" role="button">AIDER CE PROJET</a>
         </h5>
       </div>
       <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
@@ -208,8 +208,7 @@
           </p>
         </div>
       </div>
-    </div>
-    
+    </div>    
   </div>
 </div>
 <div class="container">

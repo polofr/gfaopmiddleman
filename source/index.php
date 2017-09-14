@@ -64,7 +64,7 @@ for ($i = 0; $i <= 2; $i++) {
     <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/gfaopgroupe"><span class="fa fa-facebook"></span></a>
     <a class="btn btn-social-icon btn-lg btn-tumblr" href="https://gfaopcorinnecd.tumblr.com"><span class="fa fa-tumblr"></span></a>
     <a class="btn btn-social-icon btn-lg btn-twitter" href="https://twitter.com/assogfaop"><span class="fa fa-twitter"></span></a>
-    <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://fr.linkedin.com/in/gfaop-groupe-965096132"><span class="fa fa-twitter"></span></a>
+    <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://fr.linkedin.com/in/gfaop-groupe-965096132"><span class="fa fa-linkedin"></span></a>
   </div>
 </div>
 <div class="wrapper wrapper-1">
