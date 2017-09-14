@@ -77,11 +77,10 @@
       <img src="../images/actioninfirmiere.png" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• La formation infirmière</h3>
-      <!-- TODO -->
-      Un programme de formation d’infirmières travaillant dans des services d’oncologie pédiatrique vise à les sensibiliser aux problématiques médicales spécifiques de la pathologie cancéreuse des enfants.
+      <h3>• Nursing education</h3>
+      A training program for nurses working in pediatric oncology services aims to raise awareness of the specific medical problems of children's cancer pathology.
       <br>
-      Depuis 2014, l’association Laurette Fugain soutient le GFAOP, en offrant chaque année 2 bourses à des infirmières des Unités pilotes. Ces dernières bénéficient de stages de 2 mois en France dans les services les plus prestigieux à l’issue desquels elles doivent produire un mémoire.
+      Since 2014, the NGO "Laurette Fugain" supports the GFAOP, offering 2 scholarships each year to nurses from the Pilot Units. The latter benefit from two-month internships in France in the most prestigious departments, at the end of which they must produce a dissertation.
     </div>
   </div>
 </div>
