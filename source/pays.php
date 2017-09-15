@@ -76,8 +76,8 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-12 col-md-4 text-center"><!-- TODO photos -->
-      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="L'équipe médicale autour de la famille" >
+    <div class="col-12 col-md-4 text-center">
+      <img src="images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="La salle d'attente en centreafrique" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CENTRAFRIQUE</b></h2>
@@ -101,7 +101,7 @@
       <p>Le pays : 2,345 million Km2, 79,4 millions d’habitants. PIB/hab : 442 $, Dépenses de santé/hab : 12 $ (2,7%). 43,1% <15 ans, 2 500 à 3 000 nouveaux cancers chez <15 ans/an (3 250 à 3 900 en 2025).* </p>
       <p>Nombre de cas rapportés par les UP en 2016: 44 traités / 25 sous protocoles GFAOP / 47 enregistrés par les data managers</p>
       <p>Association partenaire : Gabriella Pour la Vue</p>
-      <p>Leur film : https://youtu.be/u9A4gZf7hk8</p>
+      <p>Leur film : <a href="https://youtu.be/u9A4gZf7hk8" target="_blank">https://youtu.be/u9A4gZf7hk8</a></p>
     </div>
   </div>
   <div class="row">
@@ -132,7 +132,7 @@
       <p>Le pays : 322000Km2 , 23,3 millions d’habitants. PIB/hab:1545$, Dépenses de santé/hab : 88 $ (5,6 %). Abidjan (4,7 million hab). 38,4% <15 ans, 700 à 800 nouveaux cancers chez <15 ans (900 à 1 000 en 2025).*</p>
       <p>Nombre de cas rapportés par les UP en 2016: 226 traités / 83 sous protocoles GFAOP / 124 enregistrés par les data managers</p>
       <p>Associations partenaires : Soleterre, AEC</p>   
-      <p>Leur film : https://youtu.be/fRymui0Svd8</p>
+      <p>Leur film : <a href="https://youtu.be/fRymui0Svd8" target="_blank">https://youtu.be/fRymui0Svd8</a></p>
     </div>
   </div>
   <div class="row">
@@ -252,7 +252,7 @@
       <p>Le pays : 1,267 million Km2 et 18 millions d’habitants. PIB/hab : 427 $, Dépenses de santé/hab : 24 $ (5,6 %). 49,8% <15 ans, 650 à 750 nouveaux cancers chez <15 ans/an, 900 à 1 000 en 2025).*</p>
       <p>Nombre de cas rapportés par les UP en 2016: 98 traités / 49 sous protocoles GFAOP / 89 enregistrés par les data managers</p>
       <p>Associations partenaires : APSA, Association pour la santé en Afrique, CONIF</p>  
-      <p>Leur film : https://youtu.be/f5xxR0yytJw</p>          
+      <p>Leur film : <a href="https://youtu.be/f5xxR0yytJw" target="_blank">https://youtu.be/f5xxR0yytJw</a></p>          
     </div>
   </div>  
   <div class="row">
@@ -268,7 +268,7 @@
       <p>Le pays : 197 000 Km2 et 14 millions d’habitants. PIB/hab : 1 067 $, Dépenses de santé/hab : 50 $ (4,7 %). Dakar (3 millions dans la métropole). 42,5% <15 ans, 550 à 650 nouveaux cas de cancers sont attendus chaque année chez les enfants et adolescents (700 à 800 en 2025).*</p>
       <p>Nombre de cas rapportés par les UP en 2016: 189 traités / 115 sous protocoles GFAOP / 133 enregistrés par les data managers</p>
       <p>Associations partenaires : Association En-Vie, Association Lueur d’Espoir, Association Soleterre, Fondation Anne-Marie Dione, Fondation Total Sénégal</p>
-      <p>Leur film réalisé par la Fondation Cognac Jay : https://www.facebook.com/solidarum/videos/1632154573744079/</p>
+      <p>Leur film réalisé par la Fondation Cognac Jay : <a href="https://www.facebook.com/solidarum/videos/1632154573744079/" target="_blank">https://www.facebook.com/solidarum/videos/1632154573744079/</a></p>
     </div>    
   </div>
   <div class="row cream rounded">

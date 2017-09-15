@@ -65,7 +65,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
+      <img src="../images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training of unit managers</h3>
@@ -85,7 +85,7 @@
   </div>
 </div>
 <div class="container">
-  <h2 class="pt-5">ANATOMOPATHOLOGY</h2>
+  <h2 class="pt-5 text-center">ANATOMOPATHOLOGY</h2>
   <div class="row text-justify py-3">
     <div class="col-12">
       The anatomopathology specialty is essential to confirm the clinical diagnosis of cancer patients. 

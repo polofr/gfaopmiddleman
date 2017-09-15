@@ -86,7 +86,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/actionstage2.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
+      <img src="images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les missions de formation dans les Unités Pilotes</h3>
@@ -160,7 +160,7 @@
   </div>
 </div>
 <div class="container">
-  <h2 class="pt-5">L’ANATOMOPATHOLOGIE</h2>
+  <h2 class="pt-5 text-center">L’ANATOMOPATHOLOGIE</h2>
   <div class="row text-justify py-3">
     <div class="col-12">
       La spécialité d’anatomopathologie est essentielle pour confirmer les diagnostics cliniques de cancer des patients. Des examens histologiques en laboratoire, des prélèvements effectués sur les organes malades permettent de guider le choix de protocoles de soins offrant les meilleurs taux de succès. Une anatomopathologie incertaine réduit notablement les chances de succès et fait perdre un temps précieux par une administration de médications onéreuses mais inappropriées. La thérapie du soin des cancers de l’enfant peut être assimilée à une guerre de mouvements rapides. Plus on est rapide dans l’administration du juste traitement, plus grandes seront les chances de survie des enfants.

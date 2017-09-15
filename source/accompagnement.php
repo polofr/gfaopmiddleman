@@ -4,23 +4,14 @@
 <meta name="description" content="Mission : accompagner la création et le développement des services d'oncologie pédiatriques des hôpitaux africains et soutenir les familles">
 <meta name="keywords" content="hôpital, cancérologie, oncologie, cancer, enfant, pédiatrie, Afrique, maison des enfants">
 <?php include 'partial/_navbar.html';?>
-
 <div class="wrapper wrapper-5">
     <h1 class="pt-5">ACCOMPAGNEMENT</h1>
 </div>
-
 <div class="container">
   <h3 class="text-center py-3">LES INFRASTRUCTURES</h3>
   <h4 class="text-center">La rénovation des services et l’équipement des unités </h4>
   <div class="row text-center">
     De nombreux services d’oncologie pédiatrique ont déjà bénéficié de rénovations partielles ou totales grâce au travail conjoint des directions des hôpitaux locaux et du GFAOP. Néanmoins il reste beaucoup à faire...
-  </div>
-  <div class="row text-center">
-    <div class="col-12">
-      <h3 class="mx-auto py-1">ACCOMPAGNEMENT DES FAMILLES</h3>
-      <h3 class="mx-auto py-1">Les Maisons des parents</h3>
-      <p class="mx-auto py-1"><b>C’est un point essentiel dans la prise en charge des enfants et de leurs familles. En effet, le traitement de la maladie est long, de 3 à 6 mois.</b></p>
-    </div>
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4">
@@ -31,6 +22,13 @@
     </div>
     <div class="col-12 col-sm-4">
       <img src="images/maison_des_parents_3.jpg" class="m-2 borderless rounded img-thumbnail" alt="vie dans la maison des parents" >
+    </div>
+  </div>
+  <div class="row text-center">
+    <div class="col-12">
+      <h3 class="mx-auto py-1">ACCOMPAGNEMENT DES FAMILLES</h3>
+      <h3 class="mx-auto py-1">Les Maisons des parents</h3>
+      <p class="mx-auto py-1"><b>C’est un point essentiel dans la prise en charge des enfants et de leurs familles. En effet, le traitement de la maladie est long, de 3 à 6 mois.</b></p>
     </div>
   </div>
   <div class="row">

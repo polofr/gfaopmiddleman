@@ -28,16 +28,6 @@
     </div>
   </div>
   <div class="row text-center">
-    <div class="col-12 col-md-5 cream py-2 rounded m-2 ml-md-auto">
-      <h4>Preparation unit rooms and laminar flow hoods</h4>
-      <p class="text-justify">It is essential that rooms can be dedicated to the preparation of medicines. Indeed, the regulatory safety conditions are not respected today. Preparations are made right next to the bed. The preparation room must have a hood and air exchange in order to avoid the suspension in the air of drug particles and thus their inhalation by the staff or the patients.</p>
-    </div>
-    <div class="col-12 col-md-5 cream py-2 rounded m-2 mr-md-auto">
-      <h4>Anatomopathology equipment to better diagnose</h4>
-      <p class="text-justify">To confirm the diagnoses and adapt the treatments to the best, it would be necessary to allow  a double reading thanks to the teletransmission between the Sub-Saharan African units and their French colleagues but this requires a microscope with an adaptor for a digital camera.</p>
-    </div>
-  </div>
-  <div class="row text-center">
     <div class="col-12">
       <h3 class="mx-auto py-1">FAMILY ACCOMPANYING</h3>
       <h3 class="mx-auto py-1">The Parents' Houses</h3>
