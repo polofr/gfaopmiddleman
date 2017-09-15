@@ -9,7 +9,7 @@
   <h1 class="pt-5">ENVOI DE MEDICAMENTS ET DE MATERIEL</h1>
 </div>
 <div class="container py-4">
-  <div class="row text-center py-1">
+  <div class="row text-justify py-1">
     Plus de 1300 enfants sont traités annuellement dans les unités pilotes sub-sahariennes. 
     Le GFAOP fait don aux unités subsahariennes de médicaments anticancéreux requis pour les 5 protocoles suivis. 
     Ce poste de dépenses est le plus lourd sur le plan financier puisqu’il représente environ 160 000 euros par an mais il reste encore actuellement indispensable pour certains pays.

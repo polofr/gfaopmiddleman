@@ -7,7 +7,7 @@
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">LA FORMATION</h1>
-  <h2 class="pt-1">L’ECOLE AFRICAINE D’ONCOLOGIE PEDIATRIQUE</h2>
+  <h2 class="pt-1">ECOLE AFRICAINE D’ONCOLOGIE PEDIATRIQUE</h2>
 </div>
 <div class="container">
   <div class="row mx-auto text-justify py-3">

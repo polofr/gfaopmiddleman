@@ -300,6 +300,19 @@
       <p>Nombre de cas rapportés par les UP en 2016: 62 traités / 25 sous protocoles GFAOP / 47 enregistrés par les data managers</p>
       <p>Association partenaire : Victoir</p>
     </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-4 text-center">
+      <img src="images/pays_gabon.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+    </div>
+    <div class="col-12 col-md-8 p-3">
+      <h2><b>GABON</b></h2>
+      <p>En cours d’adhésion et d’ouverture<br><br>
+      <b>Dr Ghislaine OBONO</b> (ghisob@yahoo.fr) <br>
+      <b>Pr Simon ATEGBO</b> chef de la Pédiatrie<br>
+      - CHU d'Angondjé à Libreville</p>
+      <p>Le pays : 268 000 Km2, 1,7 millions d’habitants, 60 à 80 nouveaux cancers/an chez <15 ans (80 à 110 en 2025).*</p>
+    </div>
   </div> 
 </div>
 
@@ -320,19 +333,19 @@
 <div class="container">
   <h3 class="text-center">Enfants Traités depuis 2011</h3>
   <div class"col-12 text-left">
-      <p>Or, on sait que la guérison peut atteindre 80%, à condition :</p>
-      <ul>
-        <li>Que le diagnostic de cancer soit précoce</li>
-        <li>Que l’accès à une équipe compétente soit rapide</li>
-        <li>Que le bilan initial et la mise en route du traitement soient faits dans des délais courts </li>
-        <li>Que le traitement, souvent long, puisse être mené à son terme avec la surveillance après traitement, ce qui suppose un accompagnement des familles, un développement de relais à proximité du domicile et un soutien aux plus vulnérables</li>
-      </ul>
-      <p>C’est pour répondre à ces besoins que le projet d’accélération de la mise à disposition de structures performantes en Afrique francophone sub-saharienne est proposé, avec l’objectif global de permettre la prise en charge efficace d' :</p>
-      <ul>
-        <li>Au moins 30% des enfants  (soit environ 3 500 nouveaux cas/an) d’Afrique sub-saharienne atteints de cancers en 2020.</li>
-        <li>Au moins 60% (soit environ 7 000 cas/an) en 2025.</li>
-      </ul>
-    </div> 
+    <p>Or, on sait que la guérison peut atteindre 80%, à condition :</p>
+    <ul>
+      <li>Que le diagnostic de cancer soit précoce</li>
+      <li>Que l’accès à une équipe compétente soit rapide</li>
+      <li>Que le bilan initial et la mise en route du traitement soient faits dans des délais courts </li>
+      <li>Que le traitement, souvent long, puisse être mené à son terme avec la surveillance après traitement, ce qui suppose un accompagnement des familles, un développement de relais à proximité du domicile et un soutien aux plus vulnérables</li>
+    </ul>
+    <p>C’est pour répondre à ces besoins que le projet d’accélération de la mise à disposition de structures performantes en Afrique francophone sub-saharienne est proposé, avec l’objectif global de permettre la prise en charge efficace d' :</p>
+    <ul>
+      <li>Au moins 30% des enfants  (soit environ 3 500 nouveaux cas/an) d’Afrique sub-saharienne atteints de cancers en 2020.</li>
+      <li>Au moins 60% (soit environ 7 000 cas/an) en 2025.</li>
+    </ul>
+  </div> 
   <img class="text-center" src="./images/tableaucasup.png" alt="statistiques des cas soignés dans les différentes unités" />
   <h3 class="text-center">Les besoins restent donc considérables</h3>
   <div class="row px-2">
