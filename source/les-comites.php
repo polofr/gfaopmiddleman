@@ -13,7 +13,7 @@
       <li><b>Comité Data Management :</b> Brenda Mallon et Marie Anne Raquin</li>
       <li><b>Comité Douleur et Soins palliatifs :</b> Dr Christine Edan</li>
       <li><b>Comité Infirmier :</b> Chantal Thinlot, Marie-Solange Douçot et Zahia Hamoud</li>
-      <li><b>Comité Anatomopathologie :</b> Dr Elisabeth Auberger</li>
+      <li><b>Comité Anatomopathologie :</b> Dr Elisabeth Auberger et Pr Martine Raphael</li>
       <li><b>Comité Médicaments :</b> Marinette Courbard</li>
     </ul>
   </div>

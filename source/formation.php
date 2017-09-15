@@ -7,6 +7,7 @@
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">LA FORMATION</h1>
+  <h2 class="pt-1">L’ECOLE AFRICAINE D’ONCOLOGIE PEDIATRIQUE</h2>
 </div>
 <div class="container">
   <div class="row mx-auto text-justify py-3">
@@ -38,7 +39,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_oncologie_avec_guy_leverger_au_togo.jpg" class="borderless rounded img-thumbnail" width="600" alt="formation oncologie avec Guy Leverger au Togo" >
+      <img src="images/session_de_formation_op.jpg" class="borderless rounded img-thumbnail" width="600" alt="formation oncologie" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les sessions de formation à l’oncologie pédiatrique des personnels soignants</h3>
@@ -67,7 +68,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/mission_ formation.jpg" class="borderless rounded img-thumbnail" width="300" alt="lecture d'une radiographie en formation" >
+      <img src="images/mission_formation.jpg" class="borderless rounded img-thumbnail" width="300" alt="lecture d'une radiographie en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation  des responsables d’Unités Pilotes</h3>
@@ -158,5 +159,38 @@
     </div>
   </div>
 </div>
-
+<div class="container">
+  <h2 class="pt-5">L’ANATOMOPATHOLOGIE</h2>
+  <div class="row text-justify py-3">
+    <div class="col-12">
+      La spécialité d’anatomopathologie est essentielle pour confirmer les diagnostics cliniques de cancer des patients. Des examens histologiques en laboratoire, des prélèvements effectués sur les organes malades permettent de guider le choix de protocoles de soins offrant les meilleurs taux de succès. Une anatomopathologie incertaine réduit notablement les chances de succès et fait perdre un temps précieux par une administration de médications onéreuses mais inappropriées. La thérapie du soin des cancers de l’enfant peut être assimilée à une guerre de mouvements rapides. Plus on est rapide dans l’administration du juste traitement, plus grandes seront les chances de survie des enfants.
+    </div>
+  </div>
+  <div class="row text-center py-2">
+    <div class="col-12 col-md-4">
+      <div class="p-3 cream rounded m-2">    
+        <h3>La Chirurgie</h3>
+        <div class="text-justify">
+          L’accent est mis sur une formation spécifique aux besoins de chirurgie dans le traitement des tumeurs de l’enfant. Elle est destinée à des chirurgiens n’ayant pas une expérience spécifique au domaine de l’oncologie pédiatrique. La Chirurgie des tumeurs cancéreuses de l’enfant est un complément indispensable à maitriser pour soigner efficacement les cancers des enfants.
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="p-3 cream rounded m-2">    
+        <h3>L’ophtalmologie : Formation Rétinoblastome</h3>
+        <div class="text-justify">
+          Depuis 2011, le GFAOP, adossé à Gustave Roussy et à l’institut Curie, a décidé d’inscrire le rétinoblastome des enfants parmi les pathologies sur lesquelles elle s’investit plus particulièrement. Ce cancer représente une proportion importante des tumeurs qui frappent les enfants.
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4">
+      <div class="p-3 cream rounded m-2">    
+        <h3>La Radiologie et la Radiothérapie</h3>
+        <div class="text-justify">
+        Encore trop peu de services africains disposent d’accès à la radiothérapie, pourtant elle permet les traitements conservateurs liés à certaines tumeurs. La mise à disposition de nouveaux équipements nécessite la formation des utilisateurs.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <?php include 'partial/_footer.html';?>

@@ -10,10 +10,17 @@
 </div>
 
 <div class="container py-1">
-  <div class="row text-center"><!-- TODO update this text -->
+  <div class="row text-center">
     <h3 class="mx-auto py-2">Dans chaque hôpital, l’unité d’oncologie pédiatrique dite «Unité-Pilote» a en charge les soins des enfants atteints de cancer</h3>
-    <p class="mx-auto text-justify col-md-8">Nous comptons 20 services ou “Unités Pilotes” d’oncologie pédiatrique dans 16 pays et chaque année le nombre d’enfants à prendre en charge augmente. De nouveaux pays cherchent à rejoindre le GFAOP comme le Burundi, le Niger, le Gabon, la Centrafrique qui ont actuellement des pédiatres en formation. On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2000 euros. Ce coût intègre les médicaments anticancéreux pour 1000 euros (antibiotiques, antimitotiques, analyses de sang et petit matériel), la chirurgie pour l’autre moitié.
-    Il est à noter que le nombre de cas traités selon les protocoles GFAOP ne représente qu’environ 60 % des enfants accueillis dans les services de cancérologie pédiatrique.
+    <p class="mx-auto text-justify col-md-8">
+    Le GFAOP est un réseau de 20 services ou “Unités Pilotes” d’oncologie pédiatrique dans 16 pays d’Afrique francophone.
+    6 unités sont au Maghreb : Algérie, Maroc (4) et Tunisie.
+    14 unités sont en Afrique Sub-saharienne : Burkina Faso, Cameroun, Côte d’Ivoire, Gabon, Guinée Conakry, RD Centrafricaine, RDCongo (2), Mali, Mauritanie, Madagascar, Niger, Sénégal et Togo.
+    Le Congo Brazzaville est en phase de création d’unité pilote, d’autres pays devraient rejoindre le GFAOP comme le Bénin, le Tchad et le Burundi.
+    Des unités satellites devraient ouvrir en région dans plusieurs pays membres.
+    On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2000 euros. Ce
+    coût intègre les médicaments anticancéreux pour 1000 euros (antibiotiques, antimitotiques, analyses de sang et petit matériel), la chirurgie pour l’autre
+    moitié. Il est à noter que le nombre de cas traités selon les protocoles GFAOP ne représente qu’environ 60 % des enfants accueillis dans les services de cancérologie pédiatrique.
     </p>
   </div>
 </div>
@@ -99,7 +106,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center"><!-- TODO image -->
-      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
+      <img src="images/pays_congo_kinshasa.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO KINSHASA</b></h2>
@@ -114,7 +121,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+      <img src="images/pays_cote_d_ivoire.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CÔTE D'IVOIRE</b></h2>
@@ -130,7 +137,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/abidjan.png" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+      <img src="images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>GUINÉE CONAKRY</b></h2>
@@ -142,7 +149,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MADAGASCAR</b></h2>
@@ -160,7 +167,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="femmes et enfants dans la salle d'attente" >
+    <img src="images/pays_mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="femmes et enfants dans la salle d'attente" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MALI</b></h2>
@@ -223,7 +230,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
+    <img src="images/pays_maroc_fes.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
     <div class="col-8">
       <h4>FÈS</h4><br>
@@ -234,7 +241,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="images/pays_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>NIGER</b></h2>
@@ -298,16 +305,6 @@
 
 <div class="container py-1">
   <div class="row p-2">
-    <h3 class="text-center py-2">Les unités pilotes en formation</h3>
-    <p>Plusieurs installations d’unités spécifiques sont en cours de reconnaissance par le GFAOP. 
-      Elles sont dans des pays ou des régions qui ont déjà envoyé ou vont envoyer un ou plusieurs pédiatres en formation.
-    </p>
-    <ul>
-      <li>Burundi</li>
-      <li>Gabon</li>
-      <li>Bénin</li>
-      <li>Tchad</li>
-    </ul>
     <p class="text-center"><b>Malgré l’important travail des équipes du GFAOP, seuls 10% des enfants atteints de cancers atteignent l’une des unités d’oncologie pédiatrique existantes en raison de :</b></p>
     <ul>
       <li>L’absence d’unités dans certains pays</li>
@@ -322,6 +319,20 @@
 
 <div class="container">
   <h3 class="text-center">Enfants Traités depuis 2011</h3>
+  <div class"col-12 text-left">
+      <p>Or, on sait que la guérison peut atteindre 80%, à condition :</p>
+      <ul>
+        <li>Que le diagnostic de cancer soit précoce</li>
+        <li>Que l’accès à une équipe compétente soit rapide</li>
+        <li>Que le bilan initial et la mise en route du traitement soient faits dans des délais courts </li>
+        <li>Que le traitement, souvent long, puisse être mené à son terme avec la surveillance après traitement, ce qui suppose un accompagnement des familles, un développement de relais à proximité du domicile et un soutien aux plus vulnérables</li>
+      </ul>
+      <p>C’est pour répondre à ces besoins que le projet d’accélération de la mise à disposition de structures performantes en Afrique francophone sub-saharienne est proposé, avec l’objectif global de permettre la prise en charge efficace d' :</p>
+      <ul>
+        <li>Au moins 30% des enfants  (soit environ 3 500 nouveaux cas/an) d’Afrique sub-saharienne atteints de cancers en 2020.</li>
+        <li>Au moins 60% (soit environ 7 000 cas/an) en 2025.</li>
+      </ul>
+    </div> 
   <img class="text-center" src="./images/tableaucasup.png" alt="statistiques des cas soignés dans les différentes unités" />
   <h3 class="text-center">Les besoins restent donc considérables</h3>
   <div class="row px-2">

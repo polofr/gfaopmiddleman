@@ -49,7 +49,7 @@
       <h5 class="py-2">Trésorier</h5>
       <h5>M. Louis OMER-DECUGIS</h5>
       <h6>Chef d'entreprise, Paris, France</h6>
-      <p>lod@siim.net</p>
+      <p>lod@siim.fr</p>
       <img src="images/lod.jpg" class="borderless rounded img-thumbnail" width="130" alt="Louis OMER-DECUGIS" >
     </div>
   </div>
@@ -63,7 +63,7 @@
     </div>
     <div class="col-md-3 cream rounded m-3 mr-md-auto">
       <h5 class="py-2">Membre</h5>
-      <h5>M. Jean-Jacques ATTEBY</h5>
+      <h5>M. Jean-Jacques ATTEBY YAO</h5>
       <h6>CHU de Treichville, Abidjan, Côte d'Ivoire</h6>
       <p>attebyjj@yahoo.fr</p>
       <img src="images/jja.jpg" class="borderless rounded img-thumbnail" width="100" alt="Jean-Jacques ATTEBY" >

@@ -73,7 +73,7 @@
       <div class="text-justify">
         Grâce à l’engagement des équipes médicales du GFAOP, au soutien apporté par les institutions, les autorités, les partenaires et la société civile, ce qui semblait encore impossible devient réalité : les enfants atteints de cancers en Afrique peuvent eux aussi avoir accès aux soins.
       </div>
-      <div class="text-justify text-italic">
+      <div class="text-justify font-italic">
         Le GFAOP est une association médicale et n’a pas vocation à prendre en charge le traitement des enfants hors de leurs pays d’origine.
       </div>
     </div>
