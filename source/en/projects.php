@@ -10,17 +10,17 @@
 </div>
 <div class="container">
   <div class="row text-justify pt-4">
-    <div class="mx-auto py-3 col-12 col-md-10">
+    <div class="mx-auto pt-3 col-12 col-md-10">
       In developed countries pediatric oncologists have built collaborative communities that have made tremendous progress in the cancer management for children. 
       Children in these countries not only enjoyed significant healing chances (up to 75-80%) but the approach also went beyond the need for healing to embrace life quality issues during and after treatment. 
       In Africa in spite of the team success in the field, <strong>only</strong> 1,000 children, ie less than 15% of children with cancer in French-speaking sub-Saharan Africa, have reached a pediatric oncology unit in 2015, often too late (especially due to the referral to other actors such as tradi-practitioners who waste precious time). The number of new cancer cases for children under the age of 15 is now estimated at around <strong>10,000 per year</strong> (and at least <strong>6,000 deaths</strong> per cancer) in French-speaking sub-Saharan countries.
     </div>
-    <div class="mx-auto py-3 col-12 col-md-10">
+    <div class="mx-auto pt-2 col-12 col-md-10">
       <small>* For the 18 countries with 280 million inhabitants (based on an incidence of 85 new cases / year / million children under 15 years old, Cancer in Children, The Cancer Atlas 2nd edition, The American Cancer Society, 2014)
       </small>
     </div>
-    <div class="mx-auto py-3 col-12 col-md-10">
-      <h3>Donate and help us finance our projects! Donations are eligible for a tax reduction.*</h3>
+    <div class="mx-auto py-2 col-12 col-md-10">
+      <h5>Donate and help us finance our projects! Donations are eligible for a tax reduction.*</h5>
     </div>
   </div>  
   <div id="accordion" class="py-2" role="tablist" aria-multiselectable="true">
