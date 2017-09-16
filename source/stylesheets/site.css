@@ -62,12 +62,14 @@ body {
   background-image: url(../images/photo_ca.jpg);
   color: white;
   height: 27em;
+  
 }
 
 .wrapper-4 {
   background-image: url(../images/carte_pays.png);
   background-color: #DEF3F2;
-  height: 71em;
+  background-position: center;
+  height: 120em;
 }
 
 .wrapper-5 {
