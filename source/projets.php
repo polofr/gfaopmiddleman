@@ -10,13 +10,16 @@
 </div>
 <div class="container">
   <div class="row text-justify">
-    <div class="mx-auto py-3 col-12 col-md-8">
+    <div class="mx-auto py-3 col-12 col-md-10">
     Dans les pays développés les cancérologues pédiatres ont construit des communautés collaboratives qui ont permis un progrès formidable dans la prise en charge des cancers chez l’enfant. Les enfants dans ces pays ont non seulement pu bénéficier de chances significatives de guérison atteignant 75 à 80% mais l’approche a dépassé l’exigence de guérison pour embrasser les problématiques de qualité de vie pendant et après le traitement. 
     En Afrique, malgré le succès des équipes sur le terrain, <strong>seulement</strong> 1 000 enfants, soit moins de 15% des enfants ayant un cancer en Afrique francophone sub-saharienne, ont atteint en 2015 une unité d’oncologie pédiatrique, souvent trop tardivement pour y être efficacement traités (notamment en raison d’un premier recours à d’autres acteurs comme les tradi-praticiens qui font perdre un temps précieux). Le nombre de nouveaux cas de cancers chez l’enfant de moins de 15 ans est estimé aujourd’hui à environ <strong>10 000 par an</strong> (et au moins <strong>6 000 décès</strong> par cancer), pour les pays sub-sahariens francophones.*
     </div>
-    <div class="mx-auto py-3 col-12 col-md-8">
+    <div class="mx-auto py-3 col-12 col-md-10">
       <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas »2ème édition , The American Cancer Society, 2014)
       </small>
+    </div>
+    <div class="mx-auto py-3 col-12 col-md-10">
+      <h3>Aidez-nous à financer nos projets et faites un don! Les dons sont déductibles de vos impots.*</h3>
     </div>
   </div>  
   <div id="accordion" class="py-2" role="tablist" aria-multiselectable="true">
