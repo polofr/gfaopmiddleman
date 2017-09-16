@@ -49,6 +49,7 @@ body {
   background-image: url(../images/fond_accueil.png);
   background-position: center;
   color: white;
+  min-height: 420px;
 }
 
 .wrapper-2 {

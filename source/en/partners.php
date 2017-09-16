@@ -63,7 +63,7 @@
       <a href="http://www.contrelecancer.ma/fr/">
         <img src="../images/logolalla.jpg" class="borderless rounded img-thumbnail" width="300" alt="Lalla Salma foundation" >
       </a>
-      <h4 style="padding-top: 15px;">Fondation Lalla Salma</h5>
+      <h5>Fondation Lalla Salma</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.airfrance.com/indexCom_fr.html">
@@ -229,7 +229,7 @@
     </div>
     <div class="col-md-2 text-center">
       <a href="https://www.facebook.com/gabriella.retinoblastome">
-        <img src="../images/logo_gabriella_pour_la_vue.png" class="borderless rounded img-thumbnail" width="80" alt="Gabriella pour la vue" >
+        <img src="../images/logo_gabriella_pour_la_vue.png" class="borderless rounded img-thumbnail" width="180" alt="Gabriella pour la vue" >
       </a>
       <h5>“Gabriella pour la vue” in Democratic Republic of Congo</h5>
     </div>

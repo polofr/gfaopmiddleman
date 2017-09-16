@@ -69,7 +69,7 @@
       <a href="http://www.contrelecancer.ma/fr/">
         <img src="images/logolalla.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fondation Lalla Salma" >
       </a>
-      <h4 style="padding-top: 15px;">Fondation Lalla Salma</h5>
+      <h5>Fondation Lalla Salma</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.airfrance.com/indexCom_fr.html">
@@ -99,7 +99,7 @@
     </div>
     <div class="col-md-2 text-center">
       <img src="images/logoagir.png" class="borderless rounded img-thumbnail" width="100" alt="fondation marocaine AGIR" >
-      <h5>AGIR au Maroc</h5>
+      <h5>AGIR <span class="font-italic">au Maroc</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.asf-fr.org/">
@@ -137,7 +137,7 @@
       <a href="http://www.soleterremaroc.org">
         <img src="images/logosoleterre.jpg" class="borderless rounded img-thumbnail" width="90" alt="Association Soleterre" >
       </a>
-      <h5>Association Soleterre en Côte d'Ivoire</h5>
+      <h5>Association Soleterre <span class="font-italic">en Côte d'Ivoire</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.talents-partage.org/">
@@ -163,11 +163,11 @@
       <a href="http://www.associationlavenir.ma/notreaction.html">
         <img src="images/logo_avenir_maroc.png" class="borderless rounded img-thumbnail" width="80" alt="Association Avenir au Maroc" >
       </a>
-      <h5>Association Avenir au Maroc</h5>
+      <h5>Association Avenir <span class="font-italic">au Maroc</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <img src="images/logovictoir.png" class="borderless rounded img-thumbnail" width="300" alt="Assocation VICTOiR" >
-      <h5>Assocation "VICTOiR" au Togo</h5>
+      <h5>Assocation "VICTOiR" <span class="font-italic">au Togo</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <img src="images/logopcd.jpg" class="borderless rounded img-thumbnail" width="90" alt="Association PCD" >
@@ -183,7 +183,7 @@
       <a href="http://www.apsa-association.com/">
         <img src="images/logoapsa.jpg" class="borderless rounded img-thumbnail" width="300" alt="apsa association" >
       </a>
-      <h5>APSA au Niger</h5>
+      <h5>APSA <span class="font-italic">au Niger</span></h5>
     </div>
   </div>
   <div class="row">
@@ -191,7 +191,7 @@
       <a href="https://www.facebook.com/fondationcalissaikama/">
         <img src="images/logocalissa.png" class="borderless rounded img-thumbnail" width="90" alt="Fondation Calissa Ikama" >
       </a>
-      <h5>Fondation Calissa Ikama au Congo</h5>
+      <h5>Fondation Calissa Ikama <span class="font-italic">au Congo</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.bsf.asso.fr/">
@@ -223,9 +223,9 @@
     </div>
     <div class="col-md-2 text-center">
       <a href="https://www.facebook.com/gabriella.retinoblastome">
-        <img src="images/logo_gabriella_pour_la_vue.png" class="borderless rounded img-thumbnail" width="80" alt="Gabriella pour la vue" >
+        <img src="images/logo_gabriella_pour_la_vue.png" class="borderless rounded img-thumbnail" width="180" alt="Gabriella pour la vue" >
       </a>
-      <h5>L'Association “Gabriella pour la vue” en RDC</h5>
+      <h5>L'Association “Gabriella pour la vue” <span class="font-italic">en RDC</span></h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.nausicaa.asso.fr/wordpress/">

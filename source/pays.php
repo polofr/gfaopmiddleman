@@ -80,7 +80,7 @@
       <img src="images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="La salle d'attente en centreafrique" >
     </div>
     <div class="col-12 col-md-8 p-3">
-      <h2><b>CENTRAFRIQUE</b></h2>
+      <h2><b>REPUBLIQUE CENTRAFRICAINE</b></h2>
       <p>Adhésion au GFAOP en 2015, fonctionnelle en 2016<br><br><!-- TODO -->
       <b>Dr Jess Elio Kosh Comba</b> (koshkomba@gmail.com) <br>
       - Complexe Pédiatrique de Bangui<br></p>
