@@ -7,11 +7,12 @@
 
 <div class="wrapper wrapper-5">
   <h1 class="pt-5">TRAINING</h1>
+  <h2 class="pt-1">AFRICAN PEDIATRIC ONCOLOGY SCHOOL</h2>
 </div>
 <div class="container">
   <div class="row mx-auto text-justify py-3">
     The aim is to train medical and paramedical personnel to care for sick children locally.
-    Over 15 years, more than 200 African doctors and nurses have been trained in pediatric oncology through the GFAOP in the leading cancer services.<br>
+    Over 15 years, more than 240 African doctors and nurses have been trained in pediatric oncology through the GFAOP in the leading cancer services.<br>
     In addition to pediatric oncologists training, other medical specialists (surgeons, pathologists, ophthalmologists, radiotherapists ...) and nurses also benefit from training related to pediatric oncology.<br>
     This is the main expense item of the association.
     Nevertheless, only 10% of children with cancer will be able to reach the specialized centers, an important awareness-raising work is under way.
@@ -19,7 +20,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actionstage1.jpg" class="borderless rounded img-thumbnail" width="300" alt="in the lab" >
+      <img src="../images/pierre_et_jean_michon_au_togo.jpg" class="borderless rounded img-thumbnail" width="300" alt="in the lab" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Internships</h3>
@@ -28,7 +29,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actiondiuop.png" class="borderless rounded img-thumbnail" width="600" alt="big smile  sale de réunion" >
+      <img src="../images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="600" alt="big smile  sale de réunion" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The Inter-University Diploma of Pediatric Oncology (DIUOP) in France</h3>
@@ -37,17 +38,17 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioneaop.png" class="borderless rounded img-thumbnail" width="600" alt="banderolle pour la nouvelle promotion" >
+      <img src="../images/session_de_formation_op.jpg" class="borderless rounded img-thumbnail" width="600" alt="banderolle pour la nouvelle promotion" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• The African School of Pediatric Oncology (EAOP) in Morocco</h3>
+      <h3>• Training sessions for pediatric oncology for nursing staff</h3>
       The school trains 20 to 30 practitioners every year during sessions in various specialties (paediatrics, surgery, nursing, etc.). 
-      The African School of Pediatric Oncology (EAOP) was born thanks to the training experience of the GFAOP and of Gustave Roussy. It is the continuation in Africa of the experience gained in France by the GFAOP in the field of Pediatric Oncology training.
+      It also promotes interdisciplinary work to improve the hanling of the condition.
     </div>
   </div>
     <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actiondiucp.png" class="borderless rounded img-thumbnail" width="600" alt="la promotion dans une classe de cours" >
+      <img src="../images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600" alt="la promotion dans une classe de cours" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The University Diploma of Pediatric Cancer (DUCP) in Morocco</h3>
@@ -56,7 +57,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioncollegiales.png" class="borderless rounded img-thumbnail" width="600" alt="la promotion attentive pendant les cours" >
+      <img src="../images/formation_collegiale.jpg" class="borderless rounded img-thumbnail" width="600" alt="la promotion attentive pendant les cours" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Collegial training</h3>
@@ -70,6 +71,87 @@
     <div class="col-md-9 col-12 py-3">
       <h3>• Training of unit managers</h3>
       The GFAOP assists unit managers in acquiring postgraduate degrees such as the Doctorate of Science enabling them to evolve in the hierarchy of their institutions. Climbing the African Hospital Administration ladder is a guarantee of the promotion of African Pediatric Oncology.
+    </div>
+  </div>
+  <div class="row text-justify cream rounded">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
+    </div>
+    <div class="col-md-9 col-12 py-3">  
+      <h3>• Training for new pediatric oncology unit openings</h3>
+      After acceptance in General Assembly of a new unit creation, decentralized in the region or in a new country, training for a doctor/nurse duo on good practices is organized in France.
+    </div>
+  </div>
+  <div class="row text-justify">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>• Training in the Pilot Units</h3>
+      GFAOP's members regularly visit the units to work with the teams.
+    </div>
+  </div>
+  <div class="row text-justify cream rounded">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300" alt="formation data manager" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>• Training of Clinical Research Associates</h3>
+      To establish a cancer registry, staff is trained for data collection and sending in order to carry out the clinical studies.
+    </div>
+  </div>
+  <div class="row text-justify">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>• La formation infirmière</h3>
+        Although training has benefited 85 nurses from 13 countries over the past 16 years, these training courses are still insufficient in number and quality. 
+        Significant progress has been made in the treatment of pediatric cancers, but nursing remains a weak point for child care. 
+        However, progress is essential for rigorous implementation and monitoring of treatments. 
+        Beginning in 2014, in order to meet the strong expectations of the various pediatric oncology units wishing to better train nurses and retain them, an acceleration of the nursing training process was carried out :
+        <ul>
+          <li>A theoretical and general training in the African School of Pediatric Oncology on "Cancerology fundamentals".
+            This basic one-week group training is intended for nursing teachers.
+          </li>
+          <li>« Pain and palliative care » training 
+            The GFAOP teams are too often poorly facing pain management because of lack of training and medicines. 
+            It is therefore essential to ensure adequate training for the doctor-nurse duo.
+          </li>
+          <li>
+            The "Laurette Fugain" scholarships: since 2014, 2 fellowships have been awarded to nurses in the pilot units. The latter benefit from 2-month internships in France in the most prestigious wards.
+          </li>
+        </ul>
+        As part of the 5- and 10-year GFAOP development project, we expect to train at least 50 nurses per year for pilot units in the Maghreb and Africa.
+      </div>
+  </div>
+  <div class="row text-justify cream rounded">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300" alt="pain and care conference" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>"Pain and Palliative Care" classes</h3>
+        The training courses "Pain and Palliative Care" classes
+        Thanks to therapeutic advances in the last few years, children recover from cancer.
+        In parallel, supportive care has been developed to improve the management of symptoms, especially pain, at all stages of treatment. It is important to bring these practices to Africa where pain remains poorly handled. The Sanofi Espoir Foundation through the "My Child Matters" program supports this project over 3 years.
+    </div>
+  </div>
+  <div class="row text-justify">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300" alt="health personnel in training" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>Early diagnosis Training of health staff</h3>
+      In order to ensure children early arrival in pediatric oncology services, health staff will be trained to relay information to health centers in urban and remote areas.
+    </div>
+  </div>
+  <div class="row text-justify cream rounded mb-2">
+    <div class="col-md-3 col-12 text-center">
+      <img src="images/Fatou_et_Fouss.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fatou et Fouss treating the eye" >
+    </div>
+    <div class="col-md-9 col-12 py-3">
+      <h3>Other medical specialties</h3>
+      While surgeons and pathologists are present in all Francophone sub-Saharan African countries, they are inadequate and face multiple activities, pediatric oncology accounting for only a small portion. These two activities are crucial in the multidisciplinary care of children with cancer. Further training in pediatric oncology should continue.
     </div>
   </div>
   <div class="row text-justify cream rounded">

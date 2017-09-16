@@ -27,7 +27,7 @@
       <li><b>Gilles de Tovar :</b> Partnerships <br class="hidden-md-up" /><b>helegil@noos.fr</b></li>
       <li><b>Nicolas Vautier :</b> Partnerships <br class="hidden-md-up" /><b>vautiern@gmail.com</b></li>
       <li><b>Chris Monga :</b> Partnerships <br class="hidden-md-up" /><b>gabriellacontreleretinoblastom@gmail.com</b></li>
-      <li><b>Gfaop Administration</b><br class="hidden-md-up" /><b>GFAOP@gustaveroussy.fr</b></li>
+      <li><b>Gfaop :</b> Administration <br class="hidden-md-up" /><b>gfaop@gustaveroussy.fr</b></li>
     </ul>
   </div>
 </div>

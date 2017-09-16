@@ -13,7 +13,7 @@
       <li><b>Data Management Comitee :</b> Brenda Mallon and Marie Anne Raquin</li>
       <li><b>Pain and Palliative Care Comitee :</b> Dr Christine Edan</li>
       <li><b>Nurse Comitee :</b> Chantal Thinlot, Marie-Solange Douçot and Zahia Hamoud</li>
-      <li><b>Anatomical Pathology Comitee :</b> Dr Elisabeth Auberger</li>
+      <li><b>Anatomical Pathology Comitee :</b> Dr Elisabeth Auberger and Pr Martine Raphael</li>
       <li><b>Drug Comitee :</b> Marinette Courbard</li>
     </ul>
   </div>

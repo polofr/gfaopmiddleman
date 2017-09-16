@@ -93,17 +93,13 @@
   </div>
   <div class="row py-3">
     <div class="col-12 col-md-3 text-center">
-      <img src="../images/politique.png" class="borderless rounded img-thumbnail" width="250" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
+      <img src="../images/plaidoyer.jpg" class="borderless rounded img-thumbnail" width="250" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
     </div>
     <div class="col-12 col-md-9">
       <p class="text-justify">For the past 16 years, the GFAOP has been working in the field, and teams have shown that, despite difficult conditions and very few resources, good results have been achieved and that even in Africa children can be cured. 
-        The GFAOP supports the implementation of public health policies, develops information campaigns for the early diagnosis and information of local health professionals. 
-        Many personalities visited the units of the GFAOP. 
+        The GFAOP teams regularly communicate their work at international medical conferences and symposia, to health professionals, populations, media and international bodies so that pediatric cancer becomes a public health priority.
       </p>
     </div>
-    <p class="col-12 font-italic text-center mx-auto">
-      HRH Princess Lalla Salma, President of the Lalla Salma Foundation, accompanied by Ms Dominique Ouattara, First Lady of Ivory Coast and Ms Bernadette Chirac, President of the Hospitals of Paris in Marrakesh
-    </p>
   </div>
 </div>
 

@@ -17,6 +17,7 @@
     Our wish is to withdraw little by little from drug supply which should be available in the future in each country
     thanks to the drug inscription on the essential drug list edited by WHO.
     This action is sponsored by Lalla Salma foundation.
+    Most of drugs are sent through "Aviation Without Borders" organization. Medicines are purchased from Gustave Roussy as we want to be independent from the pharmaceutical industry.
   </div>
   <div class="row text-center py-1">
     <div class="col-12 col-sm-6 p-4">

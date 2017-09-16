@@ -50,17 +50,18 @@
   <div class="row text-center">
     <div class="col-12 col-md-3 cream rounded m-2 ml-md-auto">
       <h4 class="py-1">Burkitt Committee</h5>
-      <h6>Coordinator : Maria El Kababri (Rabat, Marocco)</h6>
+      <h6>Coordinator : Siham Cherkaoui (Casablanca, Marocco)</h6>
       <h6>Data manager : Marie-Anne Raquin (IGR, France)</h6>
-      <h6>Secretary : Angèle Pondy (Yaoundé, Cameroon)</h6>
       <h6>Expert: Catherine Patte (IGR, France)</h6>
+      <h6>Members : Maria El Kababri (Rabat), Fousseyni Traoré (Bamako), Chantal Bouda (Ougadougou), Claude Moreira (Dakar)</h6>
     </div>
     <div class="col-12 col-md-3 cream rounded m-2">
       <h4 class="py-1">Nephroblastoma Committee</h5>
       <h6>Coordinator : Claude Moreira (Dakar, Senegal)</h6>
       <h6>Data manager : Brenda Mallon (IGR, France)</h6>
-      <h6>Secretary : Jean Jacques Atteby (Treichville, Ivory Coast)</h6>
+      <h6>Secretary : Jean Jacques Yao Atteby (Treichville, Ivory Coast)</h6>
       <h6>Expert: Catherine Patte (IGR, France)</h6>
+      <h6>Members : Pr Mohamed Khattab (Rabat), Sonia Kaboret (Ougadougou)</h6>
     </div>
     <div class="col-12 col-md-3 cream rounded m-2 mr-md-auto">
       <h4 class="py-1">Retinoblastoma Committee</h5>
@@ -71,15 +72,15 @@
   <div class="row text-center">
     <div class="col-12 col-md-3 cream rounded m-2 ml-md-auto">
       <h4 class="py-1">Hodgkin lymphoma committee</h5>
-      <h6>Coordinator : Christine Edan (Rennes, France)</h6>
-      <h6>Data manager : Souad Nafa (IGR, France)</h6>
+      <h6>Coordinator :  Fatou Binetou Akonde (Dakar), Faten Fedilha (Tunis)</h6>
       <h6>Expert : Odile Oberlin</h6>
+      <h6>Membres : Laila Hessissen (Rabat), Anissa Trabzi (Alger), Sarra Benmiloud (Fès), Samar Rhayem (Tunis)</h6>
     </div>
     <div class="col-12 col-md-3 cream rounded m-2 mr-md-auto">
       <h4 class="py-1">Leukemia Acute Lymphoblastic Committee</h5>
-      <h6>Coordinator : Marie Dominique Tabone</h6>
-      <h6>Data manager : Clinical Research Unit (Trousseau, France)</h6>
-      <h6>Expert : Guy Leverger (Armand Trousseau hospital)</h6>
+      <h6>Coordinateur : Pr Guy Leverger</h6>
+      <h6>Expert : Guy Leverger (hôpital Armand Trousseau)</h6>
+      <h6>Members : Françoise Aubier, M'hamed Harif (Casablanca), Boubacar Togo (Bamako), Mame Ndella DIOUF (Dakar), Angèle Pondy (Yaoundé), Mohamed Khattab (Rabat)</h6>
     </div>
   </div>
 </div>

@@ -28,7 +28,7 @@
       <p>PARIS Institut Curie
       <br/><small>Chef du Département d'Oncologie Pédiatrique</small></p>
       <h5><strong>Docteur Hervé Rubié-Dersigny</strong></h5>
-      <p>Hôpital Purpan Toulouse
+      <p>TOULOUSE Hôpital Purpan
       <br/><small>Service Pédiatrie - Hématologie et oncologie</small></p>
       <h5><strong>Docteur Rachid, BEKKALI</strong></h5>
       <p>RABAT, Fondation Lalla Salma</p>
@@ -46,10 +46,10 @@
       <br/><small>Data Manager</small></p>
       <h5><strong>Marie-Solange DOUCOT</strong></h5>
       <p><small>Infirmière</small></p>
-      <h5><strong>Dr Jean Jacques Atteby YAO</strong></h5>
+      <h5><strong>Docteur Jean Jacques Atteby YAO</strong></h5>
       <p>ABIDJAN CHU de Treichville
       <br/><small>Comité de Tumeurs</small></p>
-      <h5><strong>Dr Fousseyni TRAORE</strong></h5>
+      <h5><strong>Docteur Fousseyni TRAORE</strong></h5>
       <p>BAMAKO Hôpital Gabriel Touré
       <br/><small>Comité de Tumeurs</small></p>      
     </div>

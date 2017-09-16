@@ -28,8 +28,8 @@
       <h5><strong>Doctor Jean MICHON</strong></h5>
       <p>PARIS Institut Curie
       <br/><small>Head of the Pediatric Oncology ward</small></p>
-      <h5><strong>Doctor Carole COZE</strong></h5>
-      <p>MARSEILLE Hospital
+      <h5><strong>Doctor Hervé Rubié-Dersigny</strong></h5>
+      <p>TOULOUSE Purpan Hospital
       <br/><small>Pediatric Onco-Hematology ward</small></p>
       <h5><strong>Doctor Rachid, BEKKALI</strong></h5>
       <p>RABAT, Lalla Salma Foundation</p>
@@ -47,6 +47,12 @@
       <br/><small>Data Manager</small></p>
       <h5><strong>Marie-Solange DOUCOT</strong></h5>
       <p><small>Nurse</small></p>
+      <h5><strong>Doctor Jean Jacques Atteby YAO</strong></h5>
+      <p>ABIDJAN Treichville Hospital
+      <br/><small>Tumor Comitee</small></p>
+      <h5><strong>Doctor Fousseyni TRAORE</strong></h5>
+      <p>BAMAKO Gabriel Touré Hospital  
+      <br/><small>Tumor Comitee</small></p>
     </div>
     <div class="col-12 col-md-5 cream m-2 rounded p-3 mx-auto mr-md-auto">
       <h5><strong>Doctor Line COUITCHERE</strong></h5>
@@ -88,10 +94,13 @@
       <br/><small>Pediatric Oncology Unit</small></p>
       <h5><strong>Doctor Angèle PONDY</strong></h5>
       <p>YAOUNDE Chantal Biya Foundation
-      <br/><small>Hemato-Oncology Service</small></p>
+      <br/><small>Hemato-Oncology ward</small></p>
       <h5><strong>Doctor Sarra Benmiloud</strong></h5>
       <p>MAROC Hassan II Hospital
-      <br/><small>Pediatric Oncology Service</small></p>
+      <br/><small>Pediatric Oncology ward</small></p>
+      <h5><strong>Professor Jamila ELHOUDZI</strong></h5>
+      <p>MAROC Mohammed VI Hospital in Marrakech
+      <br/><small>Pediatric Oncology ward</small></p>            
     </div>
   </div>
 </div>

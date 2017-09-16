@@ -43,7 +43,7 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Les sessions de formation à l’oncologie pédiatrique des personnels soignants</h3>
-      Destinées à accroitre les capacités de formation du GFAOP, elles ont pour vocation de former chaque année 20 à 30 praticiens pour des spécialités diverses (pédiatrie, chirurgie, anatomopathologie, radiothérapie, soins infirmiers, pharmacie…) mais aussi de proposer un travail pluridisciplinaire indispensable à la bonne prise en cancer de la pathologie.
+      Destinées à accroitre les capacités de formation du GFAOP, elles ont pour vocation de former chaque année 20 à 30 praticiens pour des spécialités diverses (pédiatrie, chirurgie, anatomopathologie, radiothérapie, soins infirmiers, pharmacie…) mais aussi de proposer un travail pluridisciplinaire indispensable à la bonne prise en main de la pathologie.
      </div>
   </div>
     <div class="row text-justify">

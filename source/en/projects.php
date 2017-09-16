@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>GFAOP's projects</title>
+<meta name="title" content="GFAOP's projects">
+<meta name="description" content="Give for our projects in Africa to cure child cancer!">
+<meta name="keywords" content="projects, Africa, cancer, child, give, donate">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="wrapper wrapper-7">
@@ -25,7 +25,7 @@
       <div class="card-header cream" role="tab" id="headingOne">
         <h5 class="mb-0">
           <a class="text-orange" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            1) Treat more children with cancer and earlier
+            1) The treatment of a child with cancer costs less than 2000 dollars: I donate!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
@@ -49,7 +49,7 @@
       <div class="card-header cream" role="tab" id="headingTwo">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            2) Develop training for medical staff: doctors and nurses
+            2) A 2-month internship in France costs 5000 dollars
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
@@ -141,7 +141,7 @@
       <div class="card-header cream" role="tab" id="headingSix">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-            6) Open parents' houses
+            6) The operation of a house of parents costs about 15 000 euros per year: I participate!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
@@ -160,12 +160,38 @@
       <div class="card-header cream" role="tab" id="headingSeven">
         <h5 class="mb-0">
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-            7) Establish a fund to support needy families
+            7) The average cost of an initial check up is 250 euros: I donate!
           </a>
           <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
       </div>
       <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
+        <div class="card-block">
+          <p class="text-justify">
+            The GFAOP's experience shows that, unfortunately, many families referred to the Oncology Unit have interrupted the care of their children at different stages :
+          </p>
+          <ul>
+            <li>Before the diagnosis is even made (on an abdominal ultrasound, a cytology or a biopsy)</li>
+            <li>At the start of treatment</li>
+            <li>During the treatment, and especially after tumor surgery</li>
+          </ul>
+          <p class="text-justify">
+            The examination or care cost for family is probably one of the major reasons for these withdrawals. 
+            This support fund aims to reduce drop-outs by taking care of the costs of the initial assessment and the treatment of the most deprived children.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header cream" role="tab" id="headingHeight">
+        <h5 class="mb-0">
+          <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight" aria-expanded="false" aria-controls="collapseHeight">
+            8) Promote the emergence and support of local associations
+          </a>
+          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+        </h5>
+      </div>
+      <div id="collapseHeight" class="collapse" role="tabpanel" aria-labelledby="headingHeight">
         <div class="card-block">
           <p class="text-justify">
             The GFAOP's experience shows that, unfortunately, many families referred to the Oncology Unit have interrupted the care of their children at different stages :

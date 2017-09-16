@@ -1,12 +1,12 @@
 <?php include '../partial/_en_header.html';?>
-<title></title>
-<meta name="title" content="">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<title>GFAOP's presence in African countries</title>
+<meta name="title" content="GFAOP's presence in African countries">
+<meta name="description" content="Presentation of pilot units in African countries">
+<meta name="keywords" content="GFAOP, Africa, countries, pilot-units">
 <?php include '../partial/_en_navbar.html';?>
 
-<div class="wrapper wrapper-4">
-  <h2 class="pt-5">PRESENTATION OF PILOTE UNITS</h2>
+<div class="wrapper wrapper-4"><!-- TODO rename page countries -->
+  <h2 class="pt-5">PRESENTATION OF PILOT UNITS</h2>
 </div>
 
 <div class="container py-1">
