@@ -195,7 +195,7 @@
       <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
         <div class="card-block">
           <p class="text-justify">
-            Ce projet a pour ambition de permettre aux familles et aux associations locales de se structurer et de mener des actions complémentaires à celles des unités médicales. D’assurer ainsi la dimension sociétale de la prise en charge du cancer, soutien aux familles, accompagnement et suivi psychologique des familles et des patients, gestion des maisons des parents, recherche de partenaires.
+            Ce projet a pour ambition de permettre aux familles et aux associations locales de se structurer et de mener des actions complémentaires à celles des unités médicales. D’assurer ainsi la dimension sociétale de la prise en charge du cancer, le soutien aux familles, l'accompagnement et le suivi psychologique des familles et des patients, la gestion des maisons des parents ou encore la recherche de partenaires.
           </p>
           <ul>
             <li>Des familles informées peuvent agir plus rapidement pour leurs enfants</li>

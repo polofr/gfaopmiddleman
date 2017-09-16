@@ -194,12 +194,13 @@
       <div id="collapseHeight" class="collapse" role="tabpanel" aria-labelledby="headingHeight">
         <div class="card-block">
           <p class="text-justify">
-            The GFAOP's experience shows that, unfortunately, many families referred to the Oncology Unit have interrupted the care of their children at different stages :
+            The aim of this project is to enable families and local associations to structure and carry out actions complementary to those of medical units :
+            support and psychological follow-up of families and patients, management of parents'homes, search for partners.
           </p>
           <ul>
-            <li>Before the diagnosis is even made (on an abdominal ultrasound, a cytology or a biopsy)</li>
-            <li>At the start of treatment</li>
-            <li>During the treatment, and especially after tumor surgery</li>
+            <li>Informed families can act faster for their children</li>
+            <li>Clustered families can take more effective action</li>
+            <li>Families organized in structured associations are listened to and credible with institutions and financial partners</li>
           </ul>
           <p class="text-justify">
             The examination or care cost for family is probably one of the major reasons for these withdrawals. 
