@@ -50,7 +50,6 @@
       <h2><b>BURKINA FASO</b></h2>
       <p>Adhésion au GFAOP en 2005<br><br>
       <b>Pr Olga LOMPO</b> (olgalompo@yahoo.fr)  <br>
-      - CHU Yalgado Ouédraogo, Ouagadougou<br>
       <b>Dr Chantal BOUDA</b> (cgbouda@yahoo.fr)  <br>
       - CHU Yalgado Ouédraogo, Ouagadougou<br>
       <b>Dr Sonia KABORET</b> (kawajo200046@gmail.com) <br>
@@ -81,7 +80,7 @@
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>REPUBLIQUE CENTRAFRICAINE</b></h2>
-      <p>Adhésion au GFAOP en 2015, fonctionnelle en 2016<br><br><!-- TODO -->
+      <p>Adhésion au GFAOP en 2015, fonctionnelle en 2016<br>
       <b>Dr Jess Elio Kosh Comba</b> (koshkomba@gmail.com) <br>
       - Complexe Pédiatrique de Bangui<br></p>
       <p>Le pays : 623 000 Km2, 5,4 millions d’habitants. PIB/hab : 358 $, Dépenses de santé/hab : 16 $ (4,5 %). Bangui (800 000 habitants). 40,6% <15 ans, 160 à 200 nouveaux cancers/an chez <15 ans (200 à 260 en 2025).* </p>
@@ -313,7 +312,7 @@
       - CHU d'Angondjé à Libreville</p>
       <p>Le pays : 268 000 Km2, 1,7 millions d’habitants, 60 à 80 nouveaux cancers/an chez <15 ans (80 à 110 en 2025).*</p>
     </div>
-  </div> 
+  </div>
 </div>
 
 <div class="container py-1">
