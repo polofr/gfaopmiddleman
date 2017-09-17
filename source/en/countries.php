@@ -4,11 +4,6 @@
 <meta name="description" content="Presentation of pilot units in African countries">
 <meta name="keywords" content="GFAOP, Africa, countries, pilot-units">
 <?php include '../partial/_en_navbar.html';?>
-
-<div class="wrapper wrapper-4"><!-- TODO rename page countries -->
-  <h2 class="pt-5">PRESENTATION OF PILOT UNITS</h2>
-</div>
-
 <div class="container py-1">
   <div class="row text-center">
     <h3 class="mx-auto py-2">In each hospital, the unit of pediatric oncology known as "Pilot Unit" is responsible for the care of children with cancer</h3>
@@ -26,7 +21,7 @@
 <div class="container">
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/algerie.jpg" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
+      <img src="../images/algerie.jpg" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>ALGERIA</b></h2>
@@ -42,7 +37,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/burkina.jpg" class="borderless rounded img-thumbnail" width="300" alt="around d'une table" >
+      <img src="../images/burkina.jpg" class="borderless rounded img-thumbnail" width="300" alt="around d'une table" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>BURKINA FASO</b></h2>
@@ -60,7 +55,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="medical team around a family" >
+      <img src="../images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="medical team around a family" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CAMEROON</b></h2>
@@ -74,7 +69,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="Waiting room in Centrafrica" >
+      <img src="../images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="Waiting room in Centrafrica" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CENTRAFRICAN REPUBLIC</b></h2>
@@ -88,7 +83,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/congo.jpg" class="borderless rounded img-thumbnail" width="300" alt="meeting in Congo pilot unit" >
+      <img src="../images/congo.jpg" class="borderless rounded img-thumbnail" width="300" alt="meeting in Congo pilot unit" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO RDC</b></h2>
@@ -103,7 +98,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center"><!-- TODO image -->
-      <img src="images/pays_congo_kinshasa.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
+      <img src="../images/pays_congo_kinshasa.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO KINSHASA</b></h2>
@@ -118,7 +113,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_cote_d_ivoire.jpg" class="borderless rounded img-thumbnail" width="300" alt="Abidjan hospital" >
+      <img src="../images/pays_cote_d_ivoire.jpg" class="borderless rounded img-thumbnail" width="300" alt="Abidjan hospital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>IVOIRY COAST</b></h2>
@@ -134,7 +129,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+      <img src="../images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>GUINEA CONAKRY</b></h2>
@@ -146,7 +141,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="../images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MADAGASCAR</b></h2>
@@ -164,7 +159,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/pays_mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="women and children in the waiting room" >
+    <img src="../images/pays_mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="women and children in the waiting room" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MALI</b></h2>
@@ -179,7 +174,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300" alt="perfusion in the room" >
+      <img src="../images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300" alt="perfusion in the room" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MAURITANIA</b></h2>
@@ -192,7 +187,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/casablanca.jpeg" class="borderless rounded img-thumbnail" width="300" alt="coach in the waiting room" >
+    <img src="../images/casablanca.jpeg" class="borderless rounded img-thumbnail" width="300" alt="coach in the waiting room" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MOROCCO</b></h2>
@@ -204,7 +199,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/rabat.jpg" class="borderless rounded img-thumbnail" width="300" alt="children's playground" >
+    <img src="../images/rabat.jpg" class="borderless rounded img-thumbnail" width="300" alt="children's playground" >
     </div>
     <div class="col-8">
       <h4>RABAT</h4><br>
@@ -216,7 +211,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="Team offices" >
+    <img src="../images/marrakech.jpg" class="borderless rounded img-thumbnail" width="300" alt="Team offices" >
     </div>
     <div class="col-8">
       <h4>MARRAKECH</h4><br>
@@ -227,7 +222,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-    <img src="images/pays_maroc_fes.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
+    <img src="../images/pays_maroc_fes.jpg" class="borderless rounded img-thumbnail" width="300" alt="les bureaux de l'équipe soignante" >
     </div>
     <div class="col-8">
       <h4>FÈS</h4><br>
@@ -238,7 +233,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="../images/pays_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>NIGER</b></h2>
@@ -254,7 +249,7 @@
   </div>  
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/senegal.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante au complet" >
+      <img src="../images/senegal.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante au complet" >
     </div>
     <div class="col-8">
       <h2><b>SENEGAL</b></h2>
@@ -270,7 +265,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/togo.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante nous accueillant" >
+      <img src="../images/togo.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'équipe soignante nous accueillant" >
     </div>
     <div class="col-8">
       <h2><b>TOGO</b></h2>
@@ -285,7 +280,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+      <img src="../images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>TUNISIA</b></h2>
@@ -300,7 +295,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="images/pays_gabon.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+      <img src="../images/pays_gabon.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>GABON</b></h2>

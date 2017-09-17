@@ -4,11 +4,6 @@
 <meta name="description" content="Présentation des unités-pilotes du GFAOP dans les pays africains">
 <meta name="keywords" content="GFAOP, Afrique, pays, unités-pilotes, Adhésion">
 <?php include 'partial/_navbar.html';?>
-
-<div class="wrapper wrapper-4">
-  <h2 class="pt-5">PRESENTATION DES UNITES-PILOTES</h2>
-</div>
-
 <div class="container py-1">
   <div class="row text-center">
     <h3 class="mx-auto py-2">Dans chaque hôpital, l’unité d’oncologie pédiatrique dite «Unité-Pilote» a en charge les soins des enfants atteints de cancer</h3>
