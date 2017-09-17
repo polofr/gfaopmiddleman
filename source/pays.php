@@ -318,7 +318,7 @@
 
 <div class="container py-1">
   <div class="row p-2">
-    <p class="text-justify"><b>Malgré l’important travail des équipes du GFAOP, seuls 10% des enfants atteints de cancers atteignent l’une des unités d’oncologie pédiatrique existantes en raison de :</b></p>
+    <p class="text-justify"><b>Malgré l’important travail des équipes du GFAOP, seuls 10% à 15% des enfants atteints de cancers atteignent l’une des unités d’oncologie pédiatrique existantes en raison de :</b></p>
     <ul>
       <li>L’absence d’unités dans certains pays</li>
       <li>Une insuffisance d’unités dans des pays très peuplés</li>
