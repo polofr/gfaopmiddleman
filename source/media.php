@@ -94,6 +94,7 @@
       <a target="_blank" href="ressources/article_convergence_juin_2015.png">Lire la Suite</a>
     </div>
   </div>
+  <p class="text-center"><a target="_blank" href="ressources">Plus d'articles et d'infos!</a></p>
 </div>
 
 <?php include 'partial/_footer.html';?>
