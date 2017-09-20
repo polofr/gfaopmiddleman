@@ -216,7 +216,7 @@
 </div>
 <div class="container">
   <div class="embed-responsive embed-responsive-16by9 mx-auto">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=6vxfInCBVT4&list=PLQDm3NalMlSRLrr6okYOC2CmF1IapH5wL&index=3"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6vxfInCBVT4"></iframe>
   </div>
 </div>
 
