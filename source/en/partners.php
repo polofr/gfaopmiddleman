@@ -233,6 +233,12 @@
       </a>
       <h5>“Gabriella pour la vue” in Democratic Republic of Congo</h5>
     </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.ggaexpat.com/en/index.html">
+        <img src="../images/gga_expat.png" class="borderless rounded img-thumbnail" width="300" alt="GGA expat" >
+      </a>
+      <h5>GGA Expat</h5>
+    </div>
   </div>
   <div class="row">
     <ul>

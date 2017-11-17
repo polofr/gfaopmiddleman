@@ -7,7 +7,7 @@
 <div class="container py-1">
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="La salle d'attente en centreafrique" >
+       <img src="images/Anne_Gagneapin.JPG" class="borderless rounded img-thumbnail" width="300" alt="Anne Gagneapin Lacheteau" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Anne Gagnepain-Lacheteau (Fondation Sanofi Espoir- directeur médical-Partenaire)</b></h3>
@@ -42,12 +42,13 @@
    </div>
    <div class="row">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+       <img src="images/Kamilia.jpg" class="borderless rounded img-thumbnail" width="300" alt="Kamilia, la combatante" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Samira C (maman)</b></h3>
       <p><em>
-        «Ma petite Kamilia va bientôt fêter ses 2 ans, une vraie combattante, ma princesse... 2 ans de pur et dur combat contre cette maladie qui nous a malheureusement chamboulés à jamais enfin comme on dit ce qui ne nous tue pas nous rend plus fort. Malgré tout cela, je suis optimiste pour l'avenir et j'espère, Inchallah, que Kamilia aura une enfance épanouie comme tout enfant normal. Par la même occasion je voulais vous remercier pour votre aide et votre soutien et vous exprimer ma reconnaissance.»
+        «Ma petite Kamilia va bientôt fêter ses 2 ans, une vraie combattante, ma princesse... 2 ans de pur et dur combat contre cette maladie qui nous a malheureusement chamboulés à jamais enfin comme on dit ce qui ne nous tue pas nous rend plus fort. Malgré tout cela, je suis optimiste pour l'avenir et j'espère, Inchallah, que Kamilia aura une enfance épanouie comme tout enfant normal. Par la même occasion je voulais vous remercier pour votre aide et votre soutien et vous exprimer ma reconnaissance.
+        La voici en photo!»
       </em></p>
      </div>
    </div>
@@ -64,7 +65,7 @@
    </div>
    <div class="row">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/mauritanie.jpg" class="borderless rounded img-thumbnail" width="300" alt="perfusion dans la chambre" >
+       <img src="images/chantal_thinlot.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Chantal Thinlot" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Chantal Thinlot (Bénévole France, infirmière)</b></h3>

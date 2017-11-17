@@ -232,7 +232,13 @@
         <img src="images/logo_nausicaa.jpg" class="borderless rounded img-thumbnail" width="300" alt="Nausicaa" >
       </a>
       <h5>Nausicaa</h5>
-    </div>    
+    </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.ggaexpat.com/fr/index.html">
+        <img src="images/gga_expat.png" class="borderless rounded img-thumbnail" width="300" alt="GGA expat" >
+      </a>
+      <h5>GGA Expat</h5>
+    </div>
   </div>
   <div class="row">
     <ul>
