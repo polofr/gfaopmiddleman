@@ -7,7 +7,7 @@
 <div class="container py-1">
   <div class="row text-center">
     <h3 class="mx-auto py-2">Dans chaque hôpital, l’unité d’oncologie pédiatrique dite «Unité-Pilote» a en charge les soins des enfants atteints de cancer</h3>
-    <p class="mx-auto text-justify col-md-8">
+    <p class="mx-auto text-justify col-md-12">
     Le GFAOP est un réseau de 20 services ou “Unités Pilotes” d’oncologie pédiatrique dans 16 pays d’Afrique francophone.
     6 unités sont au Maghreb : Algérie, Maroc (4) et Tunisie.
     14 unités sont en Afrique Sub-saharienne : Burkina Faso, Cameroun, Côte d’Ivoire, Gabon, Guinée Conakry, RD Centrafricaine, RDCongo (2), Mali, Mauritanie, Madagascar, Niger, Sénégal et Togo.
@@ -21,7 +21,7 @@
 </div>
 
 <div class="container">
-  <iframe src="https://www.google.com/maps/d/embed?mid=13RX7EKEyJ4x672Se25Jva5iac4U" height="600"></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=13RX7EKEyJ4x672Se25Jva5iac4U" height="600" width="100%"></iframe>
 </div>
 
 <div class="container py-1">
