@@ -30,7 +30,7 @@
           <a class="text-orange" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             1) The treatment of a child with cancer costs less than 2000 dollars: I donate!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
       </div>
       <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
@@ -54,7 +54,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
             2) A 2-month internship in France costs 5000 dollars
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/associations/gfaop/adhesions/devenez-ami-du-gfaop-soutenez-les-enfants-atteints-de-cancer-en-afrique" role="button">Become a friend</a>
         </h5>
       </div>
       <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -82,7 +82,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
             3) Improve early diagnosis
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
       </div>
       <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -109,7 +109,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
             4) Develop twinnings between French and African hospitals
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/associations/gfaop/adhesions/devenez-ami-du-gfaop-soutenez-les-enfants-atteints-de-cancer-en-afrique" role="button">Become a friend</a>
         </h5>
       </div>
       <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
@@ -124,7 +124,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
             5) Facilitate communications and exchanges between the GFAOP teams: E-health
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
       </div>
       <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
@@ -146,7 +146,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
             6) The operation of a house of parents costs about 15 000 euros per year: I participate!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/associations/gfaop/adhesions/devenez-ami-du-gfaop-soutenez-les-enfants-atteints-de-cancer-en-afrique" role="button">Become a friend</a>
         </h5>
       </div>
       <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
@@ -165,7 +165,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
             7) The average cost of an initial check up is 250 euros: I donate!
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
         </h5>
       </div>
       <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="headingSeven">
@@ -191,7 +191,7 @@
           <a class="text-orange collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseHeight" aria-expanded="false" aria-controls="collapseHeight">
             8) Promote the emergence and support of local associations
           </a>
-          <a class="btn btncrowd float-right p-2" href="http://www.helloasso.com/don/associations/gfaop" role="button">Help this project</a>
+          <a class="btn btncrowd float-right p-2" href="https://www.helloasso.com/associations/gfaop/adhesions/devenez-ami-du-gfaop-soutenez-les-enfants-atteints-de-cancer-en-afrique" role="button">Become a friend</a>
         </h5>
       </div>
       <div id="collapseHeight" class="collapse" role="tabpanel" aria-labelledby="headingHeight">
