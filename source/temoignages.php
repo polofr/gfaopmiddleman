@@ -18,7 +18,7 @@
    </div>
    <div class="row">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="L'équipe médicale autour de la famille" >
+       <img src="images/nicolas_vautier.jpg" class="borderless rounded img-thumbnail" width="300" alt="Nicolas Vautier" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Nicolas Vautier (Bénévole comité de soutien – Fundraising)</b></h3>
@@ -31,7 +31,7 @@
    </div>
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/pays_cote_d_ivoire.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+       <img src="images/benedicte_de_charette.jpeg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Bénedicte de Charrette (Bénévole - Formations)</b></h3>
@@ -93,7 +93,7 @@
    </div>
    <div class="row">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/pays_gabon.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+       <img src="images/paulhenri_carton.jpeg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Paul Henri Carton (Bénévole, Site WEB)</b></h3>
