@@ -31,7 +31,7 @@
    </div>
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/benedicte_de_charette.jpeg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+       <img src="images/benedicte_de_charette.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Bénedicte de Charrette" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Bénedicte de Charrette (Bénévole - Formations)</b></h3>
@@ -93,7 +93,7 @@
    </div>
    <div class="row">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/paulhenri_carton.jpeg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+       <img src="images/paulhenri_carton.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Paul Henri Carton" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Paul Henri Carton (Bénévole, Site WEB)</b></h3>
