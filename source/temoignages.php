@@ -54,7 +54,7 @@
    </div>
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+       <img src="images/Stephanie_Fugain.jpg" class="borderless rounded img-thumbnail" width="300" alt="Stéphanie Fugain" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Stéphanie Fugain (Association Laurette Fugain, partenaire du GFAOP)</b></h3>
@@ -77,7 +77,7 @@
    </div>
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/tunisie.jpg" class="borderless rounded img-thumbnail" width="300" alt="jeune enfant debout face au lit" >
+       <img src="images/claude_moreira.jpg" class="borderless rounded img-thumbnail" width="300" alt="Claude Moreira" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Claude Moreira (Responsable de l’unité de Dakar - Cofondateur du GFAOP)</b></h3>
