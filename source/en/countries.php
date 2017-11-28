@@ -21,7 +21,7 @@
 <div class="container">
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/algerie.jpg" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
+      <img src="../images/algerie.png" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>ALGERIA</b></h2>
