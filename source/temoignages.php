@@ -7,7 +7,7 @@
 <div class="container py-1">
    <div class="row cream rounded">
      <div class="col-12 col-md-4 text-center">
-       <img src="images/Anne_Gagneapin.jpg" class="borderless rounded img-thumbnail" width="300" alt="Anne Gagneapin Lacheteau" >
+       <img src="images/Anne_Gagneapin.png" class="borderless rounded img-thumbnail" width="300" alt="Anne Gagneapin Lacheteau" >
      </div>
      <div class="col-12 col-md-8 p-3">
       <h3><b>Anne Gagnepain-Lacheteau (Fondation Sanofi Espoir- directeur médical-Partenaire)</b></h3>
