@@ -48,17 +48,20 @@
   <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
   <div class="row">
 <?php
-$xml = simplexml_load_file('https://gfaopcorinnecd.tumblr.com/rss#_=_');
-$posts = $xml->xpath("//item/link");
-for ($i = 0; $i <= 2; $i++) { 
-    echo '<div class="col-12 col-md-4">
-      <div class="tumblr-post"
-        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/' . str_replace("https://gfaopcorinnecd.tumblr.com/post/", "", $posts[$i]) . '"
-        data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
-        <a href="' . $posts[$i]['text'] . '">' . $posts[$i]['text'] . '</a>
-      </div>
-    </div>';
-} ?>
+// Redirection depuis un proxy aux us hébérgé chez heroku pour contourner la RGPD
+$xml = simplexml_load_file('https://fast-anchorage-35484.herokuapp.com/');
+if ($xml) {
+    $posts = $xml->xpath("//item/link");
+    for ($i = 0; $i <= 2; $i++) {
+        echo '<div class="col-12 col-md-4">
+          <div class="tumblr-post"
+            data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/' . str_replace("https://gfaopcorinnecd.tumblr.com/post/", "", $posts[$i]) . '"
+            data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
+          </div>
+        </div>';
+    }
+}
+?>
   <script async src="https://assets.tumblr.com/post.js"></script>      
   </div>
   <div class="text-center py-2">

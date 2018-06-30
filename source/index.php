@@ -4,7 +4,6 @@
 <meta name="description" content="Accueil du groupe franco-africain d'oncologie pédiatrique : soigner le cancer de l'enfant en Afrique">
 <meta name="keywords" content="formation, recherche clinique, médicaments, cancer de l'enfant, oncologie, Afrique">
 <?php include 'partial/_navbar.html';?>
-
 <div class="wrapper wrapper-1 py-5">
   <h1 class="mt-5 pt-5">Guérir le cancer des enfants en Afrique</h1>
   <h3 class="py-3" style="font-family: Lato; font-style: italic">8000 enfants déjà traités, plus de 240 médecins et infirmiers formés</h3>
@@ -48,16 +47,19 @@
   <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
   <div class="row">
 <?php
-$xml = simplexml_load_file('https://gfaopcorinnecd.tumblr.com/rss#_=_');
-$posts = $xml->xpath("//item/link");
-for ($i = 0; $i <= 2; $i++) { 
-    echo '<div class="col-12 col-md-4">
-      <div class="tumblr-post"
-        data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/' . str_replace("https://gfaopcorinnecd.tumblr.com/post/", "", $posts[$i]) . '"
-        data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
-      </div>
-    </div>';
-} 
+// Redirection depuis un proxy aux us hébérgé chez heroku pour contourner la RGPD
+$xml = simplexml_load_file('https://fast-anchorage-35484.herokuapp.com/');
+if ($xml) {
+    $posts = $xml->xpath("//item/link");
+    for ($i = 0; $i <= 2; $i++) {
+        echo '<div class="col-12 col-md-4">
+          <div class="tumblr-post"
+            data-href="https://embed.tumblr.com/embed/post/PiEi8e18EEZ1NgV7HbprPg/' . str_replace("https://gfaopcorinnecd.tumblr.com/post/", "", $posts[$i]) . '"
+            data-did="e91a187a3d1cef870e50ba664655f80802e0403d">
+          </div>
+        </div>';
+    }
+}
 ?>
   <script async src="https://assets.tumblr.com/post.js"></script>      
   </div>
