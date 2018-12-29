@@ -72,10 +72,10 @@
       <h5>Fondation Lalla Salma</h5>
     </div>
     <div class="col-md-2 text-center">
-      <a href="http://www.airfrance.com/indexCom_fr.html">
-        <img src="images/logoairfrance.jpg" class="borderless rounded img-thumbnail" width="300" alt="Air France" >
+      <a href="http://fondation-bms.fr/">
+        <img src="images/logo_bmsf.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fondation BMS" >
       </a>
-      <h5>Air France</h5>
+      <h5>Fondation BMS</h5>
     </div>    
   </div>
   <div class="row">
@@ -238,6 +238,12 @@
         <img src="images/gga_expat.png" class="borderless rounded img-thumbnail" width="300" alt="GGA expat" >
       </a>
       <h5>GGA Expat</h5>
+    </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.airfrance.com/indexCom_fr.html">
+        <img src="images/logoairfrance.jpg" class="borderless rounded img-thumbnail" width="300" alt="Air France" >
+      </a>
+      <h5>Air France</h5>
     </div>
   </div>
   <div class="row">

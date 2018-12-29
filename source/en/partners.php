@@ -66,10 +66,10 @@
       <h5>Fondation Lalla Salma</h5>
     </div>
     <div class="col-md-2 text-center">
-      <a href="http://www.airfrance.com/indexCom_fr.html">
-        <img src="../images/logoairfrance.jpg" class="borderless rounded img-thumbnail" width="300" alt="Air France" >
+      <a href="https://www.bms.com/about-us/responsibility/bristol-myers-squibb-foundation.html">
+        <img src="../images/logo_bmsf.jpg" class="borderless rounded img-thumbnail" width="300" alt="BMS Foundation" >
       </a>
-      <h5>Air France</h5>
+      <h5>BMS Foundation</h5>
     </div>
     <div class="col-md-2 text-center">
       <img src="../images/logosiim.jpg" class="borderless rounded img-thumbnail" width="90" alt="SIIM" >
@@ -238,6 +238,12 @@
         <img src="../images/gga_expat.png" class="borderless rounded img-thumbnail" width="300" alt="GGA expat" >
       </a>
       <h5>GGA Expat</h5>
+    </div>
+    <div class="col-md-2 text-center">
+      <a href="http://www.airfrance.com/indexCom_fr.html">
+        <img src="../images/logoairfrance.jpg" class="borderless rounded img-thumbnail" width="300" alt="Air France" >
+      </a>
+      <h5>Air France</h5>
     </div>
   </div>
   <div class="row">
