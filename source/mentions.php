@@ -14,7 +14,7 @@
         Siège social : <br>
         Gustave Roussy<br>
         114 rue Edouard Vaillant, 94805 Villejuif Cedex<br>
-        Tél.: 01 42 11 65 60 courriel : contact@gfaop.org<br>
+        Tél.: + 33 (0)9 72 10 25 44 courriel : contact@gfaop.org<br>
         Directeur de la publication : Louis Omer-Decugis<br>
         Responsable du site : Corinne Chalvon demersay
       </p>
