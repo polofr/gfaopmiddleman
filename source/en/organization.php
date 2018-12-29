@@ -46,7 +46,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-12">
-      <strong>In 16 years, more than 8,000 children have already been treated in sub-Saharan Africa</strong> 
+      <strong>In 16 years, more than 11,000 children have already been treated in sub-Saharan Africa</strong>
       with cure rates of up to 54-70% depending on the type of cancer. The GFAOP has therefore demonstrated that it is feasible, even under difficult conditions, to offer children appropriate care thanks to long-term commitment. This is a true message of hope !
     </div>
   </div>
@@ -55,7 +55,7 @@
       <img src="../images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600" alt="Visit of a new pilot unit" >
     </div>
     <div class="col-md-9 col-12 text-justify">
-      The GFAOP, with its experience and know-how, must continue to work in its own way for a more equitable world. One of the major challenges is the development of African competences in order to perpetuate and develop care. The creation of the African School of Pediatric Oncology for the diagnosis and treatment of cancers and the creation of the Franco-Moroccan pediatric oncology diploma (DUCP) aimed to meet this challenge. <strong>More than 240 doctors and nurses have already been trained in pediatric oncology.</strong>    
+      The GFAOP, with its experience and know-how, must continue to work in its own way for a more equitable world. One of the major challenges is the development of African competences in order to perpetuate and develop care. The creation of the African School of Pediatric Oncology for the diagnosis and treatment of cancers and the creation of the Franco-Moroccan pediatric oncology diploma (DUCP) aimed to meet this challenge. <strong>More than 450 doctors and nurses have already been trained in pediatric oncology.</strong>
     </div>
     <div class="col-md-12 py-3">
       <div class="text-justify">

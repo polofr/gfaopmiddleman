@@ -6,7 +6,7 @@
 <?php include 'partial/_navbar.html';?>
 <div class="wrapper wrapper-1 py-5">
   <h1 class="mt-5 pt-5">Guérir le cancer des enfants en Afrique</h1>
-  <h3 class="py-3" style="font-family: Lato; font-style: italic">8000 enfants déjà traités, plus de 240 médecins et infirmiers formés</h3>
+  <h3 class="py-3" style="font-family: Lato; font-style: italic">11000 enfants déjà traités, plus de 450 médecins et infirmiers formés</h3>
   <a class="btn btncrowd ml-auto my-5 p-2 mr-1" href="https://www.helloasso.com/don/associations/gfaop" role="button" target="_blank" >Je fais un don</a>
   <a class="btn btncrowd my-5 p-2 ml-1" href="https://www.helloasso.com/associations/gfaop/adhesions/devenez-ami-du-gfaop-soutenez-les-enfants-atteints-de-cancer-en-afrique" role="button" target="_blank" >Je deviens ami</a>
 </div>

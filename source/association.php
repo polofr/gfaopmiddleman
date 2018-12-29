@@ -46,7 +46,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-12">
-    <strong>En 16 ans, ce sont plus de 8000 enfants qui ont déjà été soignés en Afrique sub-saharienne</strong>, avec des taux de guérison qui peuvent atteindre 54 à 70% selon les types de cancer. 
+    <strong>En 16 ans, ce sont plus de 11000 enfants qui ont déjà été soignés en Afrique sub-saharienne</strong>, avec des taux de guérison qui peuvent atteindre 54 à 70% selon les types de cancer.
     Le GFAOP a donc démontré qu’il était possible, même dans des conditions difficiles, d’offrir aux enfants des soins adaptés lorsque l’engagement s’inscrit dans la durée. 
     Il s’agit d’un véritable message d’espoir!
     </div>
@@ -56,7 +56,7 @@
       <img src="images/associationenfant3.jpg" class="borderless rounded img-thumbnail" width="600" alt="Visite d'une nouvelle unité pilote" >
     </div>
     <div class="col-md-9 col-12 text-justify">
-      Le GFAOP, fort de son expérience et de son savoir-faire se doit de continuer à œuvrer à sa manière pour un monde plus équitable. Un des défis majeurs est le développement des compétences africaines afin de pérenniser et développer les soins. La création de l’Ecole Africaine d’Oncologie Pédiatrique pour le diagnostic et le traitement des cancers et la création du diplôme franco-marocain de cancérologie pédiatrique (DUCP) ont eu pour objectif de répondre à ce défi. <strong>Plus de 240 médecins et infirmiers ont déjà été formés à l’oncologie pédiatrique.</strong>    
+      Le GFAOP, fort de son expérience et de son savoir-faire se doit de continuer à œuvrer à sa manière pour un monde plus équitable. Un des défis majeurs est le développement des compétences africaines afin de pérenniser et développer les soins. La création de l’Ecole Africaine d’Oncologie Pédiatrique pour le diagnostic et le traitement des cancers et la création du diplôme franco-marocain de cancérologie pédiatrique (DUCP) ont eu pour objectif de répondre à ce défi. <strong>Plus de 450 médecins et infirmiers ont déjà été formés à l’oncologie pédiatrique.</strong>
     </div>
     <div class="col-md-12 py-3">
       <div class="text-justify">

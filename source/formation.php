@@ -13,7 +13,7 @@
   <div class="row mx-auto text-justify py-3">
     Pour accueillir le nombre croissant d’enfants atteints de cancer dans chaque pays, il est indispensable d’augmenter les capacités de formation en prenant en compte les besoins de chaque pays (formations centralisées et décentralisées).
     C’est ainsi qu’est née l’Ecole Africaine d’Oncologie Pédiatrique du GFAOP dont la mission est la mise en place de nombreuses formations dont certaines diplômantes ou certifiantes. 
-    En 16 ans, plus de 240 médecins et infirmiers africains ont été formés à l’oncologie pédiatrique grâce au GFAOP dans les plus grands services spécialisés  en cancérologie. 
+    En 16 ans, plus de 450 médecins et infirmiers africains ont été formés à l’oncologie pédiatrique grâce au GFAOP dans les plus grands services spécialisés  en cancérologie.
     Les clés de la réussite des ambitieux projets du GFAOP pour les années à venir doivent intégrer : compétences pluridisciplinaires, communication, concertation, et coordination entre tous les partenaires de soins, y compris les parents.
     Ainsi, en complément à la formation des pédiatres oncologues et d’autres médecins spécialistes (chirurgiens, anatomopathologistes, ophtalmologistes, radiothérapeutes, pharmaciens…), des infirmiers bénéficient également de formations liées à l’oncologie pédiatrique. Une formation pluridisciplinaire devrait également voir le jour favorisant ainsi le travail en équipe.
     Le développement du E-learning en complément à la formation présentielle est en développement.
