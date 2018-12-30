@@ -37,6 +37,19 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
+      <img src="../images/webzine.jpg" class="borderless rounded img-thumbnail" width="300" alt="United Fashion For Peace">
+    </div>
+    <div class="col-12 col-md-8 p-3">
+      <h2><b>BENIN</b></h2>
+      <p>Accession to the GFAOP in 2017<br><br>
+      <b>Pr Gratien SAGBO</b> (gosagbo@yahoo.fr)  <br>
+      <b>Dr Gilles BOGNON</b> (bognongilles@gmail.com)  <br>
+      <p>Country facts : 113 000 Km2, 10.5 millions inhabitants. PIB/hab : 903 $, Health expenses/hab : 38 $ (4,2 %). 43,8% <15 ans, 320 to 380 new cancers/an for <15 ans (400 to 500 in 2025).*</p>
+      <p>Partner NGOs : Association Franco-Béninoise de lutte contre le cancer (Martial Tiburce Zannou, Chairman) and Association de lutte contre le cancer au Bénin (Pr Fabien Houngbe, Chairman)</p>
+    </div>
+  </div>
+  <div class="row cream rounded">
+    <div class="col-12 col-md-4 text-center">
       <img src="../images/burkina.jpg" class="borderless rounded img-thumbnail" width="300" alt="around d'une table" >
     </div>
     <div class="col-12 col-md-8 p-3">
@@ -53,7 +66,7 @@
       <p>Partner NGOs : ACCIB and Flamme d’Espoir</p>
     </div>
   </div>
-  <div class="row cream rounded">
+  <div class="row">
     <div class="col-12 col-md-4 text-center">
       <img src="../images/cameroun.jpg" class="borderless rounded img-thumbnail" width="300" alt="medical team around a family" >
     </div>
@@ -67,7 +80,7 @@
       <p>Partner NGO : Caritas</p>      
     </div>
   </div>
-  <div class="row">
+  <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
       <img src="../images/pays_centrafrique.jpg" class="borderless rounded img-thumbnail" width="300" alt="Waiting room in Centrafrica" >
     </div>
@@ -79,6 +92,19 @@
       <p>Country facts : 623 000 Km2, 5,4 millions inhabitants. PIB/hab : 358 $, Health expenses/hab : 16 $ (4,5 %). Bangui (800 000 habitants). 40,6% <15 ans, 160 to 200 new cancers/an for <15 ans (200 to 260 in 2025).* </p>
       <p>Cases reported by units in 2016: 42 treated / 30 under GFAOP protocoles / 0 registered by data managers</p>
       <p>Partner NGO : Bout-Dilat</p>      
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-4 text-center">
+      <img src="../images/burkina.jpg" class="borderless rounded img-thumbnail" width="300" alt="around d'une table" >
+    </div>
+    <div class="col-12 col-md-8 p-3">
+      <h2><b>CONGO BRAZZAVILLE</b></h2>
+      <p>Accession to the GFAOP in 2017<br><br>
+      <b>Dr Alda-Stevy NSIMBA-MAKOUANZI</b> (stevymakouanzi242@gmail.com)  <br>
+      <p>Country facts : 342 000 Km2, 4.8 millions inhabitants. PIB/hab : 3147 $, Health expenses/hab : 162 $ (5,1 %). 41,1% <15 ans, 150 to 170 new cancers/an for <15 ans (200 to 230 in 2025).*</p>
+      <p>Cases reported by units in 2016: 189 treated / 138 under GFAOP protocoles / 204 registered by data managers</p>
+      <p>Partner NGO : Calissa Ikama Foundation</p>
     </div>
   </div>
   <div class="row cream rounded">
@@ -101,7 +127,7 @@
       <img src="../images/pays_congo_kinshasa.jpg" class="borderless rounded img-thumbnail" width="300" alt="réunion dans les locaux au Congo" >
     </div>
     <div class="col-12 col-md-8 p-3">
-      <h2><b>CONGO KINSHASA</b></h2>
+      <h2><b>CONGO RDC KINSHASA</b></h2>
       <p>Accession to the GFAOP in 2015, opening in 2016<br><br>
       <b>Pr Jean Lambert Gini</b> (giniehungu@gmail.com) <br>
       <b>Dr Aleine Budiongo</b> (albudiongo@gmail.com)  <br>            
