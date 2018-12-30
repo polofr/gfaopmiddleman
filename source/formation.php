@@ -48,7 +48,7 @@
   </div>
     <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="./images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600" alt="promotion DUCP" >
+      <img src="images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600" alt="promotion DUCP" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Le Diplôme Universitaire de Cancérologie Pédiatrique (DUCP) au Maroc</h3>

@@ -75,7 +75,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
+      <img src="../images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">  
       <h3>• Training for new pediatric oncology unit openings</h3>
@@ -84,7 +84,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
+      <img src="../images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training in the Pilot Units</h3>
@@ -93,7 +93,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300" alt="formation data manager" >
+      <img src="../images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300" alt="formation data manager" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training of Clinical Research Associates</h3>
@@ -102,7 +102,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
+      <img src="../images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation infirmière</h3>
@@ -127,7 +127,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300" alt="pain and care conference" >
+      <img src="../images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300" alt="pain and care conference" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>"Pain and Palliative Care" classes</h3>
@@ -138,7 +138,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300" alt="health personnel in training" >
+      <img src="../images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300" alt="health personnel in training" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>Early diagnosis Training of health staff</h3>
@@ -147,7 +147,7 @@
   </div>
   <div class="row text-justify cream rounded mb-2">
     <div class="col-md-3 col-12 text-center">
-      <img src="images/Fatou_et_Fouss.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fatou et Fouss treating the eye" >
+      <img src="../images/Fatou_et_Fouss.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fatou et Fouss treating the eye" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>Other medical specialties</h3>
