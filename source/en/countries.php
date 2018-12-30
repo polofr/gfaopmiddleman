@@ -8,11 +8,11 @@
   <div class="row text-center">
     <h3 class="mx-auto py-2">In each hospital, the unit of pediatric oncology known as "Pilot Unit" is responsible for the care of children with cancer</h3>
     <p class="mx-auto text-justify col-md-8">
-    The GFAOP is a network of 20 "pilot units" of pediatric oncology in 16 countries of French-speaking Africa. 
+    The GFAOP is a network of 22 "pilot units" of pediatric oncology in 18 countries of French-speaking Africa.
     6 units are in the Maghreb: Algeria, Morocco (4) and Tunisia. 
-    14 units are in Sub-Saharan Africa: Burkina Faso, Cameroon, Ivory Coast, Gabon, Guinea Conakry, Centrafrican Republic, RDC Congo (2), Mali, Mauritania, Madagascar, Niger, Senegal and Togo. 
-    Congo Brazzaville is in the process of establishing a pilot unit, other countries are expected to join the GFAOP such as Benin, Chad and Burundi. Satellite units are expected to open in remote areas in several member countries. 
-    The total cost (excluding salaries) of the treatment of a child cancer in sub-Saharan Africa is considered to be around 2,000 dollars. This cost includes anti-cancer drugs for 1000 dollars (antibiotics, antimitotics, blood tests and small equipment), surgery for the other half. 
+    14 units are in Sub-Saharan Africa: Burkina Faso, Benin, Cameroon, Ivory Coast, Gabon, Guinea Conakry, Centrafrican Republic, Congo Brazzaville, RDC Congo (2), Mali, Mauritania, Madagascar, Niger, Senegal and Togo.
+    Satellite units are expected to open in remote areas in several member countries.
+    The total cost (excluding salaries) of the treatment of a child cancer in sub-Saharan Africa is considered to be around 2,500 dollars. This cost includes anti-cancer drugs for 1000 dollars (antibiotics, antimitotics, blood tests and small equipment), surgery for the other half.
     It should be noted that the number of cases treated according to the GFAOP protocols represents only about 60% of children admitted to the pediatric oncology services.
     </p>
   </div>

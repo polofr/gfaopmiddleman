@@ -8,12 +8,11 @@
   <div class="row text-center">
     <h3 class="mx-auto py-2">Dans chaque hôpital, l’unité d’oncologie pédiatrique dite «Unité-Pilote» a en charge les soins des enfants atteints de cancer</h3>
     <p class="mx-auto text-justify col-md-12">
-    Le GFAOP est un réseau de 20 services ou “Unités Pilotes” d’oncologie pédiatrique dans 16 pays d’Afrique francophone.
+    Le GFAOP est un réseau de 22 services ou “Unités Pilotes” d’oncologie pédiatrique dans 18 pays d’Afrique francophone.
     6 unités sont au Maghreb : Algérie, Maroc (4) et Tunisie.
-    14 unités sont en Afrique Sub-saharienne : Burkina Faso, Cameroun, Côte d’Ivoire, Gabon, Guinée Conakry, RD Centrafricaine, RDCongo (2), Mali, Mauritanie, Madagascar, Niger, Sénégal et Togo.
-    Le Congo Brazzaville est en phase de création d’unité pilote, d’autres pays devraient rejoindre le GFAOP comme le Bénin, le Tchad et le Burundi.
-    Des unités satellites devraient ouvrir en région dans plusieurs pays membres.
-    On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2000 euros. Ce
+    16 unités sont en Afrique Sub-saharienne : Burkina Faso, Bénin, Cameroun, Côte d’Ivoire, Gabon, Guinée Conakry, République Centrafricaine, Congo Brazzaville, République Démocratique du Congo (2), Mali, Mauritanie, Madagascar, Niger, Sénégal et Togo.
+    A moyen terme, il est prévu que des unités satellites voient le jour dans des villes de province pour chacun des pays.
+    On considère que le coût global (hors salaires) du traitement d’un enfant atteint de cancer en Afrique sub-saharienne est d’environ 2500 euros. Ce
     coût intègre les médicaments anticancéreux pour 1000 euros (antibiotiques, antimitotiques, analyses de sang et petit matériel), la chirurgie pour l’autre
     moitié. Il est à noter que le nombre de cas traités selon les protocoles GFAOP ne représente qu’environ 60 % des enfants accueillis dans les services de cancérologie pédiatrique.
     </p>
