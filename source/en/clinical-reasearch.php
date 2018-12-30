@@ -35,7 +35,7 @@
   <div class="row mx-auto text-justify py-4">
     <div class="col-12 col-md-6">
       <h4 class="text-left"><b>Cancer registry and data management</b></h4>
-      Since January 2016, with the support of the Sanofi Espoir Foundation, a new patient data collection system has been set up with the objective of improving knowledge of pediatric cancers in the 16 countries (Observed incidence in experimental units, feasibility of treatment, reasons for non-compliance, causes of early death and morbidity). Each unit is asked to register its patients in a common software. Based on this information, new clinical research projects can be conducted to improve treatment protocols.
+      Since January 2016, with the support of the Sanofi Espoir Foundation, a new patient data collection system has been set up with the objective of improving knowledge of pediatric cancers in the 18 countries (Observed incidence in experimental units, feasibility of treatment, reasons for non-compliance, causes of early death and morbidity). Each unit is asked to register its patients in a common software. Based on this information, new clinical research projects can be conducted to improve treatment protocols.
     </div>
     <div class="col-12 col-md-6 rounded">
       <img src="../images/patients_inclusion.png" class="borderless rounded img-thumbnail" alt="inclusion repartition per country" >

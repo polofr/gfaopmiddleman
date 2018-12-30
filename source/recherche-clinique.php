@@ -35,7 +35,7 @@
   <div class="row mx-auto text-justify py-4">
     <div class="col-12 col-md-6">
       <h4 class="text-left"><b>Le registre du cancer et le data management</b></h4>
-      Depuis janvier 2016, grâce au soutien de la Fondation Sanofi Espoir, il a été décidé de mettre en place un nouveau système de recueil de données des patients, avec pour objectif d’améliorer la connaissance des cancers pédiatriques dans les 16 pays où exercent les unités membres du GFAOP (l'incidence observée dans les unités expérimentales, la faisabilité du traitement, les raisons de la non-conformité, les causes des décès précoces et la morbidité). 
+      Depuis janvier 2016, grâce au soutien de la Fondation Sanofi Espoir, il a été décidé de mettre en place un nouveau système de recueil de données des patients, avec pour objectif d’améliorer la connaissance des cancers pédiatriques dans les 18 pays où exercent les unités membres du GFAOP (l'incidence observée dans les unités expérimentales, la faisabilité du traitement, les raisons de la non-conformité, les causes des décès précoces et la morbidité).
       Chaque unité est amenée à enregistrer ses patients dans un logiciel commun. A partir de ces informations pourront être menés les nouveaux projets de recherche clinique dans le but d’améliorer les protocoles de traitement.
     </div>
     <div class="col-12 col-md-6 rounded">
