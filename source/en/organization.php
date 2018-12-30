@@ -62,9 +62,9 @@
         Today, the GFAOP is the reference agency for childhood cancer in French-speaking Africa. A 10-year development plan for pediatric oncology has been settled. Our team goals for 2025 :
       </div>
       <ul>
-        <li>Welcome more than 3000 children per year, then 6000 by opening new units in new countries (ie 25% then 40% of sick children, whereas we achieve to welcome only 15% today)</li>
-        <li>Take care of children earlier, work on awareness by addressing especially mothers</li>
-        <li>Train more staff, 80 then 120 people per year</li>
+        <li>Welcome more than 3000 children per year in 2020, then 6000 in 2025 by opening new units in new countries and provincial towns (ie 25% then 40% of sick children, whereas we achieve to welcome only 15% today)</li>
+        <li>Take care of children earlier, at an earlier stage of cancer by training staff for better early diagnosis; work on awareness by addressing especially mothers</li>
+        <li>Train more staff in all medical specialties (onco-pediatricians, surgeons, pathologists, radiotherapists, pharmacists, nurses...), bring them to work together by training them together</li>
         <li>Create a support fund for the most deprived families so that they do not abandon their child's treatment</li>
         <li>Backing a Parent House to each care unit</li>
       </ul>

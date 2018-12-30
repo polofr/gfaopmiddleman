@@ -64,9 +64,9 @@
         Un plan de développement à 10 ans de l’oncologie pédiatrique a été mis en place. Avec toutes les équipes, nos objectifs pour 2025 sont :
       </div>
       <ul>
-        <li>Accueillir plus de 3000 puis 6000 enfants par an (soit 25% puis 40% des enfants malades alors que n’en accueillons que 15% aujourd’hui) en ouvrant de nouvelles unités dans de nouveaux pays</li>
-        <li>Prendre en charge les enfants plus tôt, en travaillant sur l’information et la sensibilisation en s’adressant en particulier aux mamans</li>
-        <li>Former plus de personnel, 80 puis 120 personnes par an</li>
+        <li>Accueillir plus de 3000 (en 2020) puis 6000 (en 2025) enfants par an (soit 25% puis 40% des enfants malades alors que n’en accueillons que 15% aujourd’hui) en ouvrant de nouvelles unités dans de nouveaux pays ou en favorisant l’ouverture d’unités en régions</li>
+        <li>Prendre en charge les enfants plus tôt à des stades plus précoce de leur maladie, grâce à des formations au diagnostic précoce et en travaillant sur l’information et la sensibilisation des populations</li>
+        <li>Former plus de personnel dans toutes les disciplines liées à la cancérologie pédiatrique (onco-pédiatres, chirurgiens, anatomopathologistes, radiologues, radiothérapeuthes, pharmaciens, infirmiers...) et les inciter à mieux travailler ensemble grâce à une formation à la prise en charge pluridisciplinaire</li>
         <li>Créer un fond d’aide destiné aux familles les plus démunies afin qu’elles n’abandonnent pas le traitement de leur enfant</li>
         <li>Adosser une Maison des parents à chaque unité de soins</li>
       </ul>
