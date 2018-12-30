@@ -21,7 +21,7 @@
     <div class="col-md-9 col-12 text-justify">
       While children in developed countries have a significant chance of recovery (75-80%), children in developing countries continue to die massively due to a lack of resources, skilled care and dysfunctions of the health system. Yet 8 out of 10 pediatric cancer cases occur in these countries. Thus in sub-Saharan Francophone Africa there are 10,000 new cases of cancer per year in children under the age of 15. *
       <br>
-      In this context over 16 years, the GFAOP enabled the opening of 20 hospital units specialized in pediatric oncology in 16 countries in Africa.
+      In this context over 18 years, the GFAOP enabled the opening of 22 hospital units specialized in pediatric oncology in 18 countries in Africa.
       <br>
       These pilot units have the skills and means to manage children with cancer according to diagnostic and therapeutic procedures adapted to the local context. The GFAOP provides following directions :
       <ul>

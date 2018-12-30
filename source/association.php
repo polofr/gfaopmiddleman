@@ -21,7 +21,7 @@
     <div class="col-md-9 col-12 text-justify">
       Alors que dans les pays développés, les enfants bénéficient de chances significatives de guérison atteignant 75 à 80%, les enfants des pays en voie de développement continuent de mourir massivement par manque de moyens, manque d’offre de soins qualifiés et à cause de dysfonctionnements du système de santé. Pourtant 8 cas de cancer pédiatriques sur 10 apparaissent dans ces pays. Ainsi, en Afrique francophone sub-saharienne, on recense 10 000 nouveaux cas de cancers par an chez les enfants de moins de 15 ans.*
       <br>
-      C’est dans ce contexte que le GFAOP a permis, en 16 ans, l’ouverture de 20 unités hospitalières spécialisées en cancérologie pédiatrique dans 16 pays d’Afrique.
+      C’est dans ce contexte que le GFAOP a permis, en 18 ans, l’ouverture de 22 unités hospitalières spécialisées en cancérologie pédiatrique dans 18 pays d’Afrique.
       <br>
       Ces unités pilotes ont les compétences et les moyens de prendre en charge les enfants atteints de cancers selon des procédures diagnostiques et thérapeutiques adaptées au contexte local grâce aux actions du GFAOP orientées dans ces directions :
       <ul>
