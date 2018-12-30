@@ -37,7 +37,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/webzine.jpg" class="borderless rounded img-thumbnail" width="300" alt="United Fashion For Peace">
+      <img src="../images/pays_mali.jpg" class="borderless rounded img-thumbnail" width="300" alt="Doctor assembly">
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>BENIN</b></h2>
