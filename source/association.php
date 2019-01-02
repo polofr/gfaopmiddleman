@@ -46,7 +46,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-12">
-    <strong>En 16 ans, ce sont plus de 11000 enfants qui ont déjà été soignés en Afrique sub-saharienne</strong>, avec des taux de guérison qui peuvent atteindre 54 à 70% selon les types de cancer.
+    <strong>En 18 ans, ce sont plus de 11000 enfants qui ont déjà été soignés en Afrique sub-saharienne</strong>, avec des taux de guérison qui peuvent atteindre 54 à 70% selon les types de cancer.
     Le GFAOP a donc démontré qu’il était possible, même dans des conditions difficiles, d’offrir aux enfants des soins adaptés lorsque l’engagement s’inscrit dans la durée. 
     Il s’agit d’un véritable message d’espoir!
     </div>
@@ -71,7 +71,7 @@
         <li>Adosser une Maison des parents à chaque unité de soins</li>
       </ul>
       <div class="text-justify">
-        Grâce à l’engagement des équipes médicales du GFAOP, au soutien apporté par les institutions, les autorités, les partenaires et la société civile, ce qui semblait encore impossible devient réalité : les enfants atteints de cancers en Afrique peuvent eux aussi avoir accès aux soins.
+        Grâce à l’engagement des équipes médicales du GFAOP, au soutien apporté par les institutions, les autorités, les partenaires et la société civile, ce qui semblait encore impossible devient réalité : les enfants atteints de cancers en Afrique peuvent eux aussi avoir accès aux soins!
       </div>
       <div class="text-justify font-italic">
         Le GFAOP est une association médicale et n’a pas vocation à prendre en charge le traitement des enfants hors de leurs pays d’origine.

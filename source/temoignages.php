@@ -10,9 +10,9 @@
        <img src="images/Anne_Gagneapin.png" class="borderless rounded img-thumbnail" width="300" alt="Anne Gagneapin Lacheteau" >
      </div>
      <div class="col-12 col-md-8 p-3">
-      <h3><b>Anne Gagnepain-Lacheteau (Fondation Sanofi Espoir- directeur médical-Partenaire)</b></h3>
+      <h3><b>Anne Gagnepain-Lacheteau (Fondation Sanofi Espoir - directeur médical - Partenaire)</b></h3>
       <p><em>
-        «Dans le cadre du programme MY CHILD MATTERS de lutte contre les cancers pédiatriques dans les pays à faibles ressources, le GFAOP est partenaire de la Fondation Sanofi Espoir depuis 2009. Nous travaillons ensemble sur plusieurs projets, notamment : l’école africaine d’oncologie pédiatrique au Maroc,  le réseau de recherche en Afrique, le projet de soins palliatifs et lutte contre la douleur en Afrique. Ce partenariat repose sur un objectif commun : donner à tous les enfants atteints de cancer, quel que soit le pays où ils vivent, la même chance d’accéder aux soins et de guérir. »
+        «Dans le cadre du programme MY CHILD MATTERS de lutte contre les cancers pédiatriques dans les pays à faibles ressources, le GFAOP est partenaire de la Fondation Sanofi Espoir depuis 2009. Nous travaillons ensemble sur plusieurs projets, notamment : l’école africaine d’oncologie pédiatrique au Maroc, le réseau de recherche en Afrique, le projet de soins palliatifs et de lutte contre la douleur en Afrique. Ce partenariat repose sur un objectif commun : donner à tous les enfants atteints de cancer, quel que soit le pays où ils vivent, la même chance d’accéder aux soins et de guérir. »
       </em></p>
      </div>
    </div>
@@ -45,7 +45,7 @@
        <img src="images/Kamilia.jpg" class="borderless rounded img-thumbnail" width="300" alt="Kamilia, la combatante" >
      </div>
      <div class="col-12 col-md-8 p-3">
-      <h3><b>Samira C (maman)</b></h3>
+      <h3><b>Samira C (Maman)</b></h3>
       <p><em>
         «Ma petite Kamilia va bientôt fêter ses 2 ans, une vraie combattante, ma princesse... 2 ans de pur et dur combat contre cette maladie qui nous a malheureusement chamboulés à jamais enfin comme on dit ce qui ne nous tue pas nous rend plus fort. Malgré tout cela, je suis optimiste pour l'avenir et j'espère, Inchallah, que Kamilia aura une enfance épanouie comme tout enfant normal. Par la même occasion je voulais vous remercier pour votre aide et votre soutien et vous exprimer ma reconnaissance.
         La voici en photo!»
@@ -57,7 +57,7 @@
        <img src="images/Stephanie_Fugain.jpg" class="borderless rounded img-thumbnail" width="300" alt="Stéphanie Fugain" >
      </div>
      <div class="col-12 col-md-8 p-3">
-      <h3><b>Stéphanie Fugain (Association Laurette Fugain, partenaire du GFAOP)</b></h3>
+      <h3><b>Stéphanie Fugain (Association Laurette Fugain - Partenaire du GFAOP)</b></h3>
       <p><em>
         « C’est tout naturellement qu’au départ de ma fille Laurette atteinte d’une leucémie je me suis engagée en réponse à la demande du Groupe Franco Africain Oncologie pour soutenir des projets. Nous avons ainsi mis en place « la bourse Laurette pour l’Afrique » qui permet aux lauréats infirmiers d’effectuer un stage de deux mois en France dans un service de pédiatrie générale et dans un service d’hémato-oncologie. L’objectif de cette bourse est d’améliorer la prise en charge des cancers et leucémies de l’enfant en Afrique.»
       </em></p>
@@ -68,9 +68,9 @@
        <img src="images/chantal_thinlot.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Chantal Thinlot" >
      </div>
      <div class="col-12 col-md-8 p-3">
-      <h3><b>Chantal Thinlot (Bénévole France, infirmière)</b></h3>
+      <h3><b>Chantal Thinlot (Bénévole France - Infirmière)</b></h3>
       <p><em>
-        « Au cours de ma carrière d’infirmière pédiatrique et à différents postes de responsabilités, notamment en ingénierie de formation, j’ai constaté les progrès qui ont contribué à l’efficacité des prises en charge des enfants et des familles. Ayant beaucoup reçu au cours de ma vie professionnelle, je trouve juste de rendre ce que j’ai reçu. .
+        « Au cours de ma carrière d’infirmière pédiatrique et à différents postes de responsabilités, notamment en ingénierie de formation, j’ai constaté les progrès qui ont contribué à l’efficacité des prises en charge des enfants et des familles. Ayant beaucoup reçu au cours de ma vie professionnelle, je trouve juste de rendre ce que j’ai reçu.
         Je souhaite mettre mon expertise au service des professionnels de santé  qui souhaitent acquérir les compétences nécessaires pour accompagner enfants et parents vivant une situation singulière dans un environnement particulier. »
       </em></p>
      </div>
@@ -83,7 +83,7 @@
       <h3><b>Claude Moreira (Responsable de l’unité de Dakar - Cofondateur du GFAOP)</b></h3>
       <p><em>
         « La prise en charge des enfants atteints d’un cancer en Afrique constitue un excellent modèle pour le développement de la cancérologie dans son ensemble. A ce titre un fond mondial dédié permettrait de mettre en place une base solide de développement.
-        En attendant le même message s’adresse aux décideurs politiques  nationaux.
+        En attendant le même message s’adresse aux décideurs politiques nationaux.
         - Les cancers des enfants se guérissent effectivement en Afrique
         - Il est moins coûteux de soigner un enfant atteint d'un cancer en Afrique
         - Il faut une volonté politique et médicale conjointe pour améliorer les chances de guérison
@@ -96,7 +96,7 @@
        <img src="images/paulhenri_carton.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Paul Henri Carton" >
      </div>
      <div class="col-12 col-md-8 p-3">
-      <h3><b>Paul Henri Carton (Bénévole, Site WEB)</b></h3>
+      <h3><b>Paul Henri Carton (Bénévole - Site WEB)</b></h3>
       <p><em>
         « J'avais du temps libre et l'envie de m'engager. J'ai découvert le GFAOP par hasard par l'intermédiaire de l’association WEBASSOC. Ce fut une belle surprise : j'apprécie particulièrement l'idée qu'on peut changer les choses avec très peu d'argent au regard des enjeux et des changements réalisés par l'association !
         J'ai eu l'impression que ce qui compte le plus c'est l'énergie déployée par les membres de l'association et la mise en relation d'hôpitaux qui n'aurait jamais eu lieu sans le GFAOP. »

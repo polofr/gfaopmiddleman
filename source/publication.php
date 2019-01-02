@@ -41,7 +41,7 @@
         <p>Vol. 14 April 2013</p>
         <h5 class="font-italic" >"Challenges for paediatric oncology in Africa"</h5>
         <h6>Mhamed Harif, Fousseyni Traoré, Laïla Hessissen, Claude Moreira, Jean-Jacques Atteby</h6>
-        <h6>Centre Hospitalier Universitaire Mohammed VI, Marrakesh, Morocco (MH); Service de Pédiatrie, Hôpital Gabriel Touré, Bamako, Mali (FT); Service d’Hématologie et Oncologie Pédiatrique, Hôpital d’Enfant, CHU Ibn Sina, Rabat, Morocco (LH); Hôpital Aristide Le Dantec, Service de Pédiatrie, Fann-Dakar, Sénégal (CM); and Service de Pédiatrie, Hôpital de Treichville, Abidjan, Côte d’Ivoire (J-JA)</h6>
+        <h6>Centre Hospitalier Universitaire Mohammed VI, Marrakesh, Morocco (MH); Service de Pédiatrie, Hôpital Gabriel Touré, Bamako, Mali (FT); Service d’Hématologie et Oncologie Pédiatrique, Hôpital d’Enfant, CHU Ibn Sina, Rabat, Morocco (LH); Hôpital Aristide Le Dantec, Service de Pédiatrie, Fann-Dakar, Sénégal (CM); Service de Pédiatrie, Hôpital de Treichville, Abidjan, Côte d’Ivoire (J-JA)</h6>
       </div>
     </div>
   </div>
@@ -82,7 +82,7 @@
         <p>(2015) 3, 101—103</p>
         <h5>Formation d’infirmiers éducateurs africains dans le cadre du GFAOP (Groupe franco-africain d’oncologie pédiatrique)</h5>
         <h5>Training of nurse educators in the French-African Group of Pediatric Oncology</h5>
-        <h6>Infirmiers éducateurs ; Formation ; GFAOP (Groupe franco-africain d’oncologie pédiatrique) ; École africaine d’oncologie pédiatrique
+        <h6>Infirmiers éducateurs, Formation, GFAOP (Groupe franco-africain d’oncologie pédiatrique), École africaine d’oncologie pédiatrique
         S. Monneta, C. Thinlotb, M.-S. Dou ̧cotc, Z. Hamdoudd, C. Pattee,
         </h6>
       </div>

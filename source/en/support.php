@@ -55,9 +55,9 @@
     <div class="col-12 col-md-9 text-justify">
       <h3 class="mx-auto py-1 text-center">Support fund for the most deprived</h3>
       <p class="mx-auto py-1">
-        Arriving at the hospital is already a feat for many families, having to pay some mediacal exams is often impossible because most do not have social security coverage often because of non free access hospitals in Africa. A support fund for the most deprived has thus been set up in Mali and Ivoiry Coast in order to materially assist the families and start the treatment as soon as possible in order to give the children a better chance of recovery.       
+        Arriving at the hospital is already a feat for many families, having to pay some mediacal exams is often impossible because most do not have social security coverage often because of non free access hospitals in Africa. A support fund for the most deprived has thus been set up in Mali and Ivoiry Coast in order to materially assist the families and start the treatment as soon as possible in order to give the children a better chance of recovery.
       </p>
-    </div>      
+    </div>
   </div>
   <div class="row py-2 text-center">
     <div class="col-12">
@@ -96,7 +96,7 @@
       <img src="../images/plaidoyer.jpg" class="borderless rounded img-thumbnail" width="250" alt="Princess Lalla Salma, Dominique Ouattara and Bernadette Chirac at the Marrakech University Hospital" >
     </div>
     <div class="col-12 col-md-9">
-      <p class="text-justify">For the past 16 years, the GFAOP has been working in the field, and teams have shown that, despite difficult conditions and very few resources, good results have been achieved and that even in Africa children can be cured. 
+      <p class="text-justify">For the past 18 years, the GFAOP has been working in the field, and teams have shown that, despite difficult conditions and very few resources, good results have been achieved and that even in Africa children can be cured.
         The GFAOP teams regularly communicate their work at international medical conferences and symposia, to health professionals, populations, media and international bodies so that pediatric cancer becomes a public health priority.
       </p>
     </div>

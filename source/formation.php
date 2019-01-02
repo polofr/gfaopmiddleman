@@ -13,7 +13,7 @@
   <div class="row mx-auto text-justify py-3">
     Pour accueillir le nombre croissant d’enfants atteints de cancer dans chaque pays, il est indispensable d’augmenter les capacités de formation en prenant en compte les besoins de chaque pays (formations centralisées et décentralisées).
     C’est ainsi qu’est née l’Ecole Africaine d’Oncologie Pédiatrique du GFAOP dont la mission est la mise en place de nombreuses formations dont certaines diplômantes ou certifiantes. 
-    En 16 ans, plus de 450 médecins et infirmiers africains ont été formés à l’oncologie pédiatrique grâce au GFAOP dans les plus grands services spécialisés  en cancérologie.
+    En 18 ans, plus de 450 médecins et infirmiers africains ont été formés à l’oncologie pédiatrique grâce au GFAOP dans les plus grands services spécialisés en cancérologie.
     Les clés de la réussite des ambitieux projets du GFAOP pour les années à venir doivent intégrer : compétences pluridisciplinaires, communication, concertation, et coordination entre tous les partenaires de soins, y compris les parents.
     Ainsi, en complément à la formation des pédiatres oncologues et d’autres médecins spécialistes (chirurgiens, anatomopathologistes, ophtalmologistes, radiothérapeutes, pharmaciens…), des infirmiers bénéficient également de formations liées à l’oncologie pédiatrique. Une formation pluridisciplinaire devrait également voir le jour favorisant ainsi le travail en équipe.
     Le développement du E-learning en complément à la formation présentielle est en développement.
@@ -53,7 +53,7 @@
     <div class="col-md-9 col-12 py-3">
       <h3>• Le Diplôme Universitaire de Cancérologie Pédiatrique (DUCP) au Maroc</h3>
       Ce diplôme franco-marocain initié par le GFAOP avec les facultés de médecine de Paris-Sud et de Rabat, se prépare en une année. Ouverte à une vingtaine d’étudiants chaque année, cette formation dispense des cours théoriques et des stages pratiques au Maroc et en France. Elle est destinée à répondre à une demande sans cesse croissante de spécialistes du cancer de l’enfant.
-      Un programme soutenu  par un projet « My child Matters » de la Fondation Sanofi Espoir.
+      Un programme soutenu par un projet « My child Matters » de la Fondation Sanofi Espoir.
     </div>
   </div>
   <div class="row text-justify cream rounded">
@@ -71,7 +71,7 @@
       <img src="images/mission_formation.jpg" class="borderless rounded img-thumbnail" width="300" alt="lecture d'une radiographie en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• La formation  des responsables d’Unités Pilotes</h3>
+      <h3>• La formation des responsables d’Unités Pilotes</h3>
       Le GFAOP est amené à aider les responsables d’Unités Pilotes à acquérir les titres Universitaires de 3ème cycle tels que le Doctorat ès-Sciences ou l’Agrégation de médecine leur permettant d’évoluer dans la hiérarchie de leurs établissements. Une évolution vers les hauts niveaux de l’administration hospitalière Africaine constitue un gage de promotion de l’Oncologie Pédiatrique Africaine.
     </div>
   </div>
@@ -108,7 +108,7 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation infirmière</h3>
-        Si depuis 16 ans des formations ont bénéficié à 85 infirmiers de 13 pays, ces formations restent néanmoins insuffisantes en nombre et en qualité.
+        Si depuis 18 ans des formations ont bénéficié à 85 infirmiers de 13 pays, ces formations restent néanmoins insuffisantes en nombre et en qualité.
         Des progrès très significatifs ont eu lieu dans le traitement des cancers pédiatriques mais les soins infirmiers restent un point faible dans la prise en charge des enfants. 
         Or, ils sont pourtant essentiels pour la mise en œuvre et le suivi rigoureux des traitements.
         A partir de 2014, afin de répondre à l’attente forte qui émanait des différentes unités d’oncologie pédiatrique désireuses de mieux former les infirmières et de les maintenir en poste, 

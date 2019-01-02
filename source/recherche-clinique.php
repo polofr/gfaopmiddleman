@@ -99,7 +99,7 @@
       <p>-  Pour la maladie de Hodgkin, la survie globale est de 82% dans notre étude 2006-2012 sur 89 cas.</p>
     </div>
     <div class="col-12 col-md-6">
-      <p>-  Pour les leucémies lymphoblastiques aigües (LAL), la dernière étude menée par le GFAOP,  avec l’expertise du professeur Guy Leverger de l’hôpital Armand Trousseau à Paris , montre en Afrique sub-saharienne un taux de survie sans maladie de 60% à la fin du traitement dont la durée totale est de deux ans.</p>
+      <p>-  Pour les leucémies lymphoblastiques aigües (LAL), la dernière étude menée par le GFAOP, avec l’expertise du professeur Guy Leverger de l’hôpital Armand Trousseau à Paris , montre en Afrique sub-saharienne un taux de survie sans maladie de 60% à la fin du traitement dont la durée totale est de deux ans.</p>
       <p>-  Pour les rétinoblastomes, les résultats à Bamako, seule unité pilote pour laquelle nous ayons un peu de recul avec 112 cas observés depuis le lancement du programme en octobre 2011, comportent une augmentation des formes intraoculaires à 70% actuellement, avec plus de 90% de guérison. Ils comportent aussi un début des traitements conservateurs dans les formes bilatérales. Tous les enfants énucléés ont eu une prothèse.</p>
     </div>
     <div class="col-12 col-md-6">

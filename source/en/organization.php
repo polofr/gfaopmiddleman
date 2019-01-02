@@ -46,7 +46,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-12">
-      <strong>In 16 years, more than 11,000 children have already been treated in sub-Saharan Africa</strong>
+      <strong>In 18 years, more than 11,000 children have already been treated in sub-Saharan Africa</strong>
       with cure rates of up to 54-70% depending on the type of cancer. The GFAOP has therefore demonstrated that it is feasible, even under difficult conditions, to offer children appropriate care thanks to long-term commitment. This is a true message of hope !
     </div>
   </div>

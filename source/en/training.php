@@ -29,7 +29,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="600" alt="big smile  sale de réunion" >
+      <img src="../images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="600" alt="big smile sale de réunion" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• The Inter-University Diploma of Pediatric Oncology (DIUOP) in France</h3>
@@ -106,7 +106,7 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation infirmière</h3>
-        Although training has benefited 85 nurses from 13 countries over the past 16 years, these training courses are still insufficient in number and quality. 
+        Although training has benefited 85 nurses from 13 countries over the past 18 years, these training courses are still insufficient in number and quality.
         Significant progress has been made in the treatment of pediatric cancers, but nursing remains a weak point for child care. 
         However, progress is essential for rigorous implementation and monitoring of treatments. 
         Beginning in 2014, in order to meet the strong expectations of the various pediatric oncology units wishing to better train nurses and retain them, an acceleration of the nursing training process was carried out :

@@ -37,8 +37,8 @@
     </div>
     <div class="col-md-9 text-justify">
       Souvent pour des raisons financières et de distance par rapport à leur lieu d’habitation, les familles restent sur place pendant les inter-cures en chimiothérapie, soit dans l’hôpital (auquel cas on manque de lits pour les nouveaux patients) soit autour de l’hôpital dans des conditions très difficiles. 
-      Parfois, les familles décident de rentrer au village mais beaucoup n’ont ni le courage ni les moyens de refaire le voyage et de revenir à l’hôpital. De nombreux enfants sont ainsi dit « perdus de vue » et ne poursuivent pas leur traitement.
-      Ces « Maisons d’accueil des Parents », sont faites pour recevoir ces enfants et un membre de leur famille pendant toute la durée du traitement, permettant ainsi de limiter les abandons en cours de traitement et d’offrir une réelle amélioration des conditions de vie des familles. 
+      Parfois, les familles décident de rentrer au village mais beaucoup n’ont ni le courage ni les moyens de refaire le voyage pour revenir à l’hôpital. De nombreux enfants sont ainsi dit « perdus de vue » et ne poursuivent pas leur traitement.
+      Ces « Maisons d’accueil des Parents » sont faites pour recevoir ces enfants et un membre de leur famille pendant toute la durée du traitement, permettant ainsi de limiter les abandons en cours de traitement et d’offrir une réelle amélioration des conditions de vie des familles.
       En Afrique Sub-saharienne, seules les Unités Pilotes de Côte d’Ivoire et de Madagascar disposent d’une maison des parents. Des projets sont en cours pour d’autres pays : 
       Togo, Mali, Centrafrique et Congo Kinshasa.
       <br/>
@@ -51,7 +51,7 @@
     </div>
     <div class="col-12 col-md-9 text-justify">
       <h3 class="mx-auto py-1 text-center">Fonds de soutien aux plus démunis</h3>
-      <p class="mx-auto py-1">Arriver à l’hôpital est déjà un exploit pour nombre de familles, avoir à payer certains examens pour le bilan leur est souvent impossible car la plupart ne disposent pas de couverture sociale ; la gratuité n’étant pas systématique dans les hôpitaux en Afrique.
+      <p class="mx-auto py-1">Arriver à l’hôpital est déjà un exploit pour de nombreuses familles! Payer certains examens pour le bilan leur est souvent impossible car la plupart ne disposent pas de couverture sociale ; la gratuité n’étant pas systématique dans les hôpitaux en Afrique.
         Un fonds de soutien aux plus démunis a pu ainsi être mis en place au Mali et en Côte d’Ivoire afin d’assister matériellement les familles et commencer au plus vite le traitement pour donner aux enfants de meilleures chances de guérison.
         En cours de développement.
       </p>
@@ -70,7 +70,7 @@
       <img src="images/aidaf.png" class="borderless rounded img-thumbnail" width="200" alt="livre pour l’annonce du diagnostic" >
     </div>
     <div class="col-12 col-md-9 text-justify">
-      Le moment de l’annonce du diagnostic est excessivement difficile pour les familles, et il l’est aussi pour les médecins chargés de l’effectuer.<br> Malgré cela, l’annonce d’un diagnostic de cancer doit être considérée comme un moment stratégique, pouvant clairement influencer la suite du traitement. Cette affirmation est encore plus vraie pour des unités d’oncologie pédiatrique africaines, où les spécificités socioéconomiques et culturelles font qu’une famille sur quatre abandonne le traitement en cours. De ce fait, il faut réaliser que le parent que l’on rencontre pour lui annoncer le diagnostic de cancer est aussi susceptible de déserter avec son enfant malade.<br> Au-delà des raisons économiques, ces abandons sont liés à la méconnaissance de la maladie et du traitement ou à l’influence des croyances locales.<br>
+      Le moment de l’annonce du diagnostic est excessivement difficile pour les familles, il l’est aussi pour les médecins chargés de l’effectuer.<br> Malgré cela, l’annonce d’un diagnostic de cancer doit être considérée comme un moment stratégique, pouvant clairement influencer la suite du traitement. Cette affirmation est encore plus vraie pour des unités d’oncologie pédiatrique africaines, où les spécificités socioéconomiques et culturelles font qu’une famille sur quatre abandonne le traitement en cours. De ce fait, il faut réaliser que le parent que l’on rencontre pour annoncer le diagnostic de cancer est aussi susceptible de déserter avec son enfant malade.<br> Au-delà des raisons économiques, ces abandons sont liés à la méconnaissance de la maladie et du traitement ou à l’influence des croyances locales.<br>
       Un guide d’annonce a été réalisé, il doit être suivi de films de mise en situation à destination du personnel des unités pilotes et des familles.
     </div>
   </div>
@@ -90,7 +90,7 @@
       <img src="images/plaidoyer.jpg" class="borderless rounded img-thumbnail" width="250" alt="Plaidoyer, une enfant souriante" >
     </div>
     <div class="col-12 col-md-9">
-      <p class="text-justify">Depuis 16 ans, le GFAOP travaille sur le terrain, les équipes ont prouvé que malgré des conditions difficiles et très peu de moyens, de bons résultats étaient obtenus et qu’ainsi, même en Afrique, les enfants pouvaient être guéris.
+      <p class="text-justify">Depuis 18 ans, le GFAOP travaille sur le terrain, les équipes ont prouvé que malgré des conditions difficiles et très peu de moyens, de bons résultats étaient obtenus et qu’ainsi, même en Afrique, les enfants pouvaient être guéris.
         Les équipes du GFAOP communiquent régulièrement sur leur travail lors de colloques et de congrès médicaux internationaux, auprès des professionnels de santé, des populations et des médias mais également auprès des instances internationales afin que le cancer pédiatrique devienne une priorité de santé publique.
       </p>
     </div>
