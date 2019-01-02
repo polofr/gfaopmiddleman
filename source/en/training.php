@@ -13,7 +13,7 @@
   <div class="row mx-auto text-justify py-3">
     The aim is to train medical and paramedical personnel to care for sick children locally.
     Over 15 years, more than 450 African doctors and nurses have been trained in pediatric oncology through the GFAOP in the leading cancer services.<br>
-    In addition to pediatric oncologists training, other medical specialists (surgeons, pathologists, ophthalmologists, radiotherapists ...) and nurses also benefit from training related to pediatric oncology.<br>
+    In addition to pediatric oncologists training, other medical specialists (surgeons, pathologists, ophthalmologists, radiotherapists...) and nurses also benefit from training related to pediatric oncology.<br>
     This is the main expense item of the association.
     Nevertheless, only 10% of children with cancer will be able to reach the specialized centers, an important awareness-raising work is under way.
     In order to accommodate a growing number of children, it is essential to increase the training capacities of the staff and the bridging skills by a training plan taking into account the needs of each country (centralized and decentralized training).

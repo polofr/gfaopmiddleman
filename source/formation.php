@@ -34,7 +34,7 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Le Diplôme Inter Universitaire d’Oncologie Pédiatrique (DIUOP) en France</h3>
-      Ouvert aux étudiants étrangers en France, la formation d’un an à ce diplôme permet d’acquérir la capacité de prendre en charge les enfants et adolescents présentant une affection maligne dans le cadre de l’exercice multidisciplinaire de l’oncologie pédiatrique.
+      Ouvert aux étudiants étrangers en France, la formation d’un an permet d’acquérir la capacité de prendre en charge les enfants et adolescents présentant une affection maligne dans le cadre de l’exercice multidisciplinaire de l’oncologie pédiatrique.
     </div>
   </div>
   <div class="row text-justify cream rounded">
@@ -72,7 +72,7 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• La formation des responsables d’Unités Pilotes</h3>
-      Le GFAOP est amené à aider les responsables d’Unités Pilotes à acquérir les titres Universitaires de 3ème cycle tels que le Doctorat ès-Sciences ou l’Agrégation de médecine leur permettant d’évoluer dans la hiérarchie de leurs établissements. Une évolution vers les hauts niveaux de l’administration hospitalière Africaine constitue un gage de promotion de l’Oncologie Pédiatrique Africaine.
+      Le GFAOP aide les responsables d’Unités Pilotes à acquérir les titres universitaires de 3ème cycle tels que le doctorat ès-sciences ou l’agrégation de médecine leur permettant d’évoluer dans la hiérarchie de leurs établissements. Une évolution vers les hauts niveaux de l’administration hospitalière africaine constitue un gage de promotion de l’oncologie pédiatrique africaine.
     </div>
   </div>
   <div class="row text-justify cream rounded">
@@ -118,13 +118,13 @@
               Cette formation de base d’une semaine, en groupe, est destinée aux infirmiers formateurs. Elle est amenée à se développer.
           </li>
           <li>Une formation « Douleur et soins palliatifs » 
-              Les équipes du GFAOP sont trop souvent démunies dans la prise en charge de la douleur faute de formation et de médicaments. Il s’est donc avéré indispensable d’assurer une formation adéquate en binôme médecin-infirmier. 
+              Les équipes du GFAOP sont trop souvent démunies dans la prise en charge de la douleur, faute de formation et de médicaments. Il s’est donc avéré indispensable d’assurer une formation adéquate en binôme médecin-infirmier.
           </li>
           <li>
-            Les bourses « Laurette Fugain » : depuis 2014, 2 bourses sont attribuées à des infirmiers des unités pilotes. Ces derniers bénéficient de stages de 2 mois en France dans les services les plus prestigieux .
+            Les bourses « Laurette Fugain » : depuis 2014, 2 bourses sont attribuées à des infirmiers des unités pilotes. Ces derniers bénéficient de stages de 2 mois en France dans les services les plus prestigieux.
           </li>
         </ul>
-        Dans le cadre du projet de développement du GFAOP à 5 et 10 ans, nous estimons avoir à former pour les unités pilotes du Maghreb et d’Afrique au moins 50 infirmièr(e)s par an.
+        Dans le cadre du projet de développement du GFAOP à 5 et 10 ans, nous estimons le besoin de former au moins 50 infirmièr(e)s par an pour les unités pilotes du Maghreb et d’Afrique.
       </div>
   </div>
   <div class="row text-justify cream rounded">
@@ -134,7 +134,7 @@
     <div class="col-md-9 col-12 py-3">
       <h3>Les formations "Douleur et Soins palliatifs"</h3>
       Grâce aux progrès thérapeutiques au cours des ces dernières années, les enfants guérissent du cancer. 
-      En parallèle, les soins de support se sont développés pour améliorer la prise en charge des symptômes, en particulier la douleur, à toutes les phases du traitement. 
+      En parallèle, les soins de support se sont développés pour améliorer la prise en charge des symptômes, en particulier la douleur, pour toutes les phases du traitement.
       Il est important d'apporter ces pratiques en Afrique où la douleur reste peu prise en charge.
       La Fondation Sanofi Espoir à travers le programme "My Child Matters" soutient ce projet sur 3 ans.
     </div>
@@ -163,7 +163,7 @@
   <h2 class="pt-5 text-center">L’ANATOMOPATHOLOGIE</h2>
   <div class="row text-justify py-3">
     <div class="col-12">
-      La spécialité d’anatomopathologie est essentielle pour confirmer les diagnostics cliniques de cancer des patients. Des examens histologiques en laboratoire, des prélèvements effectués sur les organes malades permettent de guider le choix de protocoles de soins offrant les meilleurs taux de succès. Une anatomopathologie incertaine réduit notablement les chances de succès et fait perdre un temps précieux par une administration de médications onéreuses mais inappropriées. La thérapie du soin des cancers de l’enfant peut être assimilée à une guerre de mouvements rapides. Plus on est rapide dans l’administration du juste traitement, plus grandes seront les chances de survie des enfants.
+      La spécialité d’anatomopathologie est essentielle pour confirmer les diagnostics cliniques de cancer des patients. Des examens histologiques en laboratoire, des prélèvements effectués sur les organes malades permettent de guider le choix de protocoles de soins offrant les meilleurs taux de succès. Une anatomopathologie incertaine réduit les chances de succès, fait perdre un temps précieux et coûte plus chère à cause d'une médication onéreuse mais inappropriée. La thérapie du soin des cancers de l’enfant peut être assimilée à une guerre de mouvements rapides. Plus on est rapide dans l’administration du juste traitement, plus grandes seront les chances de survie des enfants.
     </div>
   </div>
   <div class="row text-center py-2">
@@ -171,13 +171,13 @@
       <div class="p-3 cream rounded m-2">
         <h3>La Chirurgie</h3>
         <div class="text-justify">
-          L’accent est mis sur une formation spécifique aux besoins de chirurgie dans le traitement des tumeurs de l’enfant. Elle est destinée à des chirurgiens n’ayant pas une expérience spécifique au domaine de l’oncologie pédiatrique. La Chirurgie des tumeurs cancéreuses de l’enfant est un complément indispensable à maitriser pour soigner efficacement les cancers des enfants.
+          L’accent est mis sur une formation spécifique aux besoins de chirurgie dans le traitement des tumeurs de l’enfant. Elle est destinée à des chirurgiens n’ayant pas une expérience spécifique au domaine de l’oncologie pédiatrique. La Chirurgie des tumeurs cancéreuses de l’enfant est un indispensable complément à maitriser pour soigner efficacement les cancers des enfants.
         </div>
       </div>
     </div>
     <div class="col-12 col-md-4">
       <div class="p-3 cream rounded m-2">
-        <h3>L’ophtalmologie : Formation Rétinoblastome</h3>
+        <h3>L’ophtalmologie : la formation rétinoblastome</h3>
         <div class="text-justify">
           Depuis 2011, le GFAOP, adossé à Gustave Roussy et à l’institut Curie, a décidé d’inscrire le rétinoblastome des enfants parmi les pathologies sur lesquelles elle s’investit plus particulièrement. Ce cancer représente une proportion importante des tumeurs qui frappent les enfants.
         </div>

@@ -14,7 +14,7 @@
   <h4 class="text-center">Renovation of services and equipment of units</h4>
   <div class="row text-center">
     Many pediatric oncology services have already benefited from partial or total renovations thanks to the joint work of the local hospitals management supported by the CAFM.
-    Nevertheless, much remains to be done ...
+    Nevertheless, much remains to be done...
   </div>
   <div class="row text-center">
     <div class="col-12 col-sm-4">
