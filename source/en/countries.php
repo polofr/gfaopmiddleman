@@ -155,7 +155,7 @@
   </div>
   <div class="row">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hopital d'Abidjan" >
+      <img src="../images/pays_guinee.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'hôpital d'Abidjan" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>GUINEA CONAKRY</b></h2>
@@ -167,7 +167,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="../images/pays_madagascar.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hôpital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>MADAGASCAR</b></h2>
@@ -259,7 +259,7 @@
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/pays_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hopital" >
+      <img src="../images/pays_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="l'entree de l'hôpital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>NIGER</b></h2>
