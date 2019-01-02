@@ -20,7 +20,7 @@
         <a href="./formation.php"><img src="images/formation.png" width="60" alt="la formation" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="./recherche-clinique.php"><img src="images/recherche.png" width="50" alt="la recherche" ></a>        
+        <a href="./recherche-clinique.php"><img src="images/recherche.png" width="50" alt="la recherche"></a>
       </div>
       <div class="col-sm-3">
         <a href="./medicaments-et-materiel.php"><img src="images/envoi.png" width="50" alt="l'envoi de médicaments" ></a>
@@ -61,7 +61,7 @@ if ($xml) {
     }
 }
 ?>
-  <script async src="https://assets.tumblr.com/post.js"></script>      
+  <script async src="https://assets.tumblr.com/post.js"></script>
   </div>
   <div class="text-center py-2">
     <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/gfaopgroupe"><span class="fa fa-facebook"></span></a>

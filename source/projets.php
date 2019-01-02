@@ -15,7 +15,7 @@
     En Afrique, malgré le succès des équipes sur le terrain, <strong>seulement</strong> 1 000 enfants, soit moins de 15% des enfants ayant un cancer en Afrique francophone sub-saharienne, ont atteint en 2015 une unité d’oncologie pédiatrique, souvent trop tardivement pour y être efficacement traités (notamment en raison d’un premier recours à d’autres acteurs comme les tradi-praticiens qui font perdre un temps précieux). Le nombre de nouveaux cas de cancers chez l’enfant de moins de 15 ans est estimé aujourd’hui à environ <strong>10 000 par an</strong> (et au moins <strong>6 000 décès</strong> par cancer), pour les pays sub-sahariens francophones.*
     </div>
     <div class="mx-auto pt-2 col-12 col-md-10">
-      <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas »2ème édition , The American Cancer Society, 2014)
+      <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas » 2ème édition, The American Cancer Society, 2014)
       </small>
     </div>
     <div class="mx-auto py-2 col-12 col-md-10">
@@ -136,7 +136,7 @@
             <li>pour faciliter les télécommunications au sein des comités de tumeurs entre les unités participantes (pour la transmissions des données, les réunions et l’analyse des données)</li>
             <li>pour faciliter les échanges (notamment de données médicales pour des cas difficiles) entre les unités et services jumelés</li>
             <li>pour permettre la réalisation de certaines réunions des membres du GFAOP, en plus des réunions physiques.</li>
-          </ul>          
+          </ul>
         </div>
       </div>
     </div>
@@ -154,7 +154,7 @@
           <h5>PROJET: ouvrir 3 à 4 maisons en 2017-2018, et 4 autres d’ici 2020. Soit 8 maisons à ouvrir dans les cinq ans, chaque fois soutenues et gérées par une association locale.</h5>
           <p class="text-justify">A l’hôpital, les conditions de vie sont difficiles, les enfants sont souvent plusieurs par chambre, accompagné d'un parent qui vit sur place, dort à même le sol ou dehors dans le jardin de l'hôpital. C'est la famille qui doit assurer les repas du patient. Certains enfants restent à l'hôpital entre 2 cures de chimiothérapie (le traitement dure entre 3 mois et 6 mois) car retourner au village est trop loin, trop cher (les services de cancérologie sont installés dans les capitales et nombre d'enfants viennent de régions agricoles isolées).
             Afin d'éviter que le service à l'hôpital ne soit surchargé d'enfants, que certains enfants ne puissent pas poursuivre leur traitement faute d'un logement sur place et de permettre que les lits soient mieux utilisés pour les enfants en traitement, le GFAOP veut mettre en place des Maisons des Parents, à l'image des Maisons d'accueil en France.
-            Ces « Maison  des parents », sont des lieux d’accueil indispensables à proximité de chaque unité, compléments non médicalisés du Service d’oncologie pédiatrique, lieux d’hébergement et de convivialité où les enfants peuvent vivre et se reconstruire entre les cures de chimiothérapie. 
+            Ces «Maison des parents», sont des lieux d’accueil indispensables à proximité de chaque unité, compléments non médicalisés du Service d’oncologie pédiatrique, lieux d’hébergement et de convivialité où les enfants peuvent vivre et se reconstruire entre les cures de chimiothérapie.
           </p>
         </div>
       </div>
@@ -172,7 +172,7 @@
         <div class="card-block">
           <p class="text-justify">
             L’expérience du GFAOP montre que malheureusement, après avoir été référées à l’Unité d’oncologie, beaucoup de familles interrompent la prise en charge de leurs enfants à différents stades :
-          </p>            
+          </p>
           <ul>
             <li>Avant même que le diagnostic soit posé (sur une échographie abdominale, une cytologie ou une biopsie)</li>
             <li>Au moment du démarrage du traitement</li>
@@ -211,7 +211,7 @@
           </p>
         </div>
       </div>
-    </div>    
+    </div>
   </div>
 </div>
 <div class="container">

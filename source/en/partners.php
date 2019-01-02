@@ -148,7 +148,7 @@
         <img src="../images/logo_fondation_edf.jpeg" class="borderless rounded img-thumbnail" width="120" alt="EDF foundation" >
       </a>
       <h5>Fondation EDF</h5>
-    </div>    
+    </div>
   </div>
   <div class="row">
     <div class="col-md-2 text-center">

@@ -21,7 +21,7 @@
         <a href="training.php"><img src="../images/formation.png" width="60" alt="Training" ></a>
       </div>
       <div class="col-sm-3">
-        <a href="clinical-research.php"><img src="../images/recherche.png" width="50" alt="Clinical Research" ></a>       
+        <a href="clinical-research.php"><img src="../images/recherche.png" width="50" alt="Clinical Research"></a>
       </div>
       <div class="col-sm-3">
         <a href="drug-and-supply-delivery.php"><img src="../images/envoi.png" width="50" alt="medicine delivery" ></a>
@@ -41,7 +41,7 @@
 <div class="container">
   <h2 class="text-center py-4" style="color: #f96634;">PRESENTATION</h2>
   <div class="embed-responsive embed-responsive-16by9 mx-auto">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TIfCGArJZdM"></iframe>    
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TIfCGArJZdM"></iframe>
   </div>
 </div>
 <div class="container">
@@ -62,7 +62,7 @@ if ($xml) {
     }
 }
 ?>
-  <script async src="https://assets.tumblr.com/post.js"></script>      
+  <script async src="https://assets.tumblr.com/post.js"></script>
   </div>
   <div class="text-center py-2">
     <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/gfaopgroupe"><span class="fa fa-facebook"></span></a>
@@ -76,7 +76,7 @@ if ($xml) {
     <div class="row">
       <div class="mx-auto font-italic white text-center py-3">
           <h4>"GFAOP, with its experience and know-how, must continue to work in its own way for a more equitable world."</h4>
-          <h5>Pr Mhamed Harif, GFAOP President</h5>                    
+          <h5>Pr Mhamed Harif, GFAOP President</h5>
       </div>
     </div>
   </div>

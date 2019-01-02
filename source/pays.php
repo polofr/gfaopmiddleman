@@ -300,7 +300,7 @@
               <td class="text-center">0</td>
             </tr>
           </tbody>
-        </table>   
+        </table>
     </div>
   </div>
   <div class="row px-2">
@@ -315,7 +315,7 @@
       </ul>
       <p class="text-justify">C’est pour répondre à ces besoins que le projet d’accélération de la mise à disposition de structures performantes en Afrique francophone sub-saharienne est proposé, avec l’objectif global de permettre la prise en charge efficace d' :</p>
       <ul>
-        <li>Au moins 30% des enfants  (soit environ 3 500 nouveaux cas/an) d’Afrique sub-saharienne atteints de cancers en 2020.</li>
+        <li>Au moins 30% des enfants (soit environ 3 500 nouveaux cas/an) d’Afrique sub-saharienne atteints de cancers en 2020.</li>
         <li>Au moins 60% (soit environ 7 000 cas/an) en 2025.</li>
       </ul>
     </div>

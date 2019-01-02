@@ -55,7 +55,7 @@
         Un fonds de soutien aux plus démunis a pu ainsi être mis en place au Mali et en Côte d’Ivoire afin d’assister matériellement les familles et commencer au plus vite le traitement pour donner aux enfants de meilleures chances de guérison.
         En cours de développement.
       </p>
-    </div>      
+    </div>
   </div>
   <div class="row py-2 text-center">
     <div class="col-12">

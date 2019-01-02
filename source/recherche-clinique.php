@@ -78,7 +78,7 @@
     <div class="col-12 col-md-3 cream rounded m-2 mr-md-auto">
       <h4 class="py-1">Comité Leucémie Aigue Lymphoblastique</h5>
       <h6>Coordinateur : Pr Guy Leverger</h6>
-      <h6>Expert : Guy Leverger (hôpital Armand Trousseau)</h6>
+      <h6>Expert : Guy Leverger (Hôpital Armand Trousseau)</h6>
       <h6>Membres : Françoise Aubier, M'hamed Harif (Casablanca), Boubacar Togo (Bamako), Mame Ndella DIOUF (Dakar), Angèle Pondy (Yaoundé), Mohamed Khattab (Rabat)</h6>
     </div>
   </div>
@@ -94,13 +94,13 @@
     </div>
     <div class="col-12 col-md-6">
       <p> Ainsi, pour les Burkitt et les néphroblastomes, deux études successives réalisées entre 2000 et 2009 indiquent les taux de survie suivants :</p>
-      <p>-  60% pour les Lymphomes de Burkitt (étude dirigée par le Professeur Catherine Patte de l’IGR et le Docteur Maria El Kababri de Rabat)</p>
-      <p>-  70% pour les néphroblastomes ou tumeurs du rein (étude dirigée par le Professeur Catherine Patte de l’IGR et le Professeur Claude Moreira de Dakar).</p>
-      <p>-  Pour la maladie de Hodgkin, la survie globale est de 82% dans notre étude 2006-2012 sur 89 cas.</p>
+      <p>- 60% pour les Lymphomes de Burkitt (étude dirigée par le Professeur Catherine Patte de l’IGR et le Docteur Maria El Kababri de Rabat)</p>
+      <p>- 70% pour les néphroblastomes ou tumeurs du rein (étude dirigée par le Professeur Catherine Patte de l’IGR et le Professeur Claude Moreira de Dakar).</p>
+      <p>Pour la maladie de Hodgkin, la survie globale est de 82% dans notre étude 2006-2012 sur 89 cas.</p>
     </div>
     <div class="col-12 col-md-6">
-      <p>-  Pour les leucémies lymphoblastiques aigües (LAL), la dernière étude menée par le GFAOP, avec l’expertise du professeur Guy Leverger de l’hôpital Armand Trousseau à Paris , montre en Afrique sub-saharienne un taux de survie sans maladie de 60% à la fin du traitement dont la durée totale est de deux ans.</p>
-      <p>-  Pour les rétinoblastomes, les résultats à Bamako, seule unité pilote pour laquelle nous ayons un peu de recul avec 112 cas observés depuis le lancement du programme en octobre 2011, comportent une augmentation des formes intraoculaires à 70% actuellement, avec plus de 90% de guérison. Ils comportent aussi un début des traitements conservateurs dans les formes bilatérales. Tous les enfants énucléés ont eu une prothèse.</p>
+      <p>Pour les leucémies lymphoblastiques aigües (LAL), la dernière étude menée par le GFAOP, avec l’expertise du professeur Guy Leverger de l’hôpital Armand Trousseau à Paris, montre en Afrique sub-saharienne un taux de survie sans maladie de 60% à la fin du traitement dont la durée totale est de deux ans.</p>
+      <p>Pour les rétinoblastomes, les résultats à Bamako, seule unité pilote pour laquelle nous ayons un peu de recul avec 112 cas observés depuis le lancement du programme en octobre 2011, comportent une augmentation des formes intraoculaires à 70% actuellement, avec plus de 90% de guérison. Ils comportent aussi un début des traitements conservateurs dans les formes bilatérales. Tous les enfants énucléés ont eu une prothèse.</p>
     </div>
     <div class="col-12 col-md-6">
       <img src="images/total_cas_declares.png" class="borderless rounded img-thumbnail" alt="graphique des totaux des cas declarés" >

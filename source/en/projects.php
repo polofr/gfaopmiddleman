@@ -94,7 +94,7 @@
             <li>It reduces treatment aggressiveness and therefore the risks of complications and late sequelae. Due to the rarity of each type of cancer encountered by children, early diagnosis requires a voluntarist action which must be structured and regularly repeated, after making sure that existing means allow rapid management from the first consultation, with the agreement and support of the health authorities of the country.
               Each unit of pediatric oncology must implement : 
               <ul>
-                <li>first, an information / training plan with signs revealing child cancers and how to deal with a suspicion of child cancer for staff at health centers, general hospitals and clinics</li>              
+                <li>first, an information / training plan with signs revealing child cancers and how to deal with a suspicion of child cancer for staff at health centers, general hospitals and clinics</li>
                 <li>then and only then an information program for the population (parents, especially mothers and traditional practitioners) on the signs of childhood cancers and on the way to behave (with the use of different media and the publication of an early diagnostic manual (similar to the one prepared for Morocco)</li>
                 <li>finally regular results presentation obtained by the units at various local, national and international medical meetings, in scientific journals and also in the press. These actions must be regularly repeated by all available means.</li>
               </ul>
@@ -136,7 +136,7 @@
             <li>To facilitate telecommunications within tumor committees between the participating units (for data transmission, meetings and data analysis)</li>
             <li>To facilitate exchanges (particularly of medical data for difficult cases) between the twinned units and services</li>
             <li>To allow the conduct of certain GFAOP's member meetings in addition to the physical meetings.</li>
-          </ul>          
+          </ul>
         </div>
       </div>
     </div>

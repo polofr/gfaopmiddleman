@@ -51,7 +51,7 @@
       <p>ABIDJAN Treichville Hospital
       <br/><small>Tumor Comitee</small></p>
       <h5><strong>Doctor Fousseyni TRAORE</strong></h5>
-      <p>BAMAKO Gabriel Touré Hospital  
+      <p>BAMAKO Gabriel Touré Hospital
       <br/><small>Tumor Comitee</small></p>
     </div>
     <div class="col-12 col-md-5 cream m-2 rounded p-3 mx-auto mr-md-auto">
@@ -100,7 +100,7 @@
       <br/><small>Pediatric Oncology ward</small></p>
       <h5><strong>Professor Jamila ELHOUDZI</strong></h5>
       <p>MAROC Mohammed VI Hospital in Marrakech
-      <br/><small>Pediatric Oncology ward</small></p>            
+      <br/><small>Pediatric Oncology ward</small></p>
     </div>
   </div>
 </div>

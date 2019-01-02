@@ -51,7 +51,7 @@
       <br/><small>Comité de Tumeurs</small></p>
       <h5><strong>Docteur Fousseyni TRAORE</strong></h5>
       <p>BAMAKO Hôpital Gabriel Touré
-      <br/><small>Comité de Tumeurs</small></p>      
+      <br/><small>Comité de Tumeurs</small></p>
     </div>
     <div class="col-12 col-md-5 cream m-2 rounded p-3 mx-auto mr-md-auto">
       <h5><strong>Docteur Line COUITCHERE</strong></h5>
@@ -98,7 +98,7 @@
       <br/><small>Service Oncologie Pédiatrique</small></p>
       <h5><strong>Professeur Jamila ELHOUDZI</strong></h5>
       <p>MAROC Hôpital Mohammed VI de Marrakech
-      <br/><small>Service Oncologie Pédiatrique</small></p>      
+      <br/><small>Service Oncologie Pédiatrique</small></p>
     </div>
   </div>
 </div>

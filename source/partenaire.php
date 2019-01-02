@@ -76,7 +76,7 @@
         <img src="images/logo_bmsf.jpg" class="borderless rounded img-thumbnail" width="300" alt="Fondation BMS" >
       </a>
       <h5>Fondation BMS</h5>
-    </div>    
+    </div>
   </div>
   <div class="row">
     <div class="col-md-2 text-center">
@@ -150,7 +150,7 @@
         <img src="images/logo_fondation_edf.jpeg" class="borderless rounded img-thumbnail" width="120" alt="Fondation EDF" >
       </a>
       <h5>Fondation EDF</h5>
-    </div>    
+    </div>
   </div>
   <div class="row">
     <div class="col-md-2 text-center">

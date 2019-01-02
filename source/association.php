@@ -78,7 +78,7 @@
       </div>
     </div>
     <div class="col-md-12 text-justify">
-      <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas »2ème édition , The American Cancer Society, 2014)
+      <small>* pour les 18 pays représentant 280 millions d’habitants (sur la base d’une incidence de 85 nouveaux cas/an/million d’enfants de moins de 15 ans, Cancer in Children, in «The Cancer Atlas » 2ème édition, The American Cancer Society, 2014)
       </small>
     </div>
   </div>

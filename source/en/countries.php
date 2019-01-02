@@ -77,7 +77,7 @@
       - Centre Mère and Enfant of the Chantal Biya Foundation, Yaoundé<br></p>
       <p>Country facts : 475 000 Km2, 23,8 millions inhabitants. PIB/hab:1407$, Health expenses/hab : 59 $ (4,2 %). 42,9% <15 ans, 850 to 950 new cancers/an for <15 ans (1050 to 1 150 in 2025).*</p>
       <p>Cases reported by units in 2016: 124 treated / 57 under GFAOP protocoles / 124 registered by data managers</p>
-      <p>Partner NGO : Caritas</p>      
+      <p>Partner NGO : Caritas</p>
     </div>
   </div>
   <div class="row cream rounded">
@@ -91,7 +91,7 @@
       - Pediatric Complexe in Bangui<br></p>
       <p>Country facts : 623 000 Km2, 5,4 millions inhabitants. PIB/hab : 358 $, Health expenses/hab : 16 $ (4,5 %). Bangui (800 000 habitants). 40,6% <15 ans, 160 to 200 new cancers/an for <15 ans (200 to 260 in 2025).* </p>
       <p>Cases reported by units in 2016: 42 treated / 30 under GFAOP protocoles / 0 registered by data managers</p>
-      <p>Partner NGO : Bout-Dilat</p>      
+      <p>Partner NGO : Bout-Dilat</p>
     </div>
   </div>
   <div class="row">
@@ -115,7 +115,7 @@
       <h2><b>CONGO RDC</b></h2>
       <p>Accession to the GFAOP in 2009<br><br>
       <b>Dr Robert LUKAMBA</b> (robert.lukamba@gfaop.org) <br>
-      -  University clinics of Lubumbashi<br></p>
+      - University clinics of Lubumbashi<br></p>
       <p>Country facts : 2,345 million Km2, 79,4 millions inhabitants. PIB/hab : 442 $, Health expenses/hab : 12 $ (2,7%). 43,1% <15 ans, 2 500 to 3 000 new cancers/an for <15 ans (3 250 to 3 900 in 2025).* </p>
       <p>Cases reported by units in 2016: 44 treated / 25 under GFAOP protocoles / 47 registered by data managers</p>
       <p>Partner NGO : Gabriella Pour la Vue</p>
@@ -129,12 +129,12 @@
     <div class="col-12 col-md-8 p-3">
       <h2><b>CONGO RDC KINSHASA</b></h2>
       <p>Accession to the GFAOP in 2015, opening in 2016<br><br>
-      <b>Pr Jean Lambert Gini</b> (giniehungu@gmail.com) <br>
-      <b>Dr Aleine Budiongo</b> (albudiongo@gmail.com)  <br>            
+      <b>Pr Jean Lambert Gini</b> (giniehungu@gmail.com)<br>
+      <b>Dr Aleine Budiongo</b> (albudiongo@gmail.com)<br>
       - University clinics of Kinshasa<br></p>
       <p>Country facts : 2,345 million Km2, 79,4 millions inhabitants. PIB/hab : 442 $, Health expenses/hab : 12 $ (2,7%). 43,1% <15 ans, 2 500 to 3 000 new cancers/an for <15 ans (3 250 to 3 900 in 2025).* </p>
       <p>Cases reported by units in 2016: 59 treated / 41 under GFAOP protocoles / 0 registered by data managers</p>
-      <p>Partner NGO : Les Jeannots</p>      
+      <p>Partner NGO : Les Jeannots</p>
     </div>
   </div>
   <div class="row cream rounded">
@@ -147,9 +147,9 @@
       <b>Dr Line COUITCHERE</b> (line.couitchere@gmail.com) <br>
       <b>Dr Jean Jacques ATTEBY YAO</b> (attebyjj@yahoo.fr) <br>
       - Treichville hospital, Abidjan<br></p>
-      <p>Country facts : 322000Km2 , 23,3 millions inhabitants. PIB/hab:1545$, Health expenses/hab : 88 $ (5,6 %). Abidjan (4,7 million hab). 38,4% <15 ans, 700 to 800 new cancers/an for <15 ans (900 to 1 000 in 2025).*</p>
+      <p>Country facts : 322000Km2, 23,3 millions inhabitants. PIB/hab:1545$, Health expenses/hab : 88 $ (5,6 %). Abidjan (4,7 million hab). 38,4% <15 ans, 700 to 800 new cancers/an for <15 ans (900 to 1 000 in 2025).*</p>
       <p>Cases reported by units in 2016: 226 treated / 83 under GFAOP protocoles / 124 registered by data managers</p>
-      <p>Partner NGOs : Soleterre, AEC</p>   
+      <p>Partner NGOs : Soleterre, AEC</p>
       <p>Their movie : <a href="https://youtu.be/fRymui0Svd8" target="_blank">https://youtu.be/fRymui0Svd8</a></p>
     </div>
   </div>
@@ -162,7 +162,7 @@
       <p>Accession to the GFAOP in 2013, opening in 2017<br><br>
       <b>Pr Mamadou PATHÉ Diallo</b> (bapathediallo@yahoo.fr) <br>
       - University hospital, Donka<br></p>
-      <p>Country facts : 246 000 Km2 , 11,8 millions inhabitants. PIB/hab : 539 $, Health expenses/hab : 30 $ (5,5 %). 42% <15 ans, 375 to 425 new cancers/an for <15 ans (475 to 525 in 2025).* </p>
+      <p>Country facts : 246 000 Km2, 11,8 millions inhabitants. PIB/hab : 539 $, Health expenses/hab : 30 $ (5,5 %). 42% <15 ans, 375 to 425 new cancers/an for <15 ans (475 to 525 in 2025).* </p>
     </div>
   </div>
   <div class="row cream rounded">
@@ -180,7 +180,7 @@
       - HUMET (University Hospital Mère Enfant in Tsaralalana)</P>
       <p>Country facts : 587 000 km2, 23,8 millions inhabitants. PIB/hab : 450 $, Health expenses/hab : 14 $ (3%). Antananarivo (2,2 millions hab). 40,7% <15ans, 750 to 850 new cancers/an for <15 ans (950 to 1 050 in 2025).*</p>
       <p>Cases reported by units in 2016: 90 treated / 44 under GFAOP protocoles / 6 registered by data managers</p>
-      <p>Partner NGO : ANYMA</p>      
+      <p>Partner NGO : ANYMA</p>
     </div>
   </div>
   <div class="row">
@@ -270,7 +270,7 @@
       <p>Country facts : 1,267 million Km2 and 18 millions inhabitants. PIB/hab : 427 $, Health expenses/hab : 24 $ (5,6 %). 49,8% <15 ans, 650 to 750 new cancers/an for <15 ans (900 to 1 000 in 2025).*</p>
       <p>Cases reported by units in 2016: 98 treated / 49 under GFAOP protocoles / 89 registered by data managers</p>
       <p>Partner NGOs : APSA, Association pour la santé en Afrique, CONIF</p>  
-      <p>Their movie : <a href="https://youtu.be/f5xxR0yytJw" target="_blank">https://youtu.be/f5xxR0yytJw</a></p>          
+      <p>Their movie : <a href="https://youtu.be/f5xxR0yytJw" target="_blank">https://youtu.be/f5xxR0yytJw</a></p>
     </div>
   </div>  
   <div class="row">
@@ -287,7 +287,7 @@
       <p>Cases reported by units in 2016: 189 treated / 115 under GFAOP protocoles / 133 registered by data managers</p>
       <p>Partner NGOs : Association En-Vie, Association Lueur d’Espoir, Association Soleterre, Fondation Anne-Marie Dione, Fondation Total Sénégal</p>
       <p>Their movie directed by the Cognac Jay Foundation : <a href="https://www.facebook.com/solidarum/videos/1632154573744079/" target="_blank">https://www.facebook.com/solidarum/videos/1632154573744079/</a></p>
-    </div>    
+    </div>
   </div>
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
@@ -604,7 +604,7 @@
               <td class="text-center">0</td>
             </tr>
           </tbody>
-        </table>   
+        </table>
     </div>
   </div>
   <div class="row px-2">
@@ -622,7 +622,7 @@
         <li>At least 30% of children (or about 3,500 new cases / year) in sub-Saharan Africa with cancer by 2020.</li>
         <li>At least 60% (about 7 000 cases / year) in 2025.</li>
       </ul>
-    </div>    
+    </div>
   </div>
 </div>
 

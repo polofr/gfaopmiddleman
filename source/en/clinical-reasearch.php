@@ -79,7 +79,7 @@
     <div class="col-12 col-md-3 cream rounded m-2 mr-md-auto">
       <h4 class="py-1">Leukemia Acute Lymphoblastic Committee</h5>
       <h6>Coordinateur : Pr Guy Leverger</h6>
-      <h6>Expert : Guy Leverger (hôpital Armand Trousseau)</h6>
+      <h6>Expert : Guy Leverger (Armand Trousseau hospital)</h6>
       <h6>Members : Françoise Aubier, M'hamed Harif (Casablanca), Boubacar Togo (Bamako), Mame Ndella DIOUF (Dakar), Angèle Pondy (Yaoundé), Mohamed Khattab (Rabat)</h6>
     </div>
   </div>
