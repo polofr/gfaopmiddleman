@@ -10,7 +10,7 @@
 </div>
 <div class="container">
   <div class="row mx-auto text-justify py-3">
-    Le GFAOP a démontré que, même en Afrique, on pouvait faire de la recherche clinique de manière prospective et multicentrique. Ce sont les 5 comités de tumeurs, un pour chaque type de cancer pris en charge qui gèrent les études cliniques et les adaptations des protocoles de soin.
+    Le GFAOP a démontré que, même en Afrique, on pouvait faire de la recherche clinique de manière prospective et multicentrique. 5 comités de tumeurs, un pour chaque type de cancer pris en charge, gèrent les études cliniques et les adaptations des protocoles de soin.
     Des attachés de recherche clinique (ARC) collectent les données qui sont analysées et centralisées à Gustave Roussy.
   </div>
   <div class="row mx-auto text-justify py-3">
@@ -19,7 +19,7 @@
   <div class="row">
     <div class="col-12 col-md-6 text-justify">
       Il y a 5 types de cancer qui sont traités sous protocole GFAOP.
-      Ils représentent environ 70 % des cancers locaux et sont de bon pronostic quand ils sont traités suffisamment tôt :
+      Ils représentent environ 70 % des cancers locaux et ont un bon pronostic de guérison quand ils sont traités suffisamment tôt :
       <ul class="mx-auto">
         <li>Le néphroblastomes (cancer du rein)</li>
         <li>Le rétinoblastome (cancer de l’œil)</li>
