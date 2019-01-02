@@ -14,7 +14,7 @@
     Clinical researchers collect data that is analyzed and centralized in Gustave Roussy.
   </div>
   <div class="row mx-auto text-justify py-3">
-    The objective of this medical research program is also to improve knowledge of pediatric cancers in French-speaking Africa : observed incidence of pediatric cancers in pilot units, comorbidities, feasibility of treatments, particular tolerance, treatment efficacy (survival rate, relapse cause, death cause, reasons for non-compliance with treatments, etc.). 
+    The objective of this medical research program is also to improve knowledge of pediatric cancers in French-speaking Africa : observed incidence of pediatric cancers in pilot units, comorbidities, feasibility of treatments, particular tolerance, treatment efficacy (survival rate, relapse cause, death cause, reasons for non-compliance with treatments, etc).
   </div>
   <div class="row">
     <div class="col-12 col-md-6 text-justify">
@@ -71,14 +71,14 @@
   </div>
   <div class="row text-center">
     <div class="col-12 col-md-3 cream rounded m-2 ml-md-auto">
-      <h4 class="py-1">Hodgkin lymphoma committee</h5>
+      <h4 class="py-1">Hodgkin Lymphoma Committee</h5>
       <h6>Coordinator :  Fatou Binetou Akonde (Dakar), Faten Fedilha (Tunis)</h6>
       <h6>Expert : Odile Oberlin</h6>
-      <h6>Membres : Laila Hessissen (Rabat), Anissa Trabzi (Alger), Sarra Benmiloud (Fès), Samar Rhayem (Tunis)</h6>
+      <h6>Members : Laila Hessissen (Rabat), Anissa Trabzi (Alger), Sarra Benmiloud (Fès), Samar Rhayem (Tunis)</h6>
     </div>
     <div class="col-12 col-md-3 cream rounded m-2 mr-md-auto">
       <h4 class="py-1">Leukemia Acute Lymphoblastic Committee</h5>
-      <h6>Coordinateur : Pr Guy Leverger</h6>
+      <h6>Coordinator : Pr Guy Leverger</h6>
       <h6>Expert : Guy Leverger (Armand Trousseau hospital)</h6>
       <h6>Members : Françoise Aubier, M'hamed Harif (Casablanca), Boubacar Togo (Bamako), Mame Ndella DIOUF (Dakar), Angèle Pondy (Yaoundé), Mohamed Khattab (Rabat)</h6>
     </div>

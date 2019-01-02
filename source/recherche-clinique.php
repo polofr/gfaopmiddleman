@@ -14,7 +14,7 @@
     Des attachés de recherche clinique (ARC) collectent les données qui sont analysées et centralisées à Gustave Roussy.
   </div>
   <div class="row mx-auto text-justify py-3">
-    Ce programme de recherche médicale a aussi pour objectif l’amélioration des connaissances sur les cancers pédiatriques en Afrique francophone: incidence observée des cancers pédiatriques dans les unités pilotes, comorbidités, faisabilité des traitements en particulier leur tolérance, efficacité des traitements (taux de survie, causes de rechutes, cause de décès, raisons de non compliance aux traitements, etc..). 
+    Ce programme de recherche médicale a aussi pour objectif l’amélioration des connaissances sur les cancers pédiatriques en Afrique francophone: incidence observée des cancers pédiatriques dans les unités pilotes, comorbidités, faisabilité des traitements en particulier leur tolérance, efficacité des traitements (taux de survie, causes de rechutes, cause de décès, raisons de non compliance aux traitements, etc).
   </div>
   <div class="row">
     <div class="col-12 col-md-6 text-justify">

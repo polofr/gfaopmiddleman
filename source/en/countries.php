@@ -21,7 +21,7 @@
 <div class="container">
   <div class="row cream rounded">
     <div class="col-12 col-md-4 text-center">
-      <img src="../images/algerie.png" class="borderless rounded img-thumbnail" width="300" alt="enfants regardant la télévision dans un hôpital" >
+      <img src="../images/algerie.png" class="borderless rounded img-thumbnail" width="300" alt="children watching TV in hospital" >
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>ALGERIA</b></h2>
@@ -32,7 +32,7 @@
       - Pierre and Marie Curie Centre, Alger<br>
       <p>The unit offers several treatment centers in Algiers and Beni Messous but there are also other possibilities for treating childhood cancers in the country.</p>
       <p>Country facts : 2 400 000 Km2, 40 millions inhabitants, PIB/hab : 5 484 $, Health expenses/hab : 362 $ (6,6 %). 28,7% <15 ans, 1 200 to 1 300 new cancers/an for les <15 ans (1 350 to 1 450 in 2025).*</p>
-      <p>Cases reported by units in 2016: 272 treated / 79 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 272 treated / 79 under GFAOP protocols / 0 registered by data managers</p>
     </div>
   </div>
   <div class="row">
@@ -62,7 +62,7 @@
       - Charles de Gaulle hospital, Ouagadougou<br></p>
       <p>The unit is spread out over 2 centres.</p>
       <p>Country facts : 274 000 Km2, 18,3 millions inhabitants. PIB/hab : 713 $, Health expenses/hab : 35 $ (4,9 %). Ouagadougou (1,6 million hab). 45,4% <15 ans, 650 to 750 new cancers/an for <15 ans (850 to 950 in 2025).*</p>
-      <p>Cases reported by units in 2016: 189 treated / 138 under GFAOP protocoles / 204 registered by data managers</p>
+      <p>Cases reported by units in 2016: 189 treated / 138 under GFAOP protocols / 204 registered by data managers</p>
       <p>Partner NGOs : ACCIB and Flamme d’Espoir</p>
     </div>
   </div>
@@ -76,7 +76,7 @@
       <b>Dr Angèle PONDY</b> (pondyangele@yahoo.fr) <br>
       - Centre Mère and Enfant of the Chantal Biya Foundation, Yaoundé<br></p>
       <p>Country facts : 475 000 Km2, 23,8 millions inhabitants. PIB/hab:1407$, Health expenses/hab : 59 $ (4,2 %). 42,9% <15 ans, 850 to 950 new cancers/an for <15 ans (1050 to 1 150 in 2025).*</p>
-      <p>Cases reported by units in 2016: 124 treated / 57 under GFAOP protocoles / 124 registered by data managers</p>
+      <p>Cases reported by units in 2016: 124 treated / 57 under GFAOP protocols / 124 registered by data managers</p>
       <p>Partner NGO : Caritas</p>
     </div>
   </div>
@@ -86,11 +86,11 @@
     </div>
     <div class="col-12 col-md-8 p-3">
       <h2><b>CENTRAFRICAN REPUBLIC</b></h2>
-      <p>Accession to the GFAOP in 2015, fonctionnelle en 2016<br>
+      <p>Accession to the GFAOP in 2015, functional in 2016<br>
       <b>Dr Jess Elio Kosh Comba</b> (koshkomba@gmail.com) <br>
       - Pediatric Complexe in Bangui<br></p>
       <p>Country facts : 623 000 Km2, 5,4 millions inhabitants. PIB/hab : 358 $, Health expenses/hab : 16 $ (4,5 %). Bangui (800 000 habitants). 40,6% <15 ans, 160 to 200 new cancers/an for <15 ans (200 to 260 in 2025).* </p>
-      <p>Cases reported by units in 2016: 42 treated / 30 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 42 treated / 30 under GFAOP protocols / 0 registered by data managers</p>
       <p>Partner NGO : Bout-Dilat</p>
     </div>
   </div>
@@ -103,7 +103,7 @@
       <p>Accession to the GFAOP in 2017<br><br>
       <b>Dr Alda-Stevy NSIMBA-MAKOUANZI</b> (stevymakouanzi242@gmail.com)  <br>
       <p>Country facts : 342 000 Km2, 4.8 millions inhabitants. PIB/hab : 3147 $, Health expenses/hab : 162 $ (5,1 %). 41,1% <15 ans, 150 to 170 new cancers/an for <15 ans (200 to 230 in 2025).*</p>
-      <p>Cases reported by units in 2016: 189 treated / 138 under GFAOP protocoles / 204 registered by data managers</p>
+      <p>Cases reported by units in 2016: 189 treated / 138 under GFAOP protocols / 204 registered by data managers</p>
       <p>Partner NGO : Calissa Ikama Foundation</p>
     </div>
   </div>
@@ -117,7 +117,7 @@
       <b>Dr Robert LUKAMBA</b> (robert.lukamba@gfaop.org) <br>
       - University clinics of Lubumbashi<br></p>
       <p>Country facts : 2,345 million Km2, 79,4 millions inhabitants. PIB/hab : 442 $, Health expenses/hab : 12 $ (2,7%). 43,1% <15 ans, 2 500 to 3 000 new cancers/an for <15 ans (3 250 to 3 900 in 2025).* </p>
-      <p>Cases reported by units in 2016: 44 treated / 25 under GFAOP protocoles / 47 registered by data managers</p>
+      <p>Cases reported by units in 2016: 44 treated / 25 under GFAOP protocols / 47 registered by data managers</p>
       <p>Partner NGO : Gabriella Pour la Vue</p>
       <p>Their movie : <a href="https://youtu.be/u9A4gZf7hk8" target="_blank">https://youtu.be/u9A4gZf7hk8</a></p>
     </div>
@@ -133,7 +133,7 @@
       <b>Dr Aleine Budiongo</b> (albudiongo@gmail.com)<br>
       - University clinics of Kinshasa<br></p>
       <p>Country facts : 2,345 million Km2, 79,4 millions inhabitants. PIB/hab : 442 $, Health expenses/hab : 12 $ (2,7%). 43,1% <15 ans, 2 500 to 3 000 new cancers/an for <15 ans (3 250 to 3 900 in 2025).* </p>
-      <p>Cases reported by units in 2016: 59 treated / 41 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 59 treated / 41 under GFAOP protocols / 0 registered by data managers</p>
       <p>Partner NGO : Les Jeannots</p>
     </div>
   </div>
@@ -148,7 +148,7 @@
       <b>Dr Jean Jacques ATTEBY YAO</b> (attebyjj@yahoo.fr) <br>
       - Treichville hospital, Abidjan<br></p>
       <p>Country facts : 322000Km2, 23,3 millions inhabitants. PIB/hab:1545$, Health expenses/hab : 88 $ (5,6 %). Abidjan (4,7 million hab). 38,4% <15 ans, 700 to 800 new cancers/an for <15 ans (900 to 1 000 in 2025).*</p>
-      <p>Cases reported by units in 2016: 226 treated / 83 under GFAOP protocoles / 124 registered by data managers</p>
+      <p>Cases reported by units in 2016: 226 treated / 83 under GFAOP protocols / 124 registered by data managers</p>
       <p>Partner NGOs : Soleterre, AEC</p>
       <p>Their movie : <a href="https://youtu.be/fRymui0Svd8" target="_blank">https://youtu.be/fRymui0Svd8</a></p>
     </div>
@@ -178,8 +178,8 @@
       <p>- HJRA (Joseph Ravoa- hangy Andrianavalona Hospital)<br>
       - HJRB (Joseph Raseta Befelatanana Hospital)<br>
       - HUMET (University Hospital Mère Enfant in Tsaralalana)</P>
-      <p>Country facts : 587 000 km2, 23,8 millions inhabitants. PIB/hab : 450 $, Health expenses/hab : 14 $ (3%). Antananarivo (2,2 millions hab). 40,7% <15ans, 750 to 850 new cancers/an for <15 ans (950 to 1 050 in 2025).*</p>
-      <p>Cases reported by units in 2016: 90 treated / 44 under GFAOP protocoles / 6 registered by data managers</p>
+      <p>Country facts : 587 000 km2, 23,8 millions inhabitants. PIB/hab : 450 $, Health expenses/hab : 14 $ (3%). Antananarivo (2,2 millions hab). 40,7% <15 ans, 750 to 850 new cancers/an for <15 ans (950 to 1 050 in 2025).*</p>
+      <p>Cases reported by units in 2016: 90 treated / 44 under GFAOP protocols / 6 registered by data managers</p>
       <p>Partner NGO : ANYMA</p>
     </div>
   </div>
@@ -193,8 +193,8 @@
       <b>Pr Boubacar TOGO</b> (togoboubacar2000@yahoo.fr) <br>
       <b>Dr Fousseyni TRAORE</b> (drfousseynitraore@gmail.com) <br>
       - Gabriel Touré Hospital, Bamako<br></p>
-      <p>Country facts : 1,240 million Km2, 17 millions inhabitants, Bamako (3 millions hab). PIB/hab : 704 $, Health expenses/hab : 48$ (6,8%). 47,6% < 15ans, 600 to 700 new cancers/an for <15 ans (800 to 900 in 2025).*</p>
-      <p>Cases reported by units in 2016: 128 treated / 101 under GFAOP protocoles / 94 registered by data managers</p>
+      <p>Country facts : 1,240 million Km2, 17 millions inhabitants, Bamako (3 millions hab). PIB/hab : 704 $, Health expenses/hab : 48$ (6,8%). 47,6% < 15 ans, 600 to 700 new cancers/an for <15 ans (800 to 900 in 2025).*</p>
+      <p>Cases reported by units in 2016: 128 treated / 101 under GFAOP protocols / 94 registered by data managers</p>
       <p>Partner NGOs : AMSCID and AMSEC</p>
     </div>
   </div>
@@ -208,7 +208,7 @@
       <b>Dr Bénina ZEIN</b> (ekhtelbenina@gmail.com) <br>
       - National Hospital Center, Nouakchott<br></p>
       <p>Country facts : 1,026 million Km2 and 3,6 millions inhabitants. PIB/hab : 1 275 $, Health expenses/hab : 49 $ (3,8 %). Nouakchott : 800 000. 39,5% <15 ans, 110 to 130 new cancers/an for <15 ans (140 to 170 in 2025).*</p>
-      <p>Cases reported by units in 2016: 48 treated / 21 under GFAOP protocoles / 27 registered by data managers</p>
+      <p>Cases reported by units in 2016: 48 treated / 21 under GFAOP protocols / 27 registered by data managers</p>
     </div>
   </div>
   <div class="row">
@@ -220,7 +220,7 @@
       <h4>CASABLANCA</h4><br>
       <b>Pr Abdellah MADANI</b> (madani.hemato@gmail.com) <br>
       - Casablanca hospital (MHamed), Cheikh Khalifa Hospital<br>
-      <p>Cases reported by units in 2016: 162 treated / 78 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 162 treated / 78 under GFAOP protocols / 0 registered by data managers</p>
     </div>
   </div>
   <div class="row">
@@ -232,7 +232,7 @@
       <b>Pr Mhammed KHATTAB</b> (khattabmoh@yahoo.fr) <br>
       <b>Dr Laïla HESSISSEN</b> (laila_hsn@yahoo.fr) <br>
       - Children hospital of Rabat<br>
-      <p>Cases reported by units in 2016: 273 treated / 123 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 273 treated / 123 under GFAOP protocols / 0 registered by data managers</p>
     </div>
   </div>
   <div class="row">
@@ -243,7 +243,7 @@
       <h4>MARRAKECH</h4><br>
       <b>Professeur Jamila ELHOUDZI</b> (jelhoudzi@gmail.com) <br>
       - Mohammed VI Hospital<br>
-      <p>Cases reported by units in 2016: 104 treated / 50 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 104 treated / 50 under GFAOP protocols / 0 registered by data managers</p>
     </div>
   </div>
   <div class="row">
@@ -254,7 +254,7 @@
       <h4>FÈS</h4><br>
       <b>Dr Sarra Benmiloud</b> (benmiloudsarra@yahoo.fr) <br>
       -Hassan II Hospital<br>
-      <p>Cases reported by units in 2016: 125 treated / 66 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 125 treated / 66 under GFAOP protocols / 0 registered by data managers</p>
     </div>
   </div>
   <div class="row cream rounded">
@@ -268,7 +268,7 @@
       <b>Dr ADAMOU BOUBACAR Sahadatou</b> (labosahadatou@yahoo.fr) <br>
       - National Hospital of Niamey</p>
       <p>Country facts : 1,267 million Km2 and 18 millions inhabitants. PIB/hab : 427 $, Health expenses/hab : 24 $ (5,6 %). 49,8% <15 ans, 650 to 750 new cancers/an for <15 ans (900 to 1 000 in 2025).*</p>
-      <p>Cases reported by units in 2016: 98 treated / 49 under GFAOP protocoles / 89 registered by data managers</p>
+      <p>Cases reported by units in 2016: 98 treated / 49 under GFAOP protocols / 89 registered by data managers</p>
       <p>Partner NGOs : APSA, Association pour la santé en Afrique, CONIF</p>  
       <p>Their movie : <a href="https://youtu.be/f5xxR0yytJw" target="_blank">https://youtu.be/f5xxR0yytJw</a></p>
     </div>
@@ -284,7 +284,7 @@
       <b>Dr Fatou Binétou DIAGNE</b> (fabakonde@gmail.com) <br>
       - Aristide le Dantec Hospital, Dakar</p>
       <p>Country facts : 197 000 Km2 and 14 millions inhabitants. PIB/hab : 1 067 $, Health expenses/hab : 50 $ (4,7 %). Dakar (3 millions dans la métropole). 42,5% <15 ans, 550 to 650 nouveaux cas de cancers/an for <15 ans (700 to 800 in 2025).*</p>
-      <p>Cases reported by units in 2016: 189 treated / 115 under GFAOP protocoles / 133 registered by data managers</p>
+      <p>Cases reported by units in 2016: 189 treated / 115 under GFAOP protocols / 133 registered by data managers</p>
       <p>Partner NGOs : Association En-Vie, Association Lueur d’Espoir, Association Soleterre, Fondation Anne-Marie Dione, Fondation Total Sénégal</p>
       <p>Their movie directed by the Cognac Jay Foundation : <a href="https://www.facebook.com/solidarum/videos/1632154573744079/" target="_blank">https://www.facebook.com/solidarum/videos/1632154573744079/</a></p>
     </div>
@@ -300,7 +300,7 @@
       <b>Dr Jules GUÉDÉNON</b> (julesblack@yahoo.fr) <br><br>
       - Sylvanus Olympio Hospital, Lomé</p>
       <p>Country facts: 56600Km2 and 7,5 millions inhabitants. PIB/hab:635$, Health expenses/hab : 34 $ (5,3 %). Lomé (1 million hab). 40,7% <15 ans, 260 to 340 new cancers/an for <15 ans (340 to 440 in 2025).*</p>
-      <p>Cases reported by units in 2016: 45 treated / 31 under GFAOP protocoles / 0 registered by data managers</p>
+      <p>Cases reported by units in 2016: 45 treated / 31 under GFAOP protocols / 0 registered by data managers</p>
       <p>Partner NGO : Victoir</p>
     </div>
   </div>
@@ -315,7 +315,7 @@
       <b>Pr Fatem Fedhila</b> (faten.fedhila@rns.tn) <br>
       - Children Hospital of Tunis</p>
       <p>Country facts : 164 000 Km2, 11 millions inhabitants, PIB/hab : 4 420 $, Health expenses/hab : 305 $ (6,9 %). 23% <15 ans, 275 to 350 new cancers/an for <15 ans (310 to 390 in 2025).*</p>
-      <p>Cases reported by units in 2016: 62 treated / 25 under GFAOP protocoles / 47 registered by data managers</p>
+      <p>Cases reported by units in 2016: 62 treated / 25 under GFAOP protocols / 47 registered by data managers</p>
       <p>Partner NGO : Victoir</p>
     </div>
   </div>
@@ -519,8 +519,8 @@
           <thead class="thead-default">
             <tr class="py-1">
               <th class="p-1">Maghreb Unit</th>
-              <th class="text-center">Declared cases according GFAOP's protocole</th>
-              <th class="text-center">Declared cases outside GFAOP's protocole</th>
+              <th class="text-center">Declared cases according GFAOP's protocol</th>
+              <th class="text-center">Declared cases outside GFAOP's protocol</th>
               <th class="text-center">Total</th>
               <th class="text-center">Total of registered cases in 2016</th>
             </tr>

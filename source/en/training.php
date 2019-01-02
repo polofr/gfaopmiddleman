@@ -12,11 +12,11 @@
 <div class="container">
   <div class="row mx-auto text-justify py-3">
     The aim is to train medical and paramedical personnel to care for sick children locally.
-    Over 15 years, more than 450 African doctors and nurses have been trained in pediatric oncology through the GFAOP in the leading cancer services.<br>
-    In addition to pediatric oncologists training, other medical specialists (surgeons, pathologists, ophthalmologists, radiotherapists...) and nurses also benefit from training related to pediatric oncology.<br>
+    Over 18 years, more than 450 African doctors and nurses have been trained in pediatric oncology through the GFAOP in the leading cancer services.<br>
+    In addition to pediatric oncologists, other medical specialists (surgeons, pathologists, ophthalmologists, radiotherapists...) and nurses also benefit from training related to pediatric oncology.<br>
     This is the main expense item of the association.
     Nevertheless, only 10% of children with cancer will be able to reach the specialized centers, an important awareness-raising work is under way.
-    In order to accommodate a growing number of children, it is essential to increase the training capacities of the staff and the bridging skills by a training plan taking into account the needs of each country (centralized and decentralized training).
+    In order to accommodate a growing number of children, it is essential to increase the training capacities of the staff and bridging skills by a training plan taking into account the needs of each country (centralized and decentralized training).
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
@@ -42,8 +42,8 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training sessions for pediatric oncology for nursing staff</h3>
-      The school trains 20 to 30 practitioners every year during sessions in various specialties (paediatrics, surgery, nursing, etc.). 
-      It also promotes interdisciplinary work to improve the hanling of the condition.
+      The school trains 20 to 30 practitioners every year during sessions in various specialties (paediatrics, surgery, nursing...).
+      It also promotes interdisciplinary work to improve the handling of the condition.
     </div>
   </div>
     <div class="row text-justify">
@@ -70,12 +70,12 @@
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training of unit managers</h3>
-      The GFAOP assists unit managers in acquiring postgraduate degrees such as the Doctorate of Science enabling them to evolve in the hierarchy of their institutions. Climbing the African Hospital Administration ladder is a guarantee of the promotion of African Pediatric Oncology.
+      The GFAOP assists unit managers in acquiring postgraduate degrees such as the Doctorate of Science enabling them to evolve in the hierarchy of their institutions. Climbing the African Hospital Administration ladder is a guarantee of the promotion of African pediatric oncology.
     </div>
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
+      <img src="../images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="Pilot Units managers in training" >
     </div>
     <div class="col-md-9 col-12 py-3">  
       <h3>• Training for new pediatric oncology unit openings</h3>
@@ -84,7 +84,7 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
+      <img src="../images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="Pilot Units managers in training" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Training in the Pilot Units</h3>
@@ -102,10 +102,10 @@
   </div>
   <div class="row text-justify">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
+      <img src="../images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 nurses" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• La formation infirmière</h3>
+      <h3>• Nurse training</h3>
         Although training has benefited 85 nurses from 13 countries over the past 18 years, these training courses are still insufficient in number and quality.
         Significant progress has been made in the treatment of pediatric cancers, but nursing remains a weak point for child care. 
         However, progress is essential for rigorous implementation and monitoring of treatments. 
@@ -156,7 +156,7 @@
   </div>
   <div class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
-      <img src="../images/actioninfirmiere.png" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
+      <img src="../images/actioninfirmiere.png" class="borderless rounded img-thumbnail" width="600" alt="2 nurses" >
     </div>
     <div class="col-md-9 col-12 py-3">
       <h3>• Nursing education</h3>
@@ -173,7 +173,7 @@
       The anatomopathology specialty is essential to confirm the clinical diagnosis of cancer patients. 
       Laboratory histological examinations, samples taken from diseased organs are used to guide the choice of treatment protocols offering the best success rates. 
       An uncertain pathology reduces the chances of success and causes precious time loss by administering expensive but inappropriate medications. 
-      Therapy for childhood cancers can be compared with a war of rapid movements. The fastest the administration of fair treatment, the greater the chances of survival of the child.
+      Therapy for childhood cancers can be compared with a war of rapid movements. The faster the administration of fair treatment, the greater the chances of survival of the child.
     </div>
   </div>
   <div class="row text-center py-2">

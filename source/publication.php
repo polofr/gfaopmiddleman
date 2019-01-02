@@ -83,7 +83,7 @@
         <h5>Formation d’infirmiers éducateurs africains dans le cadre du GFAOP (Groupe franco-africain d’oncologie pédiatrique)</h5>
         <h5>Training of nurse educators in the French-African Group of Pediatric Oncology</h5>
         <h6>Infirmiers éducateurs, Formation, GFAOP (Groupe franco-africain d’oncologie pédiatrique), École africaine d’oncologie pédiatrique
-        S. Monneta, C. Thinlotb, M.-S. Dou ̧cotc, Z. Hamdoudd, C. Pattee,
+        S. Monneta, C. Thinlotb, M.-S. Douçot, Z. Hamdoudd, C. Pattee
         </h6>
       </div>
     </div>

@@ -59,7 +59,7 @@
       </div>
       <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
         <div class="card-block">
-          <h5>PROJET : in 2017 at least 40 onco-pediatricians and other specialists essential to the management of cancer (surgeons, pathologists, radiotherapists...)</h5>
+          <h5>PROJECT : in 2017 at least 40 onco-pediatricians and other specialists essential to the management of cancer (surgeons, pathologists, radiotherapists...)</h5>
           <ul>
             <li>Training in the center in Morocco</li>
             <li>Internships in France</li>
@@ -67,7 +67,7 @@
             <li>Collegial training</li>
             <li>Internships and trainings in France for certain specialties</li>
           </ul>
-          <h5>PROJET : At least 50 nurses in 2017 and 2018</h5>
+          <h5>PROJECT : At least 50 nurses in 2017 and 2018</h5>
           <ul>
             <li>General training</li>
             <li>«Pain and palliative care» training</li>
@@ -151,10 +151,10 @@
       </div>
       <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
         <div class="card-block">
-          <h5>PROJET: open 3 to 4 houses in 2017-2018, and 4 others by 2020. Eight houses to be opened within five years, each time supported and managed by a local association.</h5>
+          <h5>PROJECT: open 3 to 4 houses in 2017-2018, and 4 others by 2020. Eight houses to be opened within five years, each time supported and managed by a local association.</h5>
           <p class="text-justify">At the hospital, living conditions are difficult, children are often several per room, accompanied by a relative who lives on the spot, sleeping on the ground or outside in the hospital garden. The family must ensure the patient's meals. Some children stay in the hospital between 2 chemotherapy cures (the treatment lasts between 3 months and 6 months) because returning to the village is too far, too expensive (the cancer services are installed in capitals and many children come from isolated agricultural regions). 
             In order to prevent hospitals from being overloaded with children and to allow beds to be used more effectively for children undergoing treatment, the GFAOP wants to set up Parents' Homes. 
-            These "Parents' Homes" close to each unit are non-medical supplements of the Pediatric Oncology Service, where children can live and rebuild themsleves between the chemotherapy cures.
+            These "Parents' Homes" close to each unit are non-medical supplements of the Pediatric Oncology Service, where children can live and rebuild themselves between the chemotherapy cures.
           </p>
         </div>
       </div>

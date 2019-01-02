@@ -40,12 +40,12 @@
     </div>
     <div class="col-md-9 text-justify">
       For financial reasons, families stay on site during intercurations, either in the hospital (in which case there are no beds for new patients) or around the hospital in miserable conditions. 
-      Sometimes families decide to return to the village but many have neither the courage nor the means to go back to the hospital. Many children are said to be "lost to sight" 
-      These "Parents Home" are designed to receive these children and a member of their family throughout the treatment, thus limiting the drop-outs during treatment and offering a real improvement in living conditions families.
-      In Sub-Saharan Africa, only the units in Ivoiry coast and Madagascar hav a parent's house, projects are underway for other services : 
+      Sometimes families decide to return to the village but many have neither the courage nor the means to go back to the hospital. Many children are said to be "lost to sight".
+      These "Parents Home" are designed to receive these children and a member of their family throughout the treatment, thus limiting the drop-outs during treatment and offering a real improvement in living conditions for families.
+      In Sub-Saharan Africa, only the units in Ivoiry Coast and Madagascar have a parent's house, projects are underway for other services :
       Togo, Mali, Centrafrique and Congo.
       <br/>
-      Projets soutenus par le Crédit Foncier, La Fondation EDF
+      Projects backed up by Le Crédit Foncier, EDF Foundation
     </div>
   </div>
   <div class="row py-2 text-center">
@@ -55,7 +55,7 @@
     <div class="col-12 col-md-9 text-justify">
       <h3 class="mx-auto py-1 text-center">Support fund for the most deprived</h3>
       <p class="mx-auto py-1">
-        Arriving at the hospital is already a feat for many families, having to pay some mediacal exams is often impossible because most do not have social security coverage often because of non free access hospitals in Africa. A support fund for the most deprived has thus been set up in Mali and Ivoiry Coast in order to materially assist the families and start the treatment as soon as possible in order to give the children a better chance of recovery.
+        Arriving at the hospital is already a feat for many families. Having to pay some medical exams is often impossible because most do not have social security coverage often because of non-free access hospitals in Africa. A support fund for the most deprived has thus been set up in Mali and Ivoiry Coast in order to materially assist the families and start the treatment as soon as possible in order to give children a better chance of recovery.
       </p>
     </div>
   </div>
@@ -63,13 +63,13 @@
     <div class="col-12">
       <h3 class="mx-auto py-1">AIDAF Program</h3>
       <p class="mx-auto py-1">
-        <b>A book to improve information for famillies : "Announcing the diagnosis in African pediatric oncology unit"</b>
+        <b>A book to improve information for families : "Announcing the diagnosis in African pediatric oncology unit"</b>
       </p>
     </div>
   </div>
   <div class="row">
     <div class="col-12 col-md-3 text-center">
-      <img src="../images/aidaf.png" class="borderless rounded img-thumbnail" width="200" alt="livre pour l’annonce du diagnostic" >
+      <img src="../images/aidaf.png" class="borderless rounded img-thumbnail" width="200" alt="Book about announcing diagnosis to families" >
     </div>
     <div class="col-12 col-md-9 text-justify">
       The time of the diagnosis is extremely difficult for families, and it is also difficult for doctors to announce it.

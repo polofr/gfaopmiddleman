@@ -1,7 +1,7 @@
 <?php include '../partial/_en_header.html';?>
 <title>GFAOP</title>
 <meta name="title" content="Gfaop">
-<meta name="description" content="French-Africain oncology pediatric group : cure child cancer in Africa">
+<meta name="description" content="French-African oncology pediatric group : cure child cancer in Africa">
 <meta name="keywords" content="training, clinical research, drugs, child cancer, oncology, Africa">
 <?php include '../partial/_en_navbar.html';?>
 
@@ -45,7 +45,7 @@
   </div>
 </div>
 <div class="container">
-  <h2 class="text-center py-4" style="color: #f96634;">ACTUALITES</h2>
+  <h2 class="text-center py-4" style="color: #f96634;">NEWS</h2>
   <div class="row">
 <?php
 // Redirection depuis un proxy aux us hébérgé chez heroku pour contourner la RGPD

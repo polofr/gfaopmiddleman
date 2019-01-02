@@ -89,7 +89,7 @@
       <a href="http://www.les111desarts.org/">
         <img src="images/logo111.jpg" class="borderless rounded img-thumbnail" width="110" alt="les 111 des Arts" >
       </a>
-      <h5>“les 111 des Arts”</h5>
+      <h5>Les 111 des Arts</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.ordredemaltefrance.org/">

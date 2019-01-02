@@ -1,8 +1,8 @@
 <?php include '../partial/_en_header.html';?>
 <title>GFAOP's partners</title>
 <meta name="title" content="GFAOP's partners">
-<meta name="description" content="All our partners : Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE...">
-<meta name="keywords" content="GFAOP, Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Fondation Lalla Salma, ALIAM, UICC, UNAPECLE, SFCE">
+<meta name="description" content="All our partners : Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Lalla Salma Foundation, ALIAM, UICC, UNAPECLE, SFCE...">
+<meta name="keywords" content="GFAOP, Gustave Roussy, Institut Curie, Foundation Sanofi, Expertise France, Lalla Salma Foundation, ALIAM, UICC, UNAPECLE, SFCE">
 <?php include '../partial/_en_navbar.html';?>
 
 <div class="container cream rounded">
@@ -63,7 +63,7 @@
       <a href="http://www.contrelecancer.ma/fr/">
         <img src="../images/logolalla.jpg" class="borderless rounded img-thumbnail" width="300" alt="Lalla Salma foundation" >
       </a>
-      <h5>Fondation Lalla Salma</h5>
+      <h5>Lalla Salma Foundation</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="https://www.bms.com/about-us/responsibility/bristol-myers-squibb-foundation.html">
@@ -87,7 +87,7 @@
       <a href="http://www.les111desarts.org/">
         <img src="../images/logo111.jpg" class="borderless rounded img-thumbnail" width="110" alt="les 111 des Arts" >
       </a>
-      <h5>“les 111 des Arts”</h5>
+      <h5>Les 111 des Arts</h5>
     </div>
     <div class="col-md-2 text-center">
       <a href="http://www.ordredemaltefrance.org/">
