@@ -44,7 +44,7 @@
       These "Parents Home" are designed to receive these children and a member of their family throughout the treatment, thus limiting the drop-outs during treatment and offering a real improvement in living conditions for families.
       In Sub-Saharan Africa, only the units in Ivoiry Coast and Madagascar have a parent's house, projects are underway for other services :
       Togo, Mali, Centrafrique and Congo.
-      <br/>
+      <br>
       Projects backed up by Le Crédit Foncier, EDF Foundation
     </div>
   </div>
@@ -73,10 +73,10 @@
     </div>
     <div class="col-12 col-md-9 text-justify">
       The time of the diagnosis is extremely difficult for families, and it is also difficult for doctors to announce it.
-      <br/> 
+      <br>
       Despite this, the announcement of a cancer diagnosis must be considered as a strategic moment, which can clearly influence further treatments. 
       This assertion is even more true for African pediatric oncology units, where socio-economic and cultural specificities mean that one in four families abandon the current treatment. As a result, it is necessary to realize that the parent met to announce the diagnosis of cancer is likely to desert with his sick child. Beyond economic reasons, these drop-outs are linked to ignorance of the disease and treatment or to the influence of local beliefs. 
-      <br/>
+      <br>
       An announcement guide has been produced, followed by scenario films for the personnel of the pilot units and the families.
     </div>
   </div>

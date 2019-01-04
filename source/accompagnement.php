@@ -41,7 +41,7 @@
       Ces « Maisons d’accueil des Parents » sont faites pour recevoir ces enfants et un membre de leur famille pendant toute la durée du traitement, permettant ainsi de limiter les abandons en cours de traitement et d’offrir une réelle amélioration des conditions de vie des familles.
       En Afrique Sub-saharienne, seules les Unités Pilotes de Côte d’Ivoire et de Madagascar disposent d’une maison des parents. Des projets sont en cours pour d’autres pays : 
       Togo, Mali, Centrafrique et Congo Kinshasa.
-      <br/>
+      <br>
       Projets soutenus par le Crédit Foncier, La Fondation EDF
     </div>
   </div>
