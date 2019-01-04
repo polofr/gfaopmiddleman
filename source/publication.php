@@ -30,8 +30,8 @@
         </h5>
         <h5 class="font-italic" >"Epidemiology and prognosis of childhood cancers at Gabriel-Touré Teaching Hospital (Bamako, Mali)"
         </h5>
-        <h6>Togo B.&sup1;, Traoré F.&sup1;, Togo A.P.&sup1;, Togo P.&sup1;, Diakité A.A.&sup1;, Traoré B.&sup1;, Touré A.&sup1;, Coulibaly Y.&sup1;, Traoré C.B.&sup2;, Fenneteau O.&sup3;, Sylla F.&sup4;, Dumke H.&sup5;, Diallo M.&sup1;, Diallo G.&sup1;, Sidibé T.&sup1;</h6>
-        <h6>&sup1;CHU Gabriel-Touré, BP 267, Bamako, Mali; &sup2; Anatomopathologie, CHU Point G, Bamako, Mali; &sup3; Hématologie-biologie, hôpital Robert-Debré, Paris; &sup4; Ophtalmologie, institut d’ophtalmologie tropicale d’Afrique, Bamako, Mali; &sup5;Anatomopathologie, université Munster, Munster, Germany </h6>
+        <h6>Togo B.&sup1;, Traoré F.&sup1;, Togo A.P.&sup1;, Togo P.&sup1;, Diakité A.A.&sup1;, Traoré B.&sup1;, Touré A.&sup1;, Coulibaly Y.&sup1;, Traoré C.B.&sup2;, Fenneteau O.&sup3;, Sylla F.<sup>4</sup>, Dumke H.<sup>5</sup>, Diallo M.&sup1;, Diallo G.&sup1;, Sidibé T.&sup1;</h6>
+        <h6>&sup1;CHU Gabriel-Touré, BP 267, Bamako, Mali; &sup2;Anatomopathologie, CHU Point G, Bamako, Mali; &sup3;Hématologie-biologie, Hôpital Robert-Debré, Paris; <sup>4</sup>Ophtalmologie, Institut d’ophtalmologie tropicale d’Afrique, Bamako, Mali; <sup>5</sup>Anatomopathologie, Université Munster, Munster, Germany </h6>
       </div>
     </div>
     <div class="col-12 col-md-4">
