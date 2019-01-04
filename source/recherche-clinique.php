@@ -11,7 +11,7 @@
 <div class="container">
   <div class="row mx-auto text-justify py-3">
     Le GFAOP a démontré que, même en Afrique, on pouvait faire de la recherche clinique de manière prospective et multicentrique. 5 comités de tumeurs, un pour chaque type de cancer pris en charge, gèrent les études cliniques et les adaptations des protocoles de soin.
-    Des attachés de recherche clinique (ARC) collectent les données qui sont analysées et centralisées à Gustave Roussy.
+    Des Data Managers collectent les données qui sont analysées et centralisées à Gustave Roussy.
   </div>
   <div class="row mx-auto text-justify py-3">
     Ce programme de recherche médicale a aussi pour objectif l’amélioration des connaissances sur les cancers pédiatriques en Afrique francophone: incidence observée des cancers pédiatriques dans les unités pilotes, comorbidités, faisabilité des traitements en particulier leur tolérance, efficacité des traitements (taux de survie, causes de rechutes, cause de décès, raisons de non compliance aux traitements, etc).

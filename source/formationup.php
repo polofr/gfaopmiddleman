@@ -99,7 +99,7 @@
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3tSxw5DW-Fw"></iframe>
   </div>  
   <div class="row">
-    <a class="btn btncrowd mx-auto m-4 p-2" href="https://formation.gustaveroussy.fr/shop/gfaop--cours-en-ligne-arc" role="button">Vous inscrire</a>  
+    <a class="btn btncrowd mx-auto m-4 p-2" href="http://e-gfaop.org/" role="button">Vous inscrire</a>
   </div>
   <div class="d-flex justify-content-center">
     <div class="p-2">
