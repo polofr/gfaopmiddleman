@@ -18,7 +18,7 @@
     Ainsi, en complément à la formation des pédiatres oncologues et d’autres médecins spécialistes (chirurgiens, anatomopathologistes, ophtalmologistes, radiothérapeutes, pharmaciens…), des infirmiers bénéficient également de formations liées à l’oncologie pédiatrique. Une formation pluridisciplinaire devrait également voir le jour favorisant ainsi le travail en équipe.
     Le développement du E-learning en complément à la formation présentielle est en développement.
   </div>
-  <div class="row text-justify cream rounded">
+  <div id="ducp-maroc" class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
       <img src="images/promotion_ducp_1.jpg" class="borderless rounded img-thumbnail" width="600" alt="promotion DUCP" >
     </div>
@@ -28,7 +28,7 @@
       Un programme soutenu par un projet « My Child Matters » de la Fondation Sanofi Espoir.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="diuop-france" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/Ndella_Diouf_et_Guy_Leverger.jpeg" class="borderless rounded img-thumbnail" width="300" alt="Ndella Diouf et Guy Leverger" >
     </div>
@@ -41,7 +41,7 @@
   <div class="col-md-3 col-12 text-center">
     <img src="images/formation_infimier.jpg" class="borderless rounded img-thumbnail" width="600" alt="2 infirmiers" >
   </div>
-  <div class="col-md-9 col-12 py-3">
+  <div id="formation-infirmiere" class="col-md-9 col-12 py-3">
     <h3>• La formation infirmière</h3>
       Si depuis 18 ans des formations ont bénéficié à 85 infirmiers de 13 pays, ces formations restent néanmoins insuffisantes en nombre et en qualité.
       Des progrès très significatifs ont eu lieu dans le traitement des cancers pédiatriques mais les soins infirmiers restent un point faible dans la prise en charge des enfants.
@@ -62,28 +62,28 @@
       Dans le cadre du projet de développement du GFAOP à 5 et 10 ans, nous estimons le besoin de former au moins 50 infirmièr(e)s par an pour les unités pilotes du Maghreb et d’Afrique.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="formation-douleur-et-soins-palliatifs" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/conference_douleur_et_soins.jpg" class="borderless rounded img-thumbnail" width="300" alt="conference douleur et soins" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>Les formations "Douleur et Soins palliatifs"</h3>
+      <h3>La formation "Douleur et Soins palliatifs"</h3>
       Grâce aux progrès thérapeutiques au cours des ces dernières années, les enfants guérissent du cancer.
       En parallèle, les soins de support se sont développés pour améliorer la prise en charge des symptômes, en particulier la douleur, pour toutes les phases du traitement.
       Il est important d'apporter ces pratiques en Afrique où la douleur reste peu prise en charge.
       La Fondation Sanofi Espoir à travers le programme "My Child Matters" soutient ce projet sur 3 ans.
     </div>
   </div>
-  <div class="row text-justify cream rounded">
+  <div id="formation-diagnostic-precoce" class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
       <img src="images/formation_personnel_de_sante.jpg" class="borderless rounded img-thumbnail" width="300" alt="personnel de santé en formation" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>Formation des personnels de santé pour le diagnostic précoce</h3>
+      <h3>La formation des personnels de santé pour le diagnostic précoce</h3>
       Afin de permettre l’arrivée des enfants suffisamment tôt dans les services d’oncologie pédiatrique, des personnels de santé sont formés pour relayer l’information auprès des centres de santé en ville et dans les zones reculées.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="formation-personel-de-sante" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/session_de_formation_op.jpg" class="borderless rounded img-thumbnail" width="600" alt="formation oncologie" >
     </div>
@@ -92,7 +92,7 @@
       Destinées à accroitre les capacités de formation du GFAOP, elles ont pour vocation de former chaque année 20 à 30 praticiens pour des spécialités diverses (pédiatrie, chirurgie, anatomopathologie, radiothérapie, soins infirmiers, pharmacie…) mais aussi de proposer un travail pluridisciplinaire indispensable à la bonne prise en main de la pathologie.
     </div>
   </div>
-  <div class="row text-justify cream rounded">
+  <div id="stages" class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
       <img src="images/pierre_et_jean_michon_au_togo.jpg" class="borderless rounded img-thumbnail" alt="Pierre et Jean Michon au Togo" >
     </div>
@@ -102,7 +102,7 @@
       Toutes les disciplines médicales et paramédicales sont concernées.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="formations-collegiales" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/formation_collegiale.jpg" class="borderless rounded img-thumbnail" width="600" alt="la promotion attentive pendant les cours" >
     </div>
@@ -112,7 +112,7 @@
       Elles constituent un temps fort de formation par les échanges d’expériences qu’elles permettent.
     </div>
   </div>
-  <div class="row text-justify cream rounded">
+  <div id="formation-responsable-up" class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
       <img src="images/mission_formation.jpg" class="borderless rounded img-thumbnail" width="300" alt="lecture d'une radiographie en formation" >
     </div>
@@ -121,7 +121,7 @@
       Le GFAOP aide les responsables d’Unités Pilotes à acquérir les titres universitaires de 3ème cycle tels que le doctorat ès-sciences ou l’agrégation de médecine leur permettant d’évoluer dans la hiérarchie de leurs établissements. Une évolution vers les hauts niveaux de l’administration hospitalière africaine constitue un gage de promotion de l’oncologie pédiatrique africaine.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="formation-ouverture-up" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/ouverture_unite_pilote_niger.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation" >
     </div>
@@ -130,7 +130,7 @@
       Après acceptation en AG de la création d’une nouvelle unité, décentralisée en région ou dans un nouveau pays, une formation en binôme médecin/infirmier sur les bonnes pratiques est organisée en France.
     </div>
   </div>
-  <div class="row text-justify cream rounded">
+  <div id="formation-up" class="row text-justify cream rounded">
     <div class="col-md-3 col-12 text-center">
       <img src="images/formation_infirmier.jpg" class="borderless rounded img-thumbnail" width="300" alt="les responsables d’Unités Pilotes en formation TODO" >
     </div>
@@ -139,12 +139,12 @@
       Des membres du GFAOP se rendent régulièrement dans les unités afin de travailler avec les équipes.
     </div>
   </div>
-  <div class="row text-justify">
+  <div id="formation-data-manager" class="row text-justify">
     <div class="col-md-3 col-12 text-center">
       <img src="images/formation_data_manager.jpg" class="borderless rounded img-thumbnail" width="300" alt="formation data managers" >
     </div>
     <div class="col-md-9 col-12 py-3">
-      <h3>• Formation des Data Managers</h3>
+      <h3>• La formation des Data Managers</h3>
       Dans le cadre de la mise en place du registre du cancer, la formation du personnel pour la collecte et l’envoi des donnnées permet de réaliser les études cliniques.
       <a href="https://formation.gustaveroussy.fr/shop/gfaop--cours-en-ligne-arc">Pour vous inscrire.</a>
     </div>
