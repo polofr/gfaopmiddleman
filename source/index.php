@@ -17,7 +17,7 @@
         <h2>NOS ACTIONS</h2>
       </div>
       <div class="col-sm-3">
-        <a href="./formation.php"><img src="images/formation.png" width="60" alt="les formations" ></a>
+        <a href="./formations.php"><img src="images/formation.png" width="60" alt="les formations" ></a>
       </div>
       <div class="col-sm-3">
         <a href="./recherche-clinique.php"><img src="images/recherche.png" width="50" alt="la recherche"></a>
