@@ -82,7 +82,7 @@
      <div class="col-12 col-md-8 p-3">
       <h3><b>Claude Moreira (Responsable de l’unité de Dakar - Cofondateur du GFAOP)</b></h3>
       <p><em>
-        « La prise en charge des enfants atteints d’un cancer en Afrique constitue un excellent modèle pour le développement de la cancérologie dans son ensemble. A ce titre un fond mondial dédié permettrait de mettre en place une base solide de développement.
+        « La prise en charge des enfants atteints d’un cancer en Afrique constitue un excellent modèle pour le développement de la cancérologie dans son ensemble. À ce titre un fond mondial dédié permettrait de mettre en place une base solide de développement.
         En attendant le même message s’adresse aux décideurs politiques nationaux.
         - Les cancers des enfants se guérissent effectivement en Afrique
         - Il est moins coûteux de soigner un enfant atteint d'un cancer en Afrique

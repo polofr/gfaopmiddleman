@@ -46,7 +46,7 @@
       Si depuis 18 ans des formations ont bénéficié à 85 infirmiers de 13 pays, ces formations restent néanmoins insuffisantes en nombre et en qualité.
       Des progrès très significatifs ont eu lieu dans le traitement des cancers pédiatriques mais les soins infirmiers restent un point faible dans la prise en charge des enfants.
       Or, ils sont pourtant essentiels pour la mise en œuvre et le suivi rigoureux des traitements.
-      A partir de 2014, afin de répondre à l’attente forte qui émanait des différentes unités d’oncologie pédiatrique désireuses de mieux former les infirmières et de les maintenir en poste,
+      À partir de 2014, afin de répondre à l’attente forte qui émanait des différentes unités d’oncologie pédiatrique désireuses de mieux former les infirmières et de les maintenir en poste,
       une accélération du processus de formation infirmier a été mise en place avec :
       <ul>
         <li>Une formation théorique et généraliste dans le cadre de l’Ecole Africaine d’Oncologie Pédiatrique sur « les fondamentaux en cancérologie »
