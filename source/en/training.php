@@ -1,6 +1,6 @@
 <?php include '../partial/_en_header.html';?>
-<title>Training</title>
-<meta name="title" content="Training">
+<title>Trainings</title>
+<meta name="title" content="Trainings">
 <meta name="description" content="GFAOP's mission : train African doctors and nurses">
 <meta name="keywords" content="GFAOP's mission, training, doctors, nurses, onco-pediatrics, surgeons, anatomopathologist, Africa">
 <?php include '../partial/_en_navbar.html';?>
